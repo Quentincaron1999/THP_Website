@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Zen-Its Sans';
+	src: url(../../assets/fonts/Zen-Its-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/Zen-Its-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

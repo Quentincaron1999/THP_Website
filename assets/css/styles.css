@@ -1,0 +1,254 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000!important;
+  opacity: 0.9;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 13px;
+}
+
+.navbar-dark .navbar-nav .nav-link .apple-logo {
+  font-size: 21px;
+  line-height: 0;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.tile-home {
+  padding-top: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 576px) {
+  .tile-home {
+    padding-top: 100px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.tile-home h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+@media (min-width: 576px) {
+  .tile-home h1 {
+    font-size: 56px;
+    font-weight: bold;
+  }
+}
+
+.tile-home h2 {
+  font-size: 21px;
+  font-weight: 400;
+}
+
+@media (min-width: 576px) {
+  .tile-home h2 {
+    font-size: 27px;
+    font-weight: 400;
+  }
+}
+
+.tile-home .links {
+  font-size: 21px;
+  margin-bottom: 50px;
+}
+
+@media (min-width: 576px) {
+  .tile-home .links {
+    font-size: 21px;
+    margin-bottom: 80px;
+  }
+}
+
+.product-small .links {
+  font-size: 17px;
+  margin-bottom: 80px;
+}
+
+.tile-home .links .learn-more {
+  margin-right: 20px;
+}
+
+.product-small .links .learn-more {
+  margin-right: 20px;
+}
+
+.tile-home.macbook-pro {
+  background-color: #131218;
+  padding-bottom: 50px;
+}
+
+@media (min-width: 576px) {
+  .product.macbook-pro {
+    padding-bottom: 0;
+  }
+}
+
+.product.dark {
+  color: #fff;
+}
+
+.product-small.dark {
+  color: #fff;
+}
+
+.product.dark a {
+  color: #fff;
+}
+
+.product-small.dark a {
+  color: #fff;
+}
+
+.tile-home .links.small-link-margin {
+  margin-bottom: 0;
+}
+
+.product-small .links.small-link-margin {
+  margin-bottom: 10px;
+}
+
+.product-small {
+  height: 550px;
+  padding-top: 40px;
+  margin: 0 0 10px 0;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 576px) {
+  .product-small {
+    margin: 0 0 10px 10px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.product-small h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.product-small h4 {
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.product-small.behind-the-mac.dark {
+  padding-top: 420px;
+}
+
+.products-grid {
+  padding-right: 0;
+}
+
+@media (min-width: 576px) {
+  .products-grid {
+    padding-right: 10px;
+  }
+}
+
+.product-small.iphone-8 {
+  background-color: #f9f0eb;
+  margin-right: 6px;
+}
+
+.product-small.air-pods {
+  background-color: #fafafa;
+}
+
+.product-small.apple-watch {
+  background-color: #eeeeee;
+}
+
+.product-small h5 {
+  color: #ce2626;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+  width: 100%;
+}
+
+#nav-bar-logo {
+  width: 24px;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+  /*color: #276746;*/
+}
+
+.h1, h1 {
+  font-size: 2.5rem;
+  top: 13%;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  /*top: 11%;*/
+}
+
+.nav-link {
+  display: block;
+  padding: .5rem 1rem;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  /*box-shadow: 0 0 0 .2rem rgba(38,143,255,.5);*/
+}
+
+.btn-group > .btn-group:not(:last-child) > .btn, .btn-group > .btn:not(:last-child):not(.dropdown-toggle) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0F5530;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0F5530;
+  box-shadow: 0 0 0 .2rem rgba(38,143,255,.5);
+}
+
