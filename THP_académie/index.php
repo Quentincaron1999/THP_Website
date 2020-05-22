@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="max-width: 100%;margin-top: 0px;">
+<html>
 
 <head>
     <?php include("components/head.php")?>
@@ -7,11 +7,15 @@
 
 <body style="font-family: 'Zen-Its Sans';">
 
-<?php include("components/navbar.php")?>
+    <?php include("components/navbar.php")?>
 
+    <div style="width: 100%; height: 128%;position: relative;
+    overflow: hidden;" class="embed-responsive-16by9 embed-responsive">
+        <iframe class="d-flex d-lg-flex d-xl-flex align-self-center m-auto mt-lg-auto justify-content-xl-center align-items-xl-center" allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/bk4aubRIL-4?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=bk4aubRIL-4&amp;controls=0"
+            style="width: 100%;height: 100%;margin: 0px;margin-top: 0px;padding: 0px;">
+        </iframe>
+    </div>
 
-<iframe class="d-flex d-lg-flex d-xl-flex align-self-center m-auto mt-lg-auto justify-content-xl-center align-items-xl-center" allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/bk4aubRIL-4?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=bk4aubRIL-4&amp;controls=0"
-        style="width: 100%;height: 126%;margin: 0px;margin-top: 0px;padding: 0px;"></iframe>
     <h3 class="display-1 text-center" style="font-family: 'Zen-Its Sans';width: 100%;height: 78px;margin-top: -32%;margin-bottom: 28%;color: rgb(255,255,255);font-size: 61px;"><img src="assets/img/1zYER3WQ.png" style="height: 258px;width: 756px;margin-top: -145px;"></h3>
     <div>
         <div class="container">
