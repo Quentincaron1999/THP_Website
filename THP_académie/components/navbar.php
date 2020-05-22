@@ -33,8 +33,8 @@
         <div class="collapse navbar-collapse" id="navcol-1">
             <ul class="nav navbar-nav flex-grow-1 justify-content-between" style="width: 90%;">
                 <li class="nav-item" role="presentation"><a class="nav-link" href="index.php" style="padding: 0px;"></a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link" href="index.php"><img style="background-image: url(&quot;assets/img/1zYER3WQ.png&quot;);height: 46px;width: 116px;margin-top: -5px;" src="assets/img/1zYER3WQ.png"></a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU" style="margin-top: 8px;">S'inscrire</a></li>
+                <li class="nav-item" role="presentation"><a class="nav-link" href="index.php"><img style="background-image: url(&quot;assets/img/1zYER3WQ.png&quot;);height: 100% ;width: 130px;margin-top: -5px;" src="assets/img/1zYER3WQ.png"></a></li>
+                <!--<li class="nav-item" role="presentation"><a class="nav-link" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU" style="margin-top: 8px;">S'inscrire</a></li>-->
                 <li class="nav-item" role="presentation">
                     <div class="nav-item dropdown" style="margin-top: 12px;"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#" style="width: 13px;min-height: 0px;height: -46px;color: rgb(255,255,255);font-size: 13px;">Programme</a>
                         <div class="dropdown-menu" role="menu" style="background-color: #276746;">

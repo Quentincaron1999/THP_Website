@@ -25,7 +25,7 @@
                             <h1 style="color: rgb(255,255,255);margin-left: 6%;margin-bottom: 9px;">Session d'automne 2020</h1>
                             <p style="color: rgb(255,255,255);margin-left: 7%;letter-spacing: 0px;font-weight: bold;">Du 6 au 8 novembre</p>
                             <div class="btn-group" role="group" style="margin-left: 30%;"><a class="btn btn-primary border rounded border-light shadow-sm" role="button" style="background-color: #276746;" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU"
-                                    target="_blank">S'inscrire</a><a class="btn btn-primary border rounded border-light shadow-sm" role="button" style="margin-left: 21%;height: 38px;background-color: #276746;" href="Session%20Automne.html">Programme</a></div>
+                                    target="_blank">S'inscrire</a><a class="btn btn-primary border rounded border-light shadow-sm" role="button" style="margin-left: 21%;height: 38px;background-color: #276746;" href="Session%20Automne.php">Programme</a></div>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@
                             <h1 style="color: rgb(255,255,255);margin-left: 6%;margin-top: 0px;">Session de printemps 2021</h1>
                             <p style="color: rgb(255,255,255);margin-left: 7%;font-weight: bold;">Du 19 au 21 mars</p>
                             <div class="btn-group" role="group" style="margin-left: 30%;"><a class="btn btn-primary border rounded border-light shadow-sm" role="button" style="background-color: #276746;" href="http://thpacademielestagedetraildu19au21mars2021.ikinoa.com/" target="_blank">S'inscrire</a><a class="btn btn-primary border-light shadow-sm"
-                                    role="button" style="margin-left: 21%;height: 38px;background-color: #276746;" href="Session Primtemps.html">Programme</a></div>
+                                    role="button" style="margin-left: 21%;height: 38px;background-color: #276746;" href="Session Primtemps.php">Programme</a></div>
                         </div>
                     </div>
                 </div>

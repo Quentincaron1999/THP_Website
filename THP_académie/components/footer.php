@@ -30,18 +30,18 @@
                 </div>
                 <div class="d-inline-block legal-links" style="margin-left: 93px;">
                     <div class="d-inline-block item">
-                        <a href="legal.html">
+                        <a href="legal.php">
                             <h5 style="color: rgb(255,255,255);">Mentions Légales</h5>
                         </a>
                     </div>
-                    <div class="d-inline-block item"><a href="cgu.html"></a></div>
+                    <div class="d-inline-block item"><a href="cgu.php"></a></div>
                     <div class="d-inline-block item">
-                        <a href="cgu.html">
+                        <a href="cgu.php">
                             <h5 style="color: rgb(255,255,255);margin-left: -25px;">Conditions Générales de Ventes</h5>
                         </a>
                     </div>
                     <div class="d-inline-block item" style="color: rgb(255,255,255);">
-                        <a href="contact.html">
+                        <a href="contact.php">
                             <h5>Contact&nbsp;</h5>
                         </a>
                     </div>
