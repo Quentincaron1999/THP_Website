@@ -2,49 +2,12 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Thpacademie</title>
-    <meta property="og:type" content="">
-    <link rel="icon" type="image/png" sizes="1110x1114" href="assets/img/u2rGdrLw.png">
-    <link rel="icon" type="image/png" sizes="1110x1114" href="assets/img/u2rGdrLw.png">
-    <link rel="icon" type="image/png" sizes="1110x1114" href="assets/img/u2rGdrLw.png">
-    <link rel="icon" type="image/png" sizes="1110x1114" href="assets/img/u2rGdrLw.png">
-    <link rel="icon" type="image/png" sizes="1110x1114" href="assets/img/u2rGdrLw.png">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
-    <link rel="stylesheet" href="assets/css/Zen-Its%20Sans.css">
-    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">
-    <link rel="stylesheet" href="assets/css/Article-Cards.css">
-    <link rel="stylesheet" href="assets/css/Dark-footer-with-social-media-icons.css">
-    <link rel="stylesheet" href="assets/css/footer.css">
-    <link rel="stylesheet" href="assets/css/gradient-navbar-1.css">
-    <link rel="stylesheet" href="assets/css/gradient-navbar.css">
-    <link rel="stylesheet" href="assets/css/Header-Dark.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
-    <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
-    <link rel="stylesheet" href="assets/css/login-register.css">
-    <link rel="stylesheet" href="assets/css/Map-Clean.css">
-    <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
-    <link rel="stylesheet" href="assets/css/News-Cards.css">
-    <link rel="stylesheet" href="assets/css/side-menu.css">
-    <link rel="stylesheet" href="assets/css/sidebar-1.css">
-    <link rel="stylesheet" href="assets/css/SIdebar-Responsive-2-1.css">
-    <link rel="stylesheet" href="assets/css/SIdebar-Responsive-2.css">
-    <link rel="stylesheet" href="assets/css/sidebar.css">
-    <link rel="stylesheet" href="assets/css/Social-Icon-Circle.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/Swiper-Slider-Card-For-Blog-Or-Product-1.css">
-    <link rel="stylesheet" href="assets/css/Swiper-Slider-Card-For-Blog-Or-Product.css">
-    <link rel="stylesheet" href="assets/css/tabela-mloureiro1973.css">
-    <link rel="stylesheet" href="assets/css/Testimonials.css">
+    
 </head>
 
 <body>
     <?php include("components/navbar.php")?>
+
     <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure260804142210_©FH_HD.jpg" style="background-image: url(&quot;assets/img/Lure260804142210_©FH_HD.jpg&quot;);background-position: center;"></div>
     <nav class="navbar navbar-light navbar-expand sticky-top text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
         id="nav-inner" style="background-color: #276746;">

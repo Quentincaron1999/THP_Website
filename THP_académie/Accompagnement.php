@@ -88,7 +88,7 @@
                                 plan d’entraînement personnalisé.</p>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Comme chacun.e d’entre nous possède des clés de motivation différentes, nous vous proposons deux types d’approches pour élaborer votre plan d’entraînement personnalisé.</p>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Partez à la découverte de Julien et de Lucie et choisissez la méthode qui vous convient le mieux pour personnaliser votre entraînement. Tous les 2 auront besoin de certaines informations pour bien vous accompagner. Merci de
-                                bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold;">ICI</a>&nbsp;(Questionaire en cours d'élaboration)<br><br></p>
+                                bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold;" target="_blank">ICI</a>&nbsp;(Questionaire en cours d'élaboration)<br><br></p>
                         </section>
                         <section style="margin-top: 6%;">
                             <h1 id="Dates" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Les offres</h1>
