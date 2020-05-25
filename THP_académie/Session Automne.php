@@ -257,7 +257,7 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
     <script src="assets/js/script.min.js"></script>
-    <script>
+   <!-- <script>
         if ($(window).width() > 992) {
         $(window).scroll(function(){  
         if ($(this).scrollTop() > 40) {
@@ -271,7 +271,7 @@
       }   
   });
 } // end if
-</script>
+</script>-->
 </body>
 
 </html>
