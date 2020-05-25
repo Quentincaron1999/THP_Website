@@ -18,7 +18,7 @@
                     <li class="nav-item" role="presentation"><a class="nav-link active" href="#Details" style="color: rgb(255,255,255);">En bref</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Media" style="color: rgb(255,255,255);">Yoga</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Programme" style="color: rgb(255,255,255);">Nutrition</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Plan d'entraînement ersonnalisé</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Plan d'entraînement Personnalisé</a></li>
                 </ul>
         </div>
         </div>
@@ -36,9 +36,9 @@
                         <section style="margin-top: 6%;">
                             <h1 id="Media" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Yoga</h1>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Nous avons décidé d’intégrer des séances de yoga dans la THP académie car nous croyons aux biens faits que cette discipline peut apporter dans la pratique du trail.</p>
-                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">C’est une source d’apaisement, de renforcement et d’assouplissement qui permet àl’organisme de repousser ses limites plus loin dans le respect de son intégrité.</p>
-                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Nous travaillons sur le développement de partenariats avec des professionnels du Yoga afind’enrichir chacune des sessions de stage.</p>
-                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Nous vous invitons à consulter régulièrement notre site internet pour être informé.e desdernières évolutions.<br><br></p>
+                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">C’est une source d’apaisement, de renforcement et d’assouplissement qui permet à l’organisme de repousser ses limites plus loin dans le respect de son intégrité.</p>
+                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Nous travaillons sur le développement de partenariats avec des professionnels du Yoga afin d’enrichir chacune des sessions de stage.</p>
+                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Nous vous invitons à consulter régulièrement notre site internet pour être informé.e des dernières évolutions.<br><br></p>
                             <div class="carousel slide" data-ride="carousel" id="carousel-2">
                                 <div class="carousel-inner" role="listbox">
                                     <div class="carousel-item active"><img class="w-100 d-block" src="assets/img/simon-migaj-Yui5vfKHuzs-unsplash.jpg" alt="Slide Image"></div>
@@ -83,12 +83,12 @@
                             <p class="text-justify"
                                 style="margin-right: 2%;margin-left: 0%;">Les stages de la THP académie combinent la préparation physique, la préparation technique, l’approche de la nutrition pour le trail et la découverte des sentiers du THP.</p>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Vous apprendrez également les techniques de course qui vous permettront de progresser en trail et aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, que ça soit l’entraînement,
-                                la gestion del ’effort ou la récupération.</p>
-                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Avec la THP académie, vous allez apprendre à mieux vous entraîne.<br>Pour celles et ceux qui souhaitent aller plus loin dans leur entraînement pour un objectif précis, nous avons pensé que vous pourriez être intéressé par un
+                                la gestion de l’effort ou la récupération.</p>
+                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Avec la THP académie, vous allez apprendre à mieux vous entraîner.<br>Pour celles et ceux qui souhaitent aller plus loin dans leur entraînement pour un objectif précis, nous avons pensé que vous pourriez être intéressé par un
                                 plan d’entraînement personnalisé.</p>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Comme chacun.e d’entre nous possède des clés de motivation différentes, nous vous proposons deux types d’approches pour élaborer votre plan d’entraînement personnalisé.</p>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Partez à la découverte de Julien et de Lucie et choisissez la méthode qui vous convient le mieux pour personnaliser votre entraînement. Tous les 2 auront besoin de certaines informations pour bien vous accompagner. Merci de
-                                bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold;" target="_blank">ICI</a>&nbsp;(Questionaire en cours d'élaboration)<br><br></p>
+                                bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold;" target="_blank">ICI</a><br><br></p>
                         </section>
                         <section style="margin-top: 6%;">
                             <h1 id="Dates" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Les offres</h1>
@@ -157,20 +157,7 @@
     <div class="col">
         <div><iframe allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/2n_4TSDbvso?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=2n_4TSDbvso&amp;controls=0" width="1920" height="1080" style="width: 99%;max-width: 100%;max-height: 262px;"></iframe></div>
         <div>
-            <div class="carousel slide" data-ride="carousel" id="carousel-1">
-                <div class="carousel-inner" role="listbox">
-                    <div class="carousel-item active"><img class="w-100 d-block" src="assets/img/wyJkcs0A.jpeg" alt="Slide Image"></div>
-                    <div class="carousel-item"><img class="w-100 d-block" src="assets/img/49837007552_77a1e256ca_o.jpg" alt="Slide Image"></div>
-                    <div class="carousel-item"><img class="w-100 d-block" src="assets/img/pzRodxc5.jpg" alt="Slide Image"></div>
-                </div>
-                <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-slide="prev"><span class="carousel-control-prev-icon"></span><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button"
-                        data-slide="next"><span class="carousel-control-next-icon"></span><span class="sr-only">Next</span></a></div>
-                <ol class="carousel-indicators">
-                    <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
-                    <li data-target="#carousel-1" data-slide-to="1"></li>
-                    <li data-target="#carousel-1" data-slide-to="2"></li>
-                </ol>
-            </div>
+            <?php include("components/carousel_session.php")?>
         </div>
     </div>
     </div>

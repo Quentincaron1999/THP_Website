@@ -10,7 +10,7 @@
 
     <section class="tile-home ipad" style="background-image: url(&quot;assets/img/Lure.jpg&quot;);min-width: 0px;height: 379px;background-repeat: no-repeat;background-size: cover;">
         <h1 style="margin-top: -44px;margin-bottom: 13px;color: rgb(255,255,255);">Mentions Légale</h1>
-        <h2 style="font-size: 32px;color: rgb(255,255,255);">pour etre bien protégé</h2>
+        <!--<h2 style="font-size: 32px;color: rgb(255,255,255);">pour etre bien protégé</h2>-->
     </section>
     <div class="row no-gutters products-grid">
         <div class="col-md-6">

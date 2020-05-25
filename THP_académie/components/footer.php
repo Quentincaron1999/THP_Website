@@ -17,11 +17,23 @@
                 <div class="col-6 col-md-3" style="height: 100%;">
                     <h4 style="font-size: 17px;">Suivez-nous</h4>
                     <ul class="footer-links">
-                        <li style="font-size: 27px;"><a href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour" style="margin-right: 4%;width: 5px;height: 21px;" target="_blank"><i class="fab fa-facebook-square" style="font-size: 20px;width: 17;margin-top: 0px;"></i></a>
-                            <a
-                                href="https://www.instagram.com/thpacademie/" style="margin-right: 4%;" target="_blank"><i class="fab fa-instagram" style="font-size: 20px;margin-right: -4px;"></i></a><a href="https://twitter.com/search?q=thp%20academie&amp;src=typed_query" style="margin-right: 4%;" target="_blank"><i class="fab fa-twitter" style="font-size: 20px;"></i></a>
-                                <a
-                                    href="https://www.flickr.com/photos/traildehauteprovence/" style="width: auto;margin-right: 4%;" target="_blank"><i class="fab fa-flickr" style="font-size: 20px;"></i></a><a href="https://www.youtube.com/channel/UCTan_ztQqHsh34A8KeTz0Hg" target="_blank"><i class="fa fa-youtube-play" style="font-size: 20px;"></i></a></li>
+                        <li style="font-size: 27px;">
+                            <a href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour" style="margin-right: 4%;width: 5px;height: 21px;" target="_blank">
+                                <i class="fab fa-facebook-square" style="font-size: 20px;width: 17;"></i>
+                            </a>
+                            <a href="https://www.instagram.com/thpacademie/" style="margin-right: 4%;" target="_blank">
+                                <i class="fab fa-instagram" style="font-size: 20px;"></i>
+                            </a>
+                            <a href="https://twitter.com/search?q=thp%20academie&amp;src=typed_query" style="margin-right: 4%;" target="_blank">
+                                <i class="fab fa-twitter" style="font-size: 20px;"></i>
+                            </a>
+                            <a href="https://www.flickr.com/photos/traildehauteprovence/" style="width: auto;margin-right: 4%;" target="_blank">
+                                <i class="fab fa-flickr" style="font-size: 20px;"></i>
+                            </a>
+                            <a href="https://www.youtube.com/channel/UCTan_ztQqHsh34A8KeTz0Hg" target="_blank">
+                                <i class="fa fa-youtube-play" style="font-size: 20px;"></i>
+                            </a>
+                        </li>
                     </ul><img src="assets/img/dfffefe.png" style="margin-top: -13%;width: 243px;max-width: 258px;max-height: 28%;"></div>
             </div>
             <div class="footer-legal">

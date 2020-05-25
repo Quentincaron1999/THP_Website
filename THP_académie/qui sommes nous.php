@@ -19,8 +19,8 @@
             faire découvrir les sentiers du THP.</p>
         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Vous apprendrez également les techniques de course qui vous permettront de progresser en trail et aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, que ça soit l’entrainement, la gestion de l’effort
             ou la récupération.</p>
-        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Nous avons eu la chance de pouvoir participer à de nombreux trails un peu partouten Francemétropolitaine ainsi que dans les DOM TOM, grâce à d’autres associations, d’autres bénévoles qui ont bien voulu s’investir pour nous permettre de repousser
-            nos limites et vivre notrepassion. </p>
+        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Nous avons eu la chance de pouvoir participer à de nombreux trails un peu partout en France métropolitaine ainsi que dans les DOM TOM, grâce à d’autres associations, d’autres bénévoles qui ont bien voulu s’investir pour nous permettre de repousser
+            nos limites et vivre notre passion. </p>
         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Nous avons décidé de passer de l’autre côté de la barrière pour vous proposer de vous dépasser, de vivre votre passion en découvrant notre territoire.<br></p>
     </section>
     <div style="margin-bottom: 28px;">
@@ -31,15 +31,15 @@
                         <h1>Vincent Guiliani</h1>
                         <p class="text-left" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Présentation</p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;"><br>J’ai 48 ans et habite Forcalquier depuis 2006 avec mon épouse et mes 3 enfants. Sportif de haut niveau plus jeune, je me suis mis à la course à pied sur le tard. </p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">D’abord sur la route, puis au trail depuis 2011.C’est la même année que j’ai découvert les merveilles du Pays de Forcalquier–Montagne de Lure, lors de ma préparation pour ma première Diagonale.</p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Ingénieur agronome de formation, j’ai complété mes études avec un MBA en Change management and Innovation en 2012. C’est là que le déclic s’est fait. Après un passage de 9 mois chez SALOMON, dans le cadre de mon MBA, j’airéalisé
+                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">D’abord sur la route, puis au trail depuis 2011. C’est la même année que j’ai découvert les merveilles du Pays de Forcalquier–Montagne de Lure, lors de ma préparation pour ma première Diagonale.</p>
+                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Ingénieur agronome de formation, j’ai complété mes études avec un MBA en Change management and Innovation en 2012. C’est là que le déclic s’est fait. Après un passage de 9 mois chez SALOMON, dans le cadre de mon MBA, j’ai réalisé
                             queForcalquier, avec son patrimoine naturel et culturel, regorge derichesses incroyables et représente un spot de trail idéal.</p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Entrepeneur dans l’âme et engagé dans la ville ausein de l’OMJS depuis plusieursannées, j’ai commencé par transformer la course des 4 Reines, course sur routelocale en perte de vitesse, en course nature.Le succès relatif de 2013,
+                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Entrepeneur dans l’âme et engagé dans la ville au sein de l’OMJS depuis plusieurs années, j’ai commencé par transformer la course des 4 Reines, course sur route locale en perte de vitesse, en course nature. Le succès relatif de 2013,
                             nous a donné l’élan et l’énergie nécessaires pour voirplus grand pource superbe territoire.</p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Céline et Léonie m’ont rejoint et le Trail deHaute Provence est né dans la foulée.En 2017,Fred Bousseau de Trails EnduranceMag me met en relation avecJulienChorier. </p>
+                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Céline et Léonie m’ont rejoint et le Trail de Haute Provence est né dans la foulée. En 2017, Fred Bousseau de Trails EnduranceMag me met en relation avec Julien Chorier. </p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Julien devient le parrain de la 4ème édition et l’est resté depuis.</p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Au fil des éditions du THP, l’envie est venue de proposer des stages de trail dans ce superbe écrin. </p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">C’est ainsi que la THP académie est née et que naturellement Julienest là à mes côtés pour vousguiderdans un voyage qui vous permettra de mieux vous entraîner et donc de progresser dans votre pratique du trail.<br><br></p>
+                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">C’est ainsi que la THP académie est née et que naturellement Julien est là à mes côtés pour vous guider dans un voyage qui vous permettra de mieux vous entraîner et donc de progresser dans votre pratique du trail.<br><br></p>
                         <p class="text-left"
                             style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Principaux résultats</p>
                         <ul>
