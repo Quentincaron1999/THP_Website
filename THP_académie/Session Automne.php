@@ -25,19 +25,19 @@
 
     <?php include("components/navbar.php")?>
     <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg" style="background-image: url(&quot;assets/img/Lure.jpg&quot;);background-position: center;"></div>
-    <nav id="navbar-top" class="navbar navbar-light navbar-expand sticky-top text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
+    <nav id="navbar-top" class="navbar navbar-light navbar-expand  text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
          style="background-color: #276746;">
         <div class="container"><a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Session d'automne</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div
                 class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav mr-auto">
                     <li class="nav-item" role="presentation"><a class="nav-link active" href="#Details" style="color: rgb(255,255,255);">En Bref</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#test1" style="color: rgb(255,255,255);">Programme</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#prog" style="color: rgb(255,255,255);">Programme</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Programme" style="color: rgb(255,255,255);">Niveau</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Le matériel<br></a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Niveau" style="color: rgb(255,255,255);">Votre cadre</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" id="Cartes" href="#Cartes" style="color: rgb(255,255,255);">Les + du séjour<br></a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" id="Avis" href="#Avis" style="color: rgb(255,255,255);">Témoignages<br></a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Cartes" style="color: rgb(255,255,255);">Les + du séjour<br></a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Avis" style="color: rgb(255,255,255);">Témoignages<br></a></li>
                 </ul><span class="navbar-text actions"> <a class="btn btn-light action-button" role="button" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU" style="background-color: #0f5530;filter: blur(0px) hue-rotate(0deg) invert(0%) sepia(0%);">S'inscrire</a></span></div>
         </div>
     </nav>
@@ -257,21 +257,7 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
     <script src="assets/js/script.min.js"></script>
-   <!-- <script>
-        if ($(window).width() > 992) {
-        $(window).scroll(function(){  
-        if ($(this).scrollTop() > 40) {
-        $('#navbar_top').addClass("fixed-top");
-        // add padding top to show content behind navbar
-        $('body').css('padding-top', $('.navbar').outerHeight() + 'px');
-        }else{
-        $('#navbar_top').removeClass("fixed-top");
-         // remove padding top from body
-        $('body').css('padding-top', '0');
-      }   
-  });
-} // end if
-</script>-->
+    <script src="assets/js/navbar-fixed-top.js"></script>
 </body>
 
 </html>

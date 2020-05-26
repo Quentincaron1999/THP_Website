@@ -48,7 +48,7 @@
     <?php include("components/navbar.php")?>
 
     <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg" style="background-image: url(&quot;assets/img/Lure.jpg&quot;);background-position: center;"></div>
-    <nav class="navbar navbar-light navbar-expand sticky-top text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
+    <nav id="navbar-top" class="navbar navbar-light navbar-expand text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
         id="nav-inner" style="background-color: #276746;">
         <div class="container"><a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Session de Printemps</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div
@@ -280,6 +280,7 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
     <script src="assets/js/script.min.js"></script>
+    <script src="assets/js/navbar-fixed-top.js"></script>
 </body>
 
 </html>
