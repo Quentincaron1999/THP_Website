@@ -94,7 +94,7 @@
                                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;accessoires de la performance<br><br></p>
                     </div>
                 </div>
-                <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;"><a class="btn btn-dark" data-toggle="collapse" aria-expanded="true" aria-controls="collapse-3" href="#collapse-3" role="button" style="background-color: #276746;">Jour 3<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
+                <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;"><a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-3" href="#collapse-3" role="button" style="background-color: #276746;">Jour 3<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
                     <div class="collapse show"
                         id="collapse-3">
                         <p style="margin-right: 2%;margin-left: 2%;"><br>• 07h00 - 08h00 Séance de Yoga<br>• 08h00 - 09h00 Petit déjeuner<br>• 09h00 - 12h00 Sortie nature : de la théorie à la pratique<br>• 12h00 - 12h30 Douche<br>• 12h30 - 13h30 Déjeuner<br>• 13h30 - 15h00 Remise des diplômes aux

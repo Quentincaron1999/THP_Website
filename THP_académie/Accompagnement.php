@@ -10,7 +10,7 @@
     <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg"></div>
     <nav id="navbar-top" class="navbar navbar-light navbar-expand-lg text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button" style="background-color: #276746;">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Accompagnement</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Coaching</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav mr-auto">
                     <li class="nav-item" role="presentation"><a class="nav-link active" href="#Details" style="color: rgb(255,255,255);">En bref</a></li>
@@ -48,14 +48,14 @@
                                 bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">ICI</a><br><br>
                             </p>
                         </section>
-                        <!--<section style="margin-top: 6%;">
+                        <section style="margin-top: 6%;">
                             <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
                                 <div>
                                     <div class="container">
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
-                                                    <a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Julien Chorier<img style="width: 100%;height: 30%;background-position: center;background-size: contain;" src="assets/img/JulienC2.jpg"></a>
+                                                    <a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;"> Découvrez Julien Chorier<img style="width: 100%;height: 30%;background-position: center;background-size: contain;" src="assets/img/JulienC2.jpg"></a>
                                                     <div class="collapse" id="collapse-1">
                                                         <p style="margin-right: 2%;margin-left: 2%;color: #737373;">[TEXT JULIEN]<br></p>
                                                         <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
@@ -94,7 +94,7 @@ class="collapse" id="collapse-1">
 <li>Partage en ligne d’un plan d’entraînement interactif<br><br></li>
 </ul>
 </div>
-</div>--
+</div>-->
                                                         <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
                                                             <a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Offre "THP académie Gold"<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
                                                             <div class="collapse" id="collapse-1">
@@ -141,7 +141,7 @@ class="collapse" id="collapse-1">
                                         </div>
                                     </div>
                                 </div>
-                            </div>-->
+                            </div>
                             <!--<h1 id="Dates" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Les offres</h1>-->
 
                         </section>

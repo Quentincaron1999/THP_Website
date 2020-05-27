@@ -54,7 +54,7 @@
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 53%;background-repeat: no-repeat;background-size: cover;background-color: #ffffff;padding-top: 0;margin-bottom: 0px;">
         <h1 class="text-left" style="margin-left: 40px;font-size: 38px;">Article 9 : Assurances et responsabilités<br></h1>
-        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">L’Association a souscrit un contrat d’assurance responsabilité civile professionnelle avec la compagnie AVIVA, Rue René Char, 04100 Manosque. Cette assurance responsabilité civilegarantie les conséquences pécuniaires de sa responsabilité et de
+        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">L’Association a souscrit un contrat d’assurance responsabilité civile professionnelle avec la compagnie AVIVA, Rue René Char, 04100 Manosque. Cette assurance responsabilité civile garantie les conséquences pécuniaires de sa responsabilité et de
             celle de ses préposés.</p>
         <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Les professionnels intervenant pendant la Prestation disposent d’une assurance responsabilité civile professionnelle.</p>
         <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Le client doit avoir une assurance corporelle individuelle.</p>
@@ -65,13 +65,13 @@
         <h1 class="text-left" style="margin-left: 40px;font-size: 38px;">Article 10 : Loi informatique et liberté<br></h1>
         <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Conformément à la loi informatique et liberté du 6 Janvier 1978, chaque client.e dispose d’un droit d’accès et de rectification des données personnelles le concernant.</p>
         <p class="text-left" style="margin-left: 40px;margin-right: 40px;margin-bottom: 0;">Conformément à la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, dite loi « Informatique et Libertés », au Règlement UE (2016/679) Général sur la Protection des Données du 27 avril 2016, dit « RGPD », le
-            client bénéficie d’un droit d’accès,de rectification, de portabilité et d’effacement de celles-ci. Il peut également opposer àl’Association, pour motifs légitimes, au traitement de ses données, et dispose du droit deretirer son consentement
+            client bénéficie d’un droit d’accès,de rectification, de portabilité et d’effacement de celles-ci. Il peut également opposer à l’Association, pour motifs légitimes, au traitement de ses données, et dispose du droit deretirer son consentement
             à tout moment. Il peut enfin s’opposer à l’utilisation de ses données à des fins de prospection commerciale. Pour exercer ses droits, le client peut sans frais et àtout moment adresser sa demande accompagnée d’un justificatif d’identité par
-            voie postale à: Outdoor Events In Provence–Service données personnelles, 8 avenue Eugène Bernard,04300 FORCALQUIER, ou par courrier électronique à : contact@thpacademie.com<br></p>
+            voie postale à: Outdoor Events In Provence–Service données personnelles, 8 avenue Eugène Bernard, 04300 FORCALQUIER, ou par courrier électronique à : contact@thpacademie.com<br></p>
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 27%;background-repeat: no-repeat;background-size: cover;background-color: #ffffff;padding-top: 0;margin-bottom: 0;">
         <h1 class="text-left" style="font-size: 38px;margin-left: 40px;margin-top: 0px;">Article 11 : Propriété intellectuelle<br></h1>
-        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Tous les éléments présentés sur ce site sont protégés par le droit d’auteur et plus largementpar le droit de propriété intellectuelle. Toute utilisation, modification, reproduction,représentation et traduction, intégrale ou partielle, des éléments
+        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Tous les éléments présentés sur ce site sont protégés par le droit d’auteur et plus largementpar le droit de propriété intellectuelle. Toute utilisation, modification, reproduction, représentation et traduction, intégrale ou partielle, des éléments
             de ce site par quelque procédé que ce soit, sans le consentement écrit de l’Association donnera lieu à des poursuites.<br></p>
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 33%;background-repeat: no-repeat;background-size: cover;background-color: #ffffff;padding-top: 0;margin-bottom: 0;padding-bottom: 0px;margin-top: 0;">
