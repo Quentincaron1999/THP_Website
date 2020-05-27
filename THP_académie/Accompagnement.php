@@ -47,6 +47,7 @@
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Partez à la découverte de Julien et de Lucie et choisissez la méthode qui vous convient le mieux pour personnaliser votre entraînement. Tous les 2 auront besoin de certaines informations pour bien vous accompagner. Merci de
                                 bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">ICI</a><br><br>
                             </p>
+                            <button type="button" class="btn" style="color: #276746;"><a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">Personaliser son entraînement</a></button>
                         </section>
                         <section style="margin-top: 6%;">
                             <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
