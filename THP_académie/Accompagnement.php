@@ -13,9 +13,9 @@
                     class="collapse navbar-collapse" id="navcol-1">
                     <ul class="nav navbar-nav mr-auto">
                         <li class="nav-item" role="presentation"><a class="nav-link active" href="#Details" style="color: rgb(255,255,255);">En bref</a></li>
-                        <li class="nav-item" role="presentation"><a class="nav-link" href="#Media" style="color: rgb(255,255,255);">Yoga</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Plan d'entraînement personnalisé</a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="#Programme" style="color: rgb(255,255,255);">Nutrition</a></li>
-                        <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Plan d'entraînement Personnalisé</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#Media" style="color: rgb(255,255,255);">Yoga</a></li>
                     </ul>
                 </div>
             </div>

@@ -11,9 +11,9 @@
         <h1 style="margin-top: -44px;margin-bottom: 13px;color: rgb(255,255,255);">Qui sommes nous ?</h1>
         <h2 style="font-size: 32px;color: rgb(255,255,255);"></h2>
     </section>
-    <section class="tile-home ipad" style="min-width: 0px;height: 696px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;width: 107%;max-width: 1170px;">
+    <section class="tile-home ipad" style="min-width: 0px;height: 696px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;width: 100%;max-width: px;">
         <h1>Outdoor Events in Provence</h1>
-        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Outdoor Events In Provence est une association loi 1901 créée en 2013 pour porter le projet du Trail de Haute Provence. Nous sommes des passionnés de trail, amoureux de la nature avec l’envie de partager notre territoire, le pays de Forcalquier–Montagne
+        <p class="text-justify" style="margin-left: 40px;margin-right: 40px; margin-top:3%;">Outdoor Events In Provence est une association loi 1901 créée en 2013 pour porter le projet du Trail de Haute Provence. Nous sommes des passionnés de trail, amoureux de la nature avec l’envie de partager notre territoire, le pays de Forcalquier–Montagne
             de Lure situé au cœur de la Provence, avec le plus grand nombre.</p>
         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Au fur et à mesure des éditions du Trail de Haute Provence, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique, la préparation technique,une meilleure connaissance de la nutrition pour la course et de
             faire découvrir les sentiers du THP.</p>
@@ -29,7 +29,13 @@
                 <div class="col-md-6">
                     <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
                         <h1>Vincent Guiliani</h1>
-                        <p class="text-left" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Présentation</p>
+                        <img style="width: 100%;height: 40%;background-position: center;background-size: contain;margin-top: 10%" src="assets/img/VincentG.jpg">
+        
+                    </section>
+                </div>
+                <div class="col-md-6">
+                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
+                    <p class="text-left" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Présentation</p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;"><br>J’ai 48 ans et habite Forcalquier depuis 2006 avec mon épouse et mes 3 enfants. Sportif de haut niveau plus jeune, je me suis mis à la course à pied sur le tard. </p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">D’abord sur la route, puis au trail depuis 2011. C’est la même année que j’ai découvert les merveilles du Pays de Forcalquier–Montagne de Lure, lors de ma préparation pour ma première Diagonale.</p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Ingénieur agronome de formation, j’ai complété mes études avec un MBA en Change management and Innovation en 2012. C’est là que le déclic s’est fait. Après un passage de 9 mois chez SALOMON, dans le cadre de mon MBA, j’ai réalisé
@@ -58,6 +64,13 @@
                         </ul>
                     </section>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    <div style="margin-bottom: 28px;">
+        <div class="container">
+            <div class="row">
                 <div class="col-md-6">
                     <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
                         <h1>Julien Chorier</h1>
@@ -81,6 +94,15 @@
                             <li class="text-left">La Ronda del Cims178 km de course, 13 000m D+, Andorre<br></li>
                             <li class="text-left">Verbier X-Alpine111 km de course, 8 400m D+, Suisse<br></li>
                         </ul>
+                    </section>
+                </div>
+                <div class="col-md-6">
+                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
+                    <img style="width: 100%;height: 30%;background-position: center;background-size: contain;margin-top: 35%" src="assets/img/JulienC1.jpg">
+                    <img style="width: 100%;height: 30%;background-position: center;background-size: contain;margin-top: 10%" src="assets/img/JulienC2.jpg">
+        
+        
+                        
                     </section>
                 </div>
             </div>

@@ -44,7 +44,7 @@
                     </div>
                 </li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="Niveau.php" style="margin-top: 8px;">Niveaux<br></a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link" href="Accompagnement.php" style="margin-top: 8px;">Accompagnement</a></li>
+                <li class="nav-item" role="presentation"><a class="nav-link" href="Accompagnement.php" style="margin-top: 8px;">Coaching</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="photos.php" style="margin-top: 8px;">Photos/Vidéos</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="Actu.php" style="margin-top: 8px;">Actualités</a></li>
             </ul>

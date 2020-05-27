@@ -13,7 +13,7 @@
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 492px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 3%;margin-right: 0%;background-color: #ffffff;width: 100%;">
         <h1 class="text-left" style="width: 100%;font-size: 38px;margin-top: -67px;margin-left: 40px;">Article 1 :&nbsp;Préambule<br></h1>
-        <p class="text-left" style="margin-left: 40px;margin-right: 40px;"><br>Il est défini que l’association Outdoor Events In Provence, ci-après dénommée «Association» organise des stages de trail en pension complète ci-après dénommés «Prestation» régis parles présentes conditions générales de vente, ci-après dénommées
+        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Il est défini que l’association Outdoor Events In Provence, ci-après dénommée «Association» organise des stages de trail en pension complète ci-après dénommés «Prestation» régis parles présentes conditions générales de vente, ci-après dénommées
             «CGV».<br>Le paiement d’une Prestation proposée par l’Association sur le site thpacedemie.com vaut acceptation de la Prestation dans les conditions qui y figurent, et acceptation sans réserve de l’intégralité des présentes CGV.<br><br></p>
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 332px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 3%;margin-right: 3%;background-color: #ffffff;margin-top: -221px;">
@@ -22,24 +22,24 @@
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 332px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 3%;margin-right: 3%;background-color: #ffffff;margin-top: -47px;">
         <h1 class="text-left" style="margin-left: 40px;font-size: 38px;margin-top: -213px;">Article 3 :&nbsp;Prix<br></h1>
-        <p class="text-left" style="margin-left: 40px;margin-right: 40px;"><br>Les prix annoncés sur le site internet thpacademie.com sont indiqués en euros et toutes taxes comprises. Ils comprennent la pension complète, l’encadrement, les analyses vidéos pendant la durée de la Prestation. Ces prix ne comprennent pas l’assurance
+        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Les prix annoncés sur le site internet thpacademie.com sont indiqués en euros et toutes taxes comprises. Ils comprennent la pension complète, l’encadrement, les analyses vidéos pendant la durée de la Prestation. Ces prix ne comprennent pas l’assurance
             annulation proposée au moment de l’inscription par notre prestataire de plateforme d’inscription, IKINOA. Ils ne comprennent pas non plus les déplacements pour se rendre sur le lieu de la prestation, les assurances individuelles, les compléments
             alimentaires (barres boissons énergétiques), les dépenses personnelles, les boissons pendant les repas, les nuitées supplémentaires ou suppléments chambre simple, les transferts individuels en cas d’interruption de la sortie ou de la Prestation.<br></p>
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 67%;background-repeat: no-repeat;background-size: cover;margin-bottom: 1%;margin-left: 3%;margin-right: 3%;background-color: #ffffff;margin-top: -3px;">
         <h1 class="text-left" style="margin-left: 40px;font-size: 38px;margin-top: -268px;">Article 4 : Inscription et paiement des prestations<br></h1>
-        <p class="text-left" style="margin-left: 40px;margin-right: 40px;"><br>L’inscription à la Prestation et son paiement se font en ligne via la plateforme sécurisée de notre prestataire IKINOA. L’inscription est réputée définitive par le règlement total du prix de la Prestation.<br><br></p>
+        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">L’inscription à la Prestation et son paiement se font en ligne via la plateforme sécurisée de notre prestataire IKINOA. L’inscription est réputée définitive par le règlement total du prix de la Prestation.<br><br></p>
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 87%;background-repeat: no-repeat;background-size: cover;margin-bottom: 1%;margin-left: 3%;margin-right: 3%;background-color: #ffffff;margin-top: -3%;">
         <h1 class="text-left" style="margin-top: -468px;margin-left: 40px;font-size: 38px;">Article 5 :&nbsp;Modification et annulation<br></h1>
-        <p class="text-left" style="margin-left: 40px;margin-right: 40px;"><br>L’Association se réserve le droit de modifier et/ou d’annuler une Prestation avant le début de celle-ci, notamment si les effectifs sont insuffisants ou pour des raisons de sécurité. En cas d’annulation de toute ou partiede la Prestation indépendante
+        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">L’Association se réserve le droit de modifier et/ou d’annuler une Prestation avant le début de celle-ci, notamment si les effectifs sont insuffisants ou pour des raisons de sécurité. En cas d’annulation de toute ou partiede la Prestation indépendante
             de la volonté de l’Association (conditions météorologiques, décision des autorités administratives, etc.), aucun remboursement ne sera effectué.<br></p>
         <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Modification ou annulation par le client: Notre prestataire pour la plateforme d’inscription sécurisée propose une assurance annulation disponible uniquement au moment de l’inscription. Si cette assurance annulation aété contractée au moment de
             l’inscription, le client pourra être remboursé selon les termes proposés par cette assurance. A défaut, l’annulation de la réservation par le client ne pourra entraîner aucun remboursement du montant de la Prestation par l’Association.<br><br></p>
     </section>
     <section class="tile-home ipad" style="min-width: 0px;height: 58%;background-repeat: no-repeat;background-size: cover;margin-bottom: 1%;margin-left: 3%;margin-right: 3%;background-color: #ffffff;margin-top: -3%;">
-        <h1 class="text-left" style="margin-top: -623px;margin-left: 40px;font-size: 38px;">Article 6 :&nbsp;Droits à l’image<br></h1>
-        <p class="text-left" style="margin-left: 40px;margin-right: 40px;"><br>Chaque client.e autorise expressément l’Association ainsi que ses ayants droit tels que les partenaires et médias à utiliser les images fixes ou audiovisuelles sur lesquelles il pourrait apparaître, prises à l’occasion de sa participation à
+        <h1 class="text-left" style="margin-top: -623px;margin-left: 40px;font-size: 38px;">Article 6 :&nbsp;Droits à l’image</h1>
+        <p class="text-left" style="margin-left: 40px;margin-right: 40px;">Chaque client.e autorise expressément l’Association ainsi que ses ayants droit tels que les partenaires et médias à utiliser les images fixes ou audiovisuelles sur lesquelles il pourrait apparaître, prises à l’occasion de sa participation à
             la prestation sur tous supports y compris les documents promotionnels et/ou publicitaires, dans le monde entier et pour la durée la plus longue prévue par la loi, les règlements, les traités en vigueur, y compris pour les prolongations éventuelles
             qui pourraient être apportées à cette durée.<br></p>
     </section>
