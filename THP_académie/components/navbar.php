@@ -28,7 +28,7 @@
 
 <!-- Principale NAVBAR -->
 
-<nav class="navbar navbar-dark navbar-expand-md fixed-top bg-dark" style="filter: blur(0px);height: 8%;padding-top: 0.6%;padding-right: 1%;padding-left: 1%;padding-bottom: 0.6%;width: 100%;margin-top: 1.7%;margin-bottom: 0px;">
+<nav id="principal-nav" class="navbar navbar-dark navbar-expand-md fixed-top bg-dark" style="filter: blur(0px);height: 8%;padding-top: 0.6%;padding-right: 1%;padding-left: 1%;padding-bottom: 0.6%;width: 100%;margin-top: 1.7%;margin-bottom: 0px;">
     <div class="container"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navcol-1">
             <ul class="nav navbar-nav flex-grow-1 justify-content-between" style="width: 90%;">

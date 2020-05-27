@@ -2,6 +2,9 @@ if ($(window).width() > 992) {
     $(window).scroll(function(){  
         if ($(this).scrollTop() > 70) {
             $('#navbar-top').addClass("fixed-top");
+            $('#navbar-top').removeClass("order-1");
+            $('#navbar-top').addClass("order-2");
+            $('#principal-nav').addClass("order-1");
             $('#navbar-top').css('margin-top', '5%');
             // add padding top to show content behind navbar
             $('body').css('padding-top', $('.navbar').outerHeight() + 'px');
