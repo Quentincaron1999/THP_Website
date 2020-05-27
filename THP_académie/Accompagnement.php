@@ -45,10 +45,10 @@
                             </p>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Comme chacun.e d’entre nous possède des clés de motivation différentes, nous vous proposons deux types d’approches pour élaborer votre plan d’entraînement personnalisé.</p>
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Partez à la découverte de Julien et de Lucie et choisissez la méthode qui vous convient le mieux pour personnaliser votre entraînement. Tous les 2 auront besoin de certaines informations pour bien vous accompagner. Merci de
-                                bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold;" target="_blank">ICI</a><br><br>
+                                bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">ICI</a><br><br>
                             </p>
                         </section>
-                        <section style="margin-top: 6%;">
+                        <!--<section style="margin-top: 6%;">
                             <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
                                 <div>
                                     <div class="container">
@@ -94,7 +94,7 @@ class="collapse" id="collapse-1">
 <li>Partage en ligne d’un plan d’entraînement interactif<br><br></li>
 </ul>
 </div>
-</div>-->
+</div>--
                                                         <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
                                                             <a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Offre "THP académie Gold"<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
                                                             <div class="collapse" id="collapse-1">
@@ -141,7 +141,7 @@ class="collapse" id="collapse-1">
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                             <!--<h1 id="Dates" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Les offres</h1>-->
 
                         </section>
