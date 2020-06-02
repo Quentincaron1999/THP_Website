@@ -2,7 +2,7 @@
 <html lang="fr" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Multi Step Form with Progress Bar using jQuery and CSS3</title>
+  <title>THP Inscription</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <link rel="stylesheet" href="./style.css">
 
@@ -25,12 +25,13 @@
     
     <input type="text" name="nom" placeholder="Nom" require>
     <input type="text" name="prenom" placeholder="Prenom" require>
-    <input type="password" name="pass" placeholder="Password" require/>
+    <input type="date" name="naissdate" placeholder="Date de Naissance" require/>
     <input type="password" name="cpass" placeholder="Confirm Password" />
 
     <h3 class="fs-subtitle">Autre Information</h3>
 
     <input type="button" name="next" class="next action-button" value="Suivant" />
+
   </fieldset>
   <fieldset>
     <h2 class="fs-title">Social Profiles</h2>
@@ -42,7 +43,7 @@
     <input type="button" name="next" class="next action-button" value="Next" />
   </fieldset>
   <fieldset>
-    <h2 class="fs-title">Personal Details</h2>
+    <h2 class="fs-title">Paiement</h2>
     <h3 class="fs-subtitle">We will never sell it</h3>
     <input type="text" name="fname" placeholder="First Name" />
     <input type="text" name="lname" placeholder="Last Name" />
