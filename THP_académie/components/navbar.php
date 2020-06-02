@@ -5,7 +5,7 @@
             <ul class="nav navbar-nav flex-grow-1 justify-content-between" style="width: 90%;">
                 <li class="nav-item" role="presentation"><a class="nav-link" href="index.php" style="padding: 0px;"></a></li>
                 <li class="nav-item" role="presentation" style="margin-right: 0px;"><a class="nav-link" href="contact.php" style="margin-top: -2px;">Contact<br></a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link" href="Accompagnement.php" style="margin-top: -2px;margin-right: 0px;"><img src="assets/img/france-2.png" style="width: 14px;"></a></li>
+                <li class="nav-item" role="presentation"><a class="nav-link" href="Coaching.php" style="margin-top: -2px;margin-right: 0px;"><img src="assets/img/france-2.png" style="width: 14px;"></a></li>
                 <li class="nav-item" role="presentation"></li>
                 <li class="nav-item" role="presentation"></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="qui%20sommes%20nous.php" style="margin-top: -2px;">Qui sommes nous ?</a></li>
@@ -44,7 +44,7 @@
                     </div>
                 </li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="Niveau.php" style="margin-top: 8px;">Niveaux<br></a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link" href="Accompagnement.php" style="margin-top: 8px;">Coaching</a></li>
+                <li class="nav-item" role="presentation"><a class="nav-link" href="Coaching.php" style="margin-top: 8px;">Coaching</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="photos.php" style="margin-top: 8px;">Photos/Vidéos</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link" href="Actu.php" style="margin-top: 8px;">Actualités</a></li>
             </ul>
