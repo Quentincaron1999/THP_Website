@@ -47,19 +47,18 @@
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Partez à la découverte de Julien et de Lucie et choisissez la méthode qui vous convient le mieux pour personnaliser votre entraînement. Tous les 2 auront besoin de certaines informations pour bien vous accompagner. Merci de
                                 bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">ICI</a><br><br>
                             </p>
-                            <button type="button" class="btn" style="color: #276746;"><a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">Personaliser son entraînement</a></button>
+                            <button type="button" class="btn btn-dark" style="color: #276746; align-items: center; margin-left: 15em; margin-top: -4em;"><a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">Personaliser son entraînement</a></button>
                         </section>
                         <section style="margin-top: 6%;">
-                            <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
-                                <div>
+                            <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;     ">  
                                     <div class="container">
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
+                                                <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;       ">
                                                     <a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;"> Découvrez Julien Chorier<img style="width: 100%;height: 30%;background-position: center;background-size: contain;" src="assets/img/JulienC2.jpg"></a>
                                                     <div class="collapse" id="collapse-1">
                                                         <p style="margin-right: 2%;margin-left: 2%;color: #737373;">[TEXT JULIEN]<br></p>
-                                                        <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
+                                                        <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;">
                                                             <a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Offre "THP académie Ivory"<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
                                                             <div class="collapse" id="collapse-1">
                                                                 <p style="margin-right: 2%;margin-left: 2%;color: #737373;">50 € par mois sans engagement<br></p>
@@ -96,7 +95,7 @@ class="collapse" id="collapse-1">
 </ul>
 </div>
 </div>-->
-                                                        <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;">
+                                                        <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;">
                                                             <a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Offre "THP académie Gold"<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
                                                             <div class="collapse" id="collapse-1">
                                                                 <p style="margin-right: 2%;margin-left: 2%;color: #737373;">120 € par mois sans engagement<br></p>
