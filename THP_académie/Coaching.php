@@ -45,7 +45,7 @@
                             </p>
                             <!--<p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Comme chacun.e d’entre nous possède des clés de motivation différentes, nous vous proposons deux types d’approches pour élaborer votre plan d’entraînement personnalisé.</p>-->
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Partez à la découverte de Julien et choisissez la méthode qui vous convient le mieux pour personnaliser votre entraînement. Il aura besoin de certaines informations pour bien vous accompagner. Merci de
-                                bien vouloir remplir le questionnaire en cliquan <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">ICI</a><br><br>
+                                bien vouloir remplir le questionnaire en cliquant sur le bouton ci-dessous :<br><br>
                             </p>
                             <button type="button" class="btn btn-dark" style="color: #276746; align-items: center; margin-left: 15em; margin-top: -4em;"><a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">Personaliser son entraînement</a></button>
                         </section>

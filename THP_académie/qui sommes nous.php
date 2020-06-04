@@ -30,6 +30,7 @@
                     <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
                         <h1>Vincent Guiliani</h1>
                         <img style="width: 100%;height: 40%;background-position: center;background-size: contain;margin-top: 10%" src="assets/img/VincentG.jpg">
+                        <img style="width: 100%;height: 30%;background-position: center;background-size: contain;margin-top: 10%" src="assets/img/xvd.jpeg">
         
                     </section>
                 </div>
