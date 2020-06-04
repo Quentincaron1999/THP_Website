@@ -14,30 +14,53 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="assets/css/Zen-Its%20Sans.css">
     <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">
-    <link rel="stylesheet" href="assets/css/styles.min.css">
+    <link rel="stylesheet" href="assets/css/Article-Cards.css">
+    <link rel="stylesheet" href="assets/css/Dark-footer-with-social-media-icons.css">
+    <link rel="stylesheet" href="assets/css/footer.css">
+    <link rel="stylesheet" href="assets/css/gradient-navbar-1.css">
+    <link rel="stylesheet" href="assets/css/gradient-navbar.css">
+    <link rel="stylesheet" href="assets/css/Header-Dark.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
+    <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
+    <link rel="stylesheet" href="assets/css/login-register.css">
+    <link rel="stylesheet" href="assets/css/Map-Clean.css">
+    <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
+    <link rel="stylesheet" href="assets/css/News-Cards.css">
+    <link rel="stylesheet" href="assets/css/side-menu.css">
+    <link rel="stylesheet" href="assets/css/sidebar-1.css">
+    <link rel="stylesheet" href="assets/css/SIdebar-Responsive-2-1.css">
+    <link rel="stylesheet" href="assets/css/SIdebar-Responsive-2.css">
+    <link rel="stylesheet" href="assets/css/sidebar.css">
+    <link rel="stylesheet" href="assets/css/Social-Icon-Circle.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/Swiper-Slider-Card-For-Blog-Or-Product-1.css">
+    <link rel="stylesheet" href="assets/css/Swiper-Slider-Card-For-Blog-Or-Product.css">
+    <link rel="stylesheet" href="assets/css/tabela-mloureiro1973.css">
+    <link rel="stylesheet" href="assets/css/Testimonials.css">
 </head>
 
 <body>
 
     <?php include("components/navbar.php")?>
+
     <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg" style="background-image: url(&quot;assets/img/Lure.jpg&quot;);background-position: center;"></div>
-    <nav id="navbar-top" class="navbar navbar-light navbar-expand  text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
-         style="background-color: #276746;">
-        <div class="container"><a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Session d'automne</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+    <nav id="navbar-top" class="navbar navbar-light navbar-expand text-center d-xl-flex align-self-start  justify-content-xl-center align-items-xl-center navigation-clean-button"
+        id="nav-inner" style="background-color: #276746;">
+        <div class="container"><a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Session de Printemps</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div
                 class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav mr-auto">
                     <li class="nav-item" role="presentation"><a class="nav-link active" href="#Details" style="color: rgb(255,255,255);">En Bref</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#prog" style="color: rgb(255,255,255);">Programme</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#test1" style="color: rgb(255,255,255);">Programme</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Programme" style="color: rgb(255,255,255);">Niveau</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Le matériel<br></a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Niveau" style="color: rgb(255,255,255);">Votre cadre</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Cartes" style="color: rgb(255,255,255);">Les + du séjour<br></a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Avis" style="color: rgb(255,255,255);">Témoignages<br></a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" id="Cartes" href="#Cartes" style="color: rgb(255,255,255);">Les + du séjour<br></a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" id="Avis" href="#Avis" style="color: rgb(255,255,255);">Témoignages<br></a></li>
                 </ul><span class="navbar-text actions"> <a class="btn btn-light action-button" role="button" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU" style="background-color: #0f5530;filter: blur(0px) hue-rotate(0deg) invert(0%) sepia(0%);">S'inscrire</a></span></div>
         </div>
     </nav>
@@ -47,14 +70,14 @@
                 <div class="col-md-8">
                     <div>
                         <section>
-                            <h1 id="Details" class="title" style="margin-left: 0px;margin-bottom: -7px;">En bref</h1><img src="assets/img/Annotation%202020-05-14%20114143.png" style="margin-top: 22px;">
-                            <p class="text-justify" id="test1" style="margin-right: 2%;margin-left: 0%;"><br>Au fur et à mesure des éditions du&nbsp;<a href="http://www.traildehauteprovence.com/#" target="_blank" id="prog">Trail de Haute Provence</a>, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique,
+                            <h1 id="Details" class="title" style="margin-left: 0px;margin-bottom: -7px;">En bref</h1><img src="assets/img/Annotation%202020-05-14%20114143%20-%20Copie.png" style="margin-top: 22px;">
+                            <p class="text-justify" id="test1" style="margin-right: 2%;margin-left: 0%;"><br>Au fur et à mesure des éditions du&nbsp;<a href="http://www.traildehauteprovence.com/#" target="_blank">Trail de Haute Provence</a>, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique,
                                 la préparation technique, une meilleure connaissance de la nutrition pour la course et de faire découvrir les sentiers du THP. Vous apprendrez également les techniques de course qui vous permettront de progresser en trail
                                 et aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, que ça soit l’entraînement, la gestion de l’effort ou la récupération.<br><br></p>
                         </section>
                         <section>
                             <h1 id="Media" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;margin-bottom: 36px;">Programme</h1>
-                            <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;" id="Programme"><a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Jour 1<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
+                            <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;"><a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Jour 1<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
                                 <div
                                     class="collapse" id="collapse-1">
                                     <p style="margin-right: 2%;margin-left: 2%;color: #000000;width: 646px;"><br>• 13h30 - 14h00 Accueil et installation des participants<br>• 14h00 - 15h30 Présentation du stage et recueil des souhaits des participants<br>• 15h30 - 18h00 Sortie simple avec ou sans bâtons. Quelle est ma meilleure&nbsp;
@@ -71,8 +94,8 @@
                                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;accessoires de la performance<br><br></p>
                     </div>
                 </div>
-                <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;" ><a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-3" href="#collapse-3" role="button" style="background-color: #276746;">Jour 3<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
-                    <div class="collapse"
+                <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;"><a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-3" href="#collapse-3" role="button" style="background-color: #276746;">Jour 3<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
+                    <div class="collapse show"
                         id="collapse-3">
                         <p style="margin-right: 2%;margin-left: 2%;"><br>• 07h00 - 08h00 Séance de Yoga<br>• 08h00 - 09h00 Petit déjeuner<br>• 09h00 - 12h00 Sortie nature : de la théorie à la pratique<br>• 12h00 - 12h30 Douche<br>• 12h30 - 13h30 Déjeuner<br>• 13h30 - 15h00 Remise des diplômes aux
                             stagiaires et bilan du stage<br>• 15h00&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fin du stage<br><br></p>
@@ -80,7 +103,7 @@
                 </div>
                 </section>
                 <section>
-                    <h1  class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;margin-top: 39px;">Niveau</h1>
+                    <h1 id="Programme" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;margin-top: 39px;">Niveau</h1>
                 </section>
                 <div class="row">
                     <div class="col-md-12" style="margin-top: -5%;margin-bottom: 8%;">
@@ -88,9 +111,9 @@
                             <table class="table">
                                 <thead>
                                     <tr>
-                                        <th style="width: 133px;"></th>
-                                        <th class="text-center">THP 1</th>
-                                        <th class="text-center" style="width: 283px;">THP 2</th>
+                                        <th style="width: 345px;"></th>
+                                        <th class="text-center" style="width: 643px;">THP 1</th>
+                                        <th class="text-center" style="width: 638px;">THP 2</th>
                                     </tr>
                                 </thead>
                                 <tbody></tbody>
@@ -142,7 +165,7 @@
                                     <tr>
                                         <td style="letter-spacing: 0px;font-weight: bold;">Type de terrain</td>
                                         <td style="color: rgb(0,0,0);">Alternance de chemins larges et de monotrace (pierriers et sous-bois souples)<br></td>
-                                        <td  id="Dates">Majorité de monotrace et de sentiers techniques (pierriers, névés...)<br></td>
+                                        <td>Majorité de monotrace et de sentiers techniques (pierriers, névés...)<br></td>
                                     </tr>
                                     <tr>
                                         <td style="letter-spacing: 0px;font-weight: bold;">Profil</td>
@@ -174,8 +197,8 @@
                                         <td style="color: rgb(0,0,0);"><br>Un sac à dos de trail de 5 à 15 l<br>Une réserve en eau d’au moins 1 l<br>Une veste imperméable ou coupe-vent<br>Un haut à manches longues chaud<br>Chaussettes adaptées au trail<br>Une paire de lunettes de soleil<br>Casquette<br>Un
                                             tour de cou<br>Réserve en barres, fruits secs ... afin d’être autonome en sortie longue<br>Une lampe frontale<br>Des vêtements de rechanges pour la durée du stage<br>Des chaussures de rechange<br><br></td>
                                         <td
-                                            style="color: rgb(0,0,0);" ><br>Un bonnet et des gants fins<br>Bâtons (pour s’entraîner)<br>Un peu d’argent liquide<br>Une tenue pour le soir<br>Un couteau de poche<br>Boules Quies ou bouchons d’oreilles<br>Collant ou pantalon long (pour sortie
-                                            longue)<br id="Niveau">Pharmacie personnelle avec pansements double-peaux <br>Crème solaire et stick lèvres<br>Claquettes/Tongues</td>
+                                            style="color: rgb(0,0,0);"><br>Un bonnet et des gants fins<br>Bâtons (pour s’entraîner)<br>Un peu d’argent liquide<br>Une tenue pour le soir<br>Un couteau de poche<br>Boules Quies ou bouchons d’oreilles<br>Collant ou pantalon long (pour sortie
+                                            longue)<br>Pharmacie personnelle avec pansements double-peaux <br>Crème solaire et stick lèvres<br>Claquettes/Tongues</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -183,10 +206,10 @@
                     </div>
                 </div>
                 <section>
-                    <h1 class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Votre cadre<br></h1>
+                    <h1 id="Niveau" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Votre cadre<br></h1>
                     <p class="text-justify" style="margin-right: 2%;margin-left: 1%;">Vous serez hébergés en maison d’hôte à <a href="http://www.gite-labeaudine.com/accueil/" target="_blank" style="font-weight: bold;">La Beaudine</a>, à Forcalquier <br>Les dîners et les déjeuners seront pris sur place<br>Les déjeuners
                         seront concoctés par le restaurant <a href="https://www.facebook.com/lesperluetteforcalquier/" target="_blank" style="font-weight: bold;">L'Esperluette</a>&nbsp;<br>et les dîners par La Beaudine<br><br><br></p><iframe allowfullscreen=""
-                        frameborder="0" src="https://www.google.com/maps/embed/v1/search?key=AIzaSyDq1G7DlVkMkuf5YdPcltF4jFLdBAJBS9s&amp;q=Bergerie+la+Beaudine&amp;zoom=11" width="100%" height="400" style="margin-top: -7%;margin-right: 0%;margin-left: 0%;margin-bottom: 8%;" id="Cartes"></iframe></section>
+                        frameborder="0" src="https://www.google.com/maps/embed/v1/search?key=AIzaSyDq1G7DlVkMkuf5YdPcltF4jFLdBAJBS9s&amp;q=Bergerie+la+Beaudine&amp;zoom=11" width="100%" height="400" style="margin-top: -7%;margin-right: 0%;margin-left: 0%;margin-bottom: 8%;"></iframe></section>
                 <section>
                     <h1 id="Cartes" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;">Les + du séjour<br></h1>
                     <ul style="margin-right: 0px;margin-left: -19px;">
@@ -195,8 +218,8 @@
                         <li style="font-size: 21px;color: rgb(0,0,0);">Immersion totale pendant 3 jours<br></li>
                         <li style="font-size: 21px;color: rgb(0,0,0);">Partages des expériences<br></li>
                         <li style="font-size: 21px;color: rgb(0,0,0);">Visionnages vidéos pour un meilleur apprentissage<br></li>
-                        <li style="font-size: 21px;color: rgb(0,0,0);" id="Avis">Petit groupe&nbsp;<br></li>
-                        <li style="font-size: 21px;color: rgb(0,0,0);" >2 encadrants pour s’adapter aux différents niveaux<br></li>
+                        <li style="font-size: 21px;color: rgb(0,0,0);">Petit groupe&nbsp;<br></li>
+                        <li style="font-size: 21px;color: rgb(0,0,0);">2 encadrants pour s’adapter aux différents niveaux<br></li>
                         <li style="font-size: 21px;color: rgb(0,0,0);">Découvertes des tracés du Trail de Haute Provence<br></li>
                         <li style="font-size: 21px;color: rgb(0,0,0);">Les sorties partent du gîte<br></li>
                     </ul>
@@ -250,7 +273,7 @@
             </div>
         </div>
     </div>
-    
+
     <?php include("components/footer.php")?>
 
     <script src="assets/js/jquery.min.js"></script>
