@@ -8,7 +8,7 @@
 <body>
     <?php include("components/navbar.php")?>
     <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg"></div>
-    <nav id="navbar-top" class="navbar navbar-light navbar-expand-lg text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button" style="background-color: #276746;">
+    <nav id="navbar-top" class="navbar navbar-light navbar-expand-lg text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button" style="background-color: #276746; z-index: 4;">
         <div class="container-fluid">
             <a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Coaching</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
@@ -47,7 +47,7 @@
                             <p class="text-justify" style="margin-right: 2%;margin-left: 0%;">Partez à la découverte de Julien et choisissez la méthode qui vous convient le mieux pour personnaliser votre entraînement. Il aura besoin de certaines informations pour bien vous accompagner. Merci de
                                 bien vouloir remplir le questionnaire en cliquant sur le bouton ci-dessous :<br><br>
                             </p>
-                            <button type="button" class="btn btn-dark" style="color: #276746; align-items: center; margin-left: 15em; margin-top: -4em;"><a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #276746;" target="_blank">Personaliser son entraînement</a></button>
+                            <button type="button" class="btn btn-dark" style="background-color: #276746; align-items: center; margin-left: 15em; margin-top: -4em;"><a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #F7EED1;" target="_blank">Personaliser son entraînement</a></button>
                         </section>
                         <section style="margin-top: 6%;" id="Programme">
                             <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;     ">  

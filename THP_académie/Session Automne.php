@@ -26,7 +26,7 @@
     <?php include("components/navbar.php")?>
     <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg" style="background-image: url(&quot;assets/img/Lure.jpg&quot;);background-position: center;"></div>
     <nav id="navbar-top" class="navbar navbar-light navbar-expand  text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
-         style="background-color: #276746;">
+         style="background-color: #276746; z-index: 4;">
         <div class="container"><a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Session d'automne</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div
                 class="collapse navbar-collapse" id="navcol-1">
