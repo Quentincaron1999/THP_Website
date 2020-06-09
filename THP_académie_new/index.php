@@ -9,13 +9,13 @@
     <?php include("components/navbar.php")?>
 
     <!-- Vidéo -->
-    <div class="video">
+    <div class="video is-full-mobile">
         <iframe class="video-iframe " allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/bk4aubRIL-4?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=bk4aubRIL-4&amp;controls=0"></iframe>
     </div>
 
     <!-- Principal Banner -->
     <div class="container is-widescreen">
-        <div class="banner-presentation"> 
+        <div class="banner-presentation is-full-mobile"> 
             <img src="assets/img/banner-index.png">
         </div>
     </div>
@@ -24,7 +24,7 @@
     <div class="container is-widescreen">
         <div class="full-card-home"> 
             <!-- Wide Card -->
-            <div class="columns principal card-home">
+            <div class="columns principal card-home is-mobile">
                 
                 <div class="column is-full card-one">
                     <h1>Session d'été 2020</h1>
@@ -34,7 +34,7 @@
             </div>
 
             <!-- Half Card -->
-            <div class="columns card-home">
+            <div class="columns card-home is-mobile">
                 <div class="column card-two">
                     <h1>Session Automne 2020</h1>
                 </div>

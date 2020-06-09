@@ -1,17 +1,6 @@
 <!-- Pré-Navbar -->
 
 <nav class="navbar is-fixed-top prenav" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="index.php">
-    </a>
-
-    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
         <a class="navbar-item">contact</a>
@@ -34,7 +23,7 @@
 
 <!-- Principal Navbar -->
 
-<nav class="navbar is-fixed-top nav-principal" role="navigation" aria-label="main navigation">
+<nav id="principal-nav" class="navbar is-fixed-top nav-principal" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php">
             <img src="assets/img/logo_thpacademie.png"  width="112" height="90">
@@ -52,7 +41,7 @@
         <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">Programme</a>
             <div class="navbar-dropdown">
-                <a class="navbar-item">Session Eté 2020</a>
+                <a class="navbar-item" href="Session-Ete.php">Session Eté 2020</a>
                 <a class="navbar-item">Session Automne 2020</a>
                 <a class="navbar-item">Session Printemps 2021</a>
             </div>
@@ -63,7 +52,7 @@
         <a class="navbar-item">Actualités</a>      
     </div>
 
-    <div class="navbar-end">
+    <!--<div class="navbar-end">
       <div class="navbar-item">
         <div class="buttons">
           <a class="button is-primary">
@@ -73,7 +62,7 @@
             Log in
           </a>
         </div>
-      </div>
+      </div>-->
     </div>
   </div>
 </nav>
