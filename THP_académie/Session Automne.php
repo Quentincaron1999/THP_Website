@@ -24,14 +24,14 @@
 <body>
 
     <?php include("components/navbar.php")?>
-    <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg" style="background-image: url(&quot;assets/img/Lure.jpg&quot;);background-position: center;"></div>
+    <div style="width: 100%;height: 60%;margin-top: -7%;"><img src="assets/img/Lure.jpg" style="background-image: url(&quot;assets/img/Lure.jpg&quot;);background-position: center;" id="Details"></div>
     <nav id="navbar-top" class="navbar navbar-light navbar-expand  text-center d-xl-flex align-self-start order-1 justify-content-xl-center align-items-xl-center navigation-clean-button"
          style="background-color: #276746; z-index: 4;">
         <div class="container"><a class="navbar-brand" href="#" style="color: rgb(255,255,255);">Session d'automne</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div
                 class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav mr-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link active" href="#Details" style="color: rgb(255,255,255);">En Bref</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Details" style="color: rgb(255,255,255);">En Bref</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#prog" style="color: rgb(255,255,255);">Programme</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Programme" style="color: rgb(255,255,255);">Niveau</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Le matériel<br></a></li>
@@ -42,19 +42,19 @@
         </div>
     </nav>
     <div>
-        <div class="container">
+        <div class="container" >
             <div class="row">
                 <div class="col-md-8">
                     <div>
                         <section>
                             <h1 id="Details" class="title" style="margin-left: 0px;margin-bottom: -7px;">En bref</h1><img src="assets/img/Annotation%202020-05-14%20114143.png" style="margin-top: 22px;">
-                            <p class="text-justify" id="test1" style="margin-right: 2%;margin-left: 0%;"><br>Au fur et à mesure des éditions du&nbsp;<a href="http://www.traildehauteprovence.com/#" target="_blank" id="prog">Trail de Haute Provence</a>, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique,
+                            <p class="text-justify" style="margin-right: 2%;margin-left: 0%;"><br>Au fur et à mesure des éditions du&nbsp;<a href="http://www.traildehauteprovence.com/#" target="_blank" >Trail de Haute Provence</a>, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique,
                                 la préparation technique, une meilleure connaissance de la nutrition pour la course et de faire découvrir les sentiers du THP. Vous apprendrez également les techniques de course qui vous permettront de progresser en trail
                                 et aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, que ça soit l’entraînement, la gestion de l’effort ou la récupération.<br><br></p>
                         </section>
                         <section>
-                            <h1 id="Media" class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;margin-bottom: 36px;">Programme</h1>
-                            <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;" id="Programme"><a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Jour 1<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
+                            <h1 class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;margin-bottom: 36px;"><span id="prog"></span>Programme</h1>
+                            <div class="text-left" style="margin-top: 4%;margin-bottom: 3%;margin-left: 75px;"><a class="btn btn-dark" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-1" href="#collapse-1" role="button" style="background-color: #276746;">Jour 1<i class="fas fa-plus" style="margin-left: 40px;"></i></a>
                                 <div
                                     class="collapse" id="collapse-1">
                                     <p style="margin-right: 2%;margin-left: 2%;color: #000000;width: 646px;"><br>• 13h30 - 14h00 Accueil et installation des participants<br>• 14h00 - 15h30 Présentation du stage et recueil des souhaits des participants<br>• 15h30 - 18h00 Sortie simple avec ou sans bâtons. Quelle est ma meilleure&nbsp;
@@ -80,7 +80,7 @@
                 </div>
                 </section>
                 <section>
-                    <h1  class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;margin-top: 39px;">Niveau</h1>
+                    <h1  class="title" style="font-family: 'Zen-Its Sans';margin-left: 0%;margin-right: 3%;margin-top: 39px;"> <span id="Programme"></span>Niveau</h1>
                 </section>
                 <div class="row">
                     <div class="col-md-12" style="margin-top: -5%;margin-bottom: 8%;">

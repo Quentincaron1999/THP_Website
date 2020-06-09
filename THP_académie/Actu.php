@@ -12,15 +12,16 @@
     <div style="margin-top: 6%;margin-bottom: 11%;">
         <div class="container" style="margin-top: 3%" >
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <h1 style="color: #F7EED1;">Article</h1>
+                    <img src="assets/img/49836707756_c90fd1f0d0_o.jpg" style="height: 40%;">
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <h1 style="margin-bottom: 8%; color: #F7EED1;">Facebook</h1>
                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthpacademie%2Fposts%2F1050757068653588&show_text=true&width=552&height=515&appId" width="80%" height="" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" ></iframe>
                    <div style="margin-top: 20px;"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthpacademie%2Fposts%2F1002882230107739&show_text=true&width=552&height=534&appId" width="80%" height="" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <h1 style="color: #F7EED1;">Témoignages</h1>
                     
                     <div class="row people" style="margin-top: 3em;">

@@ -2161,7 +2161,6 @@ i.fa.fa-edit.ml-3x {
     display: block;
   }
   
-  .dropdown>.dropdown-toggle:active {
-    /*Without this, clicking will make it sticky*/
-      // pointer-events: none;
-  }
+  h1{ position:relative; }
+
+  h1 span{ position:absolute; top:-300px;}
