@@ -13,10 +13,10 @@
 <form id="msform">
   <!-- progressbar -->
   <ul id="progressbar">
-    <li class="active">Account Setup</li>
-    <li>Social Profiles</li>
-    <li>Personal Details</li>
-    <li>Other</li>
+    <li class="active">Formulaire d'inscription</li>
+    <li>Option & Mode de Paiement</li>
+    <li>Paiement</li>
+    <li>COnfirmation d'inscription</li>
   </ul>
   <!-- fieldsets -->
   <fieldset>
@@ -26,6 +26,15 @@
     <input type="text" name="nom" placeholder="Nom" require>
     <input type="text" name="prenom" placeholder="Prenom" require>
     <input type="date" name="naissdate" placeholder="Date de Naissance" require/>
+    <select id="input" name="sexe">
+        <option value="Homme">Homme</option>
+        <option value="Femme">Femme</option>
+    </select>
+    <!--Catégorie-->
+    <!--Nationalité-->
+    <input type="email" name="mail" placeholder="Email" require/>
+    <input type="email" name="mail" placeholder="Confirm Email" require/>
+
     <input type="password" name="cpass" placeholder="Confirm Password" />
 
     <h3 class="fs-subtitle">Autre Information</h3>
@@ -34,7 +43,7 @@
 
   </fieldset>
   <fieldset>
-    <h2 class="fs-title">Social Profiles</h2>
+    <h2 class="fs-title">Option & Mode de Paiement</h2>
     <h3 class="fs-subtitle">Your presence on the social network</h3>
     <input type="text" name="twitter" placeholder="Twitter" />
     <input type="text" name="facebook" placeholder="Facebook" />
@@ -53,7 +62,7 @@
     <input type="button" name="next" class="next action-button" value="Next" />
   </fieldset>
   <fieldset>
-    <h2 class="fs-title">Personal Details</h2>
+    <h2 class="fs-title">Confirmation d'inscription</h2>
     <h3 class="fs-subtitle">We will never sell it</h3>
     <input type="text" name="fname" placeholder="First Name" />
     <input type="text" name="lname" placeholder="Last Name" />
