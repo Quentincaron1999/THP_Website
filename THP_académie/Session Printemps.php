@@ -31,14 +31,14 @@
             <div
                 class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav mr-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link active" href="#Details" style="color: rgb(255,255,255);">En Bref</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#Details" style="color: rgb(255,255,255);">En Bref</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#prog" style="color: rgb(255,255,255);">Programme</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Programme" style="color: rgb(255,255,255);">Niveau</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Dates" style="color: rgb(255,255,255);">Le matériel<br></a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Niveau" style="color: rgb(255,255,255);">Votre cadre</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Cartes" style="color: rgb(255,255,255);">Les + du séjour<br></a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#Avis" style="color: rgb(255,255,255);">Témoignages<br></a></li>
-                </ul><span class="navbar-text actions"> <a class="btn btn-light action-button" role="button" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU" style="background-color: #0f5530;filter: blur(0px) hue-rotate(0deg) invert(0%) sepia(0%);">S'inscrire</a></span></div>
+                </ul><span class="navbar-text actions"> <a class="btn btn-light action-button" target="_blank" role="button" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU" style="background-color: #0f5530;filter: blur(0px) hue-rotate(0deg) invert(0%) sepia(0%);">S'inscrire</a></span></div>
         </div>
     </nav>
     <div>
