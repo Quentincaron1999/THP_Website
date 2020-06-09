@@ -1,8 +1,44 @@
-<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+<!-- Pré-Navbar -->
+
+<nav class="navbar is-fixed-top prenav" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="index.php">
-      <img src="assets/img/logo_thpacademie.png"  width="112" height="90">
     </a>
+
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+        <a class="navbar-item">contact</a>
+        <a class="navbar-item">Pays </a>
+        <a class="navbar-item">Qui sommes nous ?</a>
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item">
+       
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+
+<!-- Principal Navbar -->
+
+<nav class="navbar is-fixed-top nav-principal" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="index.php">
+            <img src="assets/img/logo_thpacademie.png"  width="112" height="90">
+        </a>
 
     <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>

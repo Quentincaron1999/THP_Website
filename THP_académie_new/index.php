@@ -22,11 +22,35 @@
 
     <!-- Session's Card -->
     <div class="container is-widescreen">
-        <div class="banner-presentation"> 
-            
+        <div class="full-card-home"> 
+            <!-- Wide Card -->
+            <div class="columns principal card-home">
+                
+                <div class="column is-full card-one">
+                    <h1>Session d'été 2020</h1>
+                    <a class="button is-primary" href="https://google.com" target="_blank">S'inscrire</a>
+                    <a class="button is-primary" href="Session-Ete.php">Programme</a>
+                </div>
+            </div>
+
+            <!-- Half Card -->
+            <div class="columns card-home">
+                <div class="column card-two">
+                    <h1>Session Automne 2020</h1>
+                </div>
+                <div class="column card-three">
+                    <h1>Session Printemps 2021</h1>
+                </div>
+            </div>
         </div>
     </div>
 
+
     
+    <!-- Maps -->
+    <iframe allowfullscreen="" frameborder="0" src="https://www.google.com/maps/embed/v1/search?key=AIzaSyDq1G7DlVkMkuf5YdPcltF4jFLdBAJBS9s&amp;q=Forcalquier+&amp;zoom=7" width="100%" height="450"></iframe>
+
+    <?php include("components/footer.php")?>
+
 </body>
 </html>

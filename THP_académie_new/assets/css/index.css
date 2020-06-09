@@ -1,5 +1,4 @@
 .video {
-
     height: 0; 
     padding-bottom: 56.25%;
     position: relative; 
@@ -18,4 +17,50 @@
     margin-top: -7em;
     background-size: contain;
     background-repeat: no-repeat;
+}
+
+.card-home {
+    height: 30em;
+}
+
+
+
+.card-one {
+    margin-bottom: 1em;
+    background: no-repeat url("../img/card1.jpg");
+}
+
+
+
+.card-two {
+    margin-right: 1em;
+    background: no-repeat url("../img/card1.jpg");
+}
+
+    
+.card-three {
+    margin-left: 1em;
+    background: no-repeat url("../img/card1.jpg");
+}
+
+.card-two, .card-three {
+    margin-top: 1em;
+}
+
+.card-one, .card-two, .card-three {
+    border-radius: 1em;
+    text-align: center;
+    background-position: center center;
+    background-size: cover;
+}
+
+.card-home h1 {
+    color: white;
+}
+
+.full-card-home {
+    margin-top: 2em;
+    height: 62em;
+    margin-left: 1em;
+    margin-right: 1.5em;
 }
