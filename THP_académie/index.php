@@ -23,6 +23,18 @@
                 <div class="col-md-12" style="width: 100%;height: 227px;margin-bottom: 22px;margin-top: -54px;"><img style="width: 100%;height: 84%;margin-bottom: 0;background-position: center;margin-top: -38px;background-size: contain;background-repeat: no-repeat;" src="assets/img/Imagcsse1.png"></div>
             </div>
             <div class="row" style="margin-top: -34px;">
+                <div class="col-md-12" style="height: 418px;margin-bottom: 2%;margin-right: 0;">
+                    <div style="width: 100%;height: 100%;"><img style="width: 100%;height: 100%;" src="assets/img/wyJkcs0A.jpeg">
+                        <div style="margin-top: -38%;width: 100%;height: 50%;">
+                            <h1 style="color: rgb(255,255,255);margin-left: 6%;margin-bottom: 9px;">Session d'été 2020</h1>
+                            <!--<p style="color: rgb(255,255,255);margin-left: 7%;letter-spacing: 0px;font-weight: bold;">Du 6 au 8 novembre</p>-->
+                            <div class="btn-group" role="group" style="margin-left: 30%; margin-top: 20%"><a class="btn btn-primary border rounded border-light shadow-sm" role="button" style="background-color: #276746;" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/?fbclid=IwAR0Bcd5kwOhzonpNotIQ0prObR5TkvwjhMgeXZkcmrt7Oa2rwRXxL1XSjwU"
+                                    target="_blank">S'inscrire</a><a class="btn btn-primary border rounded border-light shadow-sm" role="button" style="margin-left: 21%;height: 38px;background-color: #276746;" href="Session%20Automne.php">Programme</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" >
                 <div class="col-md-6" style="height: 418px;margin-bottom: 2%;margin-right: 0;">
                     <div style="width: 100%;height: 100%;"><img style="width: 100%;height: 100%;" src="assets/img/wyJkcs0A.jpeg">
                         <div style="margin-top: -38%;width: 100%;height: 50%;">
