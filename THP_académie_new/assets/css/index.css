@@ -24,20 +24,20 @@
 }
 
 .card-one {
-    margin-bottom: 1em;
+    /*margin-bottom: 1em;*/
     background: no-repeat url("../img/card1.jpg");
 }
 
 
 
 .card-two {
-    margin-right: 1em;
+    /*margin-right: 1em;*/
     background: no-repeat url("../img/card1.jpg");
 }
 
     
 .card-three {
-    margin-left: 1em;
+    /*margin-left: 1em;*/
     background: no-repeat url("../img/card1.jpg");
 }
 

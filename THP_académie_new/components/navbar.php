@@ -1,20 +1,24 @@
 <!-- Pré-Navbar -->
 
-<nav class="navbar is-fixed-top prenav" role="navigation" aria-label="main navigation">
-  <div id="navbarBasicExample" class="navbar-menu">
-    <div class="navbar-start">
-        <a class="navbar-item">contact</a>
-        <a class="navbar-item">Pays </a>
-        <a class="navbar-item">Qui sommes nous ?</a>
-    </div>
+<nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation">
+    <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start">
+            <a class="navbar-item">contact</a>
+            <a class="navbar-item">Pays </a>
+            <a class="navbar-item">Qui sommes nous ?</a>
+        </div>
 
-    <div class="navbar-end">
-      <div class="navbar-item">
-       
-      </div>
+        <div class="navbar-end">
+            <div class="navbar-item">
+                <a class="button is-primary is-rounded">
+                    <span class="icon">
+                        <i class="fab fa-twitter"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
     </div>
-  </div>
-</nav>
+</nav> 
 
 
 
@@ -23,13 +27,13 @@
 
 <!-- Principal Navbar -->
 
-<nav id="principal-nav" class="navbar is-fixed-top nav-principal" role="navigation" aria-label="main navigation">
+<nav id="principal-nav" class="navbar is-fixed-top is-mobile" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php">
-            <img src="assets/img/logo_thpacademie.png"  width="112" height="90">
+            <img src="assets/img/logo_thpacademie.png"  width="90" height="90">
         </a>
 
-    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+    <a role="button" class="navbar-burger burger is-mobile" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
@@ -46,13 +50,13 @@
                 <a class="navbar-item">Session Printemps 2021</a>
             </div>
         </div>
-        <a class="navbar-item">Niveaux</a>
+        <a class="navbar-item" href="Niveaux.php">Niveaux</a>
         <a class="navbar-item">Coaching</a>
         <a class="navbar-item">Photos/Vidéo</a>
-        <a class="navbar-item">Actualités</a>      
+        <a class="navbar-item" href="Actualite.php">Actualités</a>      
     </div>
 
-    <!--<div class="navbar-end">
+    <div class="navbar-end">
       <div class="navbar-item">
         <div class="buttons">
           <a class="button is-primary">
@@ -62,10 +66,11 @@
             Log in
           </a>
         </div>
-      </div>-->
+      </div>
     </div>
   </div>
 </nav>
+
 
 
 <script>

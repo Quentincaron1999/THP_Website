@@ -1,16 +1,14 @@
-<div class="session-head-pic">
-    <img src="assets/img/Lure.jpg">
-</div>
+<?php include("banner-page.php")?>
 <nav id="navbar-top" class="navbar nav-session" role="navigation" aria-label="main navigation">
 	<div id="navbarBasicExample" class="navbar-menu">
     	<div class="navbar-start">
 		<h1 class="navbar-item">Session Eté</h1>
-        <a class="navbar-item">En Bref</a>
-        <a class="navbar-item">Programme</a>
-		<a class="navbar-item">Niveau</a>
-		<a class="navbar-item">Le matériel</a>
-		<a class="navbar-item">Votre Cadre</a>
-		<a class="navbar-item">Les + du séjour</a>
+        <a class="navbar-item" href="#EnBref">En Bref</a>
+        <a class="navbar-item" href="#Programme">Programme</a>
+		<a class="navbar-item" href="Niveau">Niveau</a>
+		<a class="navbar-item" href="LeMateriel">Le matériel</a>
+		<a class="navbar-item" href="VotreCadre">Votre Cadre</a>
+		<a class="navbar-item" href="LesPlus">Les + du séjour</a>
 		<a class="navbar-item">Témoignages</a>
     </div>
 

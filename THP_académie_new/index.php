@@ -14,7 +14,7 @@
     </div>
 
     <!-- Principal Banner -->
-    <div class="container is-widescreen">
+    <div class="container is-widescreen is-hidden-mobile">
         <div class="banner-presentation is-full-mobile"> 
             <img src="assets/img/banner-index.png">
         </div>
@@ -24,21 +24,21 @@
     <div class="container is-widescreen">
         <div class="full-card-home"> 
             <!-- Wide Card -->
-            <div class="columns principal card-home is-mobile">
+            <div class="columns principal card-home is-mobile mt-6-mobile">
                 
                 <div class="column is-full card-one">
-                    <h1>Session d'été 2020</h1>
-                    <a class="button is-primary" href="https://google.com" target="_blank">S'inscrire</a>
-                    <a class="button is-primary" href="Session-Ete.php">Programme</a>
+                    <h1 class="pt-6">Session d'été 2020</h1>
+                    <a class="button is-primary mt-6" href="https://google.com" target="_blank">S'inscrire</a>
+                    <a class="button is-primary mt-6" href="Session-Ete.php">Programme</a>
                 </div>
             </div>
 
             <!-- Half Card -->
-            <div class="columns card-home is-mobile">
-                <div class="column card-two">
+            <div class="columns card-home is-mobile is-multiline is-4 is-full-mobile mt-2-desktop">
+                <div class="column card-two mr-3-desktop">
                     <h1>Session Automne 2020</h1>
                 </div>
-                <div class="column card-three">
+                <div class="column card-three ml-3-desktop">
                     <h1>Session Printemps 2021</h1>
                 </div>
             </div>

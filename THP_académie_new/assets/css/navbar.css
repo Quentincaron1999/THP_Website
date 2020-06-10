@@ -1,11 +1,11 @@
 .prenav {
-    background-color: #0F5631;
+    background-color: #276746;
     height: 2em;
 }
 
-.nav-principal {
-    margin-top: 3em;
-    height: 4em;
+#principal-nav {
+    margin-top: 3.25rem;
+    /*height: 4em;*/
 }
 
 .session-head-pic {
@@ -15,7 +15,12 @@
 }
 
 .nav-session {
-    background-color: #0F5631;
+    background-color: #276746;
     height: 5em;
 
+}
+
+.title {
+    color: #276746;
+    font-weight: bold;
 }
