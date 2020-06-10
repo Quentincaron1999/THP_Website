@@ -76,7 +76,15 @@
 }
 
 
-section #EnBref {
-    position:a bsolute; 
-    top: -2000px;
-}
+@media screen and (min-width: 768px) {
+    .navsix {
+      margin-top: 3.25rem;
+    }
+
+    .margincardl {
+        margin-left: 1rem;
+    }
+    .margincardr {
+        margin-right: 1rem;
+    }
+  }

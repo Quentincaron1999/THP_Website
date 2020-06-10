@@ -35,14 +35,14 @@
             </div>
 
             <!-- Half Card -->
-            <div class="columns card-home is-mobile is-multiline is-4 ">
-                <div class="column card-two is-full-mobile">
+            <div class="columns card-home is-mobile is-multiline is-4 mb-6">
+                <div class="column card-two is-full-mobile margincardr">
                     <h1 class="pt-5 title">Session Automne 2020</h1>
                     <p class="date-color">du 6 au 8 novembre 2020</p>
                     <a class="button is-primary mt-6" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/" target="_blank">S'inscrire</a>
                     <a class="button is-primary mt-6" href="Session-Automn.php">Programme</a>
                 </div>
-                <div class="column card-three is-full-mobile">
+                <div class="column card-three is-full-mobile margincardl">
                     <h1 class="pt-5 title">Session Printemps 2021</h1>
                     <p class="date-color">du 19 au 21 mars 2021</p>
                     <a class="button is-primary mt-6" href="http://thpacademielestagedetraildu19au21mars2021.ikinoa.com/" target="_blank">S'inscrire</a>
@@ -52,7 +52,7 @@
         </div>
     </div>
     <div class="column is-full mt-6">
-        <h1 class="pt-1 title has-text-centered">La plus belle des destinations : La Provence</h1>
+        <h1 class="pt-1 title has-text-centered mt-6">La plus belle des destinations : La Provence</h1>
         <p class="has-text-centered">
         Venez découvrir le Pays de Forcalquier – Montagne de Lure.<br>
 Situé au cœur de la Provence, dans le parc naturel régional du Luberon, au pied de la montagne de Lure, vous allez adorer !

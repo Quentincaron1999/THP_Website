@@ -18,7 +18,7 @@
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">En Bref</h1>
-                        <img src="assets/img/banner-automn.png">
+                        <img src="assets/img/banner-spring.png">
                         <p class="has-text-justified is-size-5-fullhd mt-4">
                             Au fur et à mesure des éditions du <a href="http://www.traildehauteprovence.com/#">Trail de Haute Provence</a>, l’envie est née de proposer des 
                             programmes d’entraînements combinant la préparation physique, la préparation technique, une 

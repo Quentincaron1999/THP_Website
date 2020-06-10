@@ -1,4 +1,6 @@
-<?php include("banner-page.php")?>
+<div class="session-head-pic">
+    <img src="assets/img/summer-session1.jpeg" >
+</div>
 <nav id="navbar-top" class="navbar nav-session is-hidden-mobile" role="navigation" aria-label="main navigation">
 	<div id="navbarBasicExample" class="navbar-menu">
     	<div class="navbar-start">

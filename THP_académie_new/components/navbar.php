@@ -1,7 +1,7 @@
 <!-- Pré-Navbar -->
 
 <nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation">
-    <div id="navbarBasicExample" class="navbar-menu">
+    <div id="navbarBasicExample" class="navbarmenu">
         <div class="navbar-start">
             <a class="navbar-item" href="Contact.php">contact</a>
             <a class="navbar-item"><img src="assets/img/francefav.png"></a>
@@ -10,35 +10,35 @@
 
         <div class="navbar-end">
         <div class="navbar-item">
-                <a class="button is-primary is-rounded" href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour">
+                <a class="button is-primary is-rounded" href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour" target="_blank">
                     <span class="icon">
                         <i class="fab fa-facebook"></i>
                     </span>
                 </a>
             </div>
             <div class="navbar-item">
-                <a class="button is-primary is-rounded" href="https://www.instagram.com/thpacademie/">
+                <a class="button is-primary is-rounded" href="https://www.instagram.com/thpacademie/" target="_blank">
                     <span class="icon">
                         <i class="fab fa-instagram"></i>
                     </span>
                 </a>
             </div>
             <div class="navbar-item">
-                <a class="button is-primary is-rounded" href="https://twitter.com/search?q=thp%20academie&src=typed_query">
+                <a class="button is-primary is-rounded" href="https://twitter.com/search?q=thp%20academie&src=typed_query" target="_blank">
                     <span class="icon">
                         <i class="fab fa-twitter"></i>
                     </span>
                 </a>
             </div>
             <div class="navbar-item">
-                <a class="button is-primary is-rounded" href="https://www.flickr.com/photos/traildehauteprovence/">
+                <a class="button is-primary is-rounded" href="https://www.flickr.com/photos/traildehauteprovence/" target="_blank">
                     <span class="icon">
                         <i class="fab fa-flickr"></i>
                     </span>
                 </a>
             </div>
             <div class="navbar-item">
-                <a class="button is-primary is-rounded" href="https://www.youtube.com/channel/UCTan_ztQqHsh34A8KeTz0Hg">
+                <a class="button is-primary is-rounded" href="https://www.youtube.com/channel/UCTan_ztQqHsh34A8KeTz0Hg" target="_blank">
                     <span class="icon">
                         <i class="fab fa-youtube"></i>
                     </span>
@@ -55,7 +55,7 @@
 
 <!-- Principal Navbar -->
 
-<nav id="principal-nav" class="navbar is-fixed-top is-mobile mt-6" role="navigation" aria-label="main navigation">
+<nav id="principal-nav" class="navbar is-fixed-top is-mobile navsix" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php">
             <img src="assets/img/logo_thpacademie.png"  width="90" height="90">
@@ -79,7 +79,7 @@
             </div>
         </div>
         <a class="navbar-item" href="Niveaux.php">Niveaux</a>
-        <a class="navbar-item">Coaching</a>
+        <a class="navbar-item" href="Coaching.php">Coaching</a>
         <a class="navbar-item" href="Photos.php">Photos/Vidéo</a>
         <a class="navbar-item" href="Actualite.php">Actualités</a>      
     </div>
