@@ -13,7 +13,7 @@
     <?php include("components/session_head.php")?>
 
     <div class="columns border ">
-        <div class="column is-two-thirds is-mobile ">
+        <div class="column is-two-thirds is-mobile is-offset-1-desktop">
             <section id="EnBref" class="hero">
                 <div class="hero-body">
                     <div class="container">

@@ -1,4 +1,4 @@
-<!-- Pré-Navbar -->
+<!-- Pré-Navbar 
 
 <nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation">
     <div id="navbarBasicExample" class="navbar-menu">
@@ -12,13 +12,13 @@
             <div class="navbar-item">
                 <a class="button is-primary is-rounded">
                     <span class="icon">
-                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-instagram"></i>
                     </span>
                 </a>
             </div>
         </div>
     </div>
-</nav> 
+</nav>-->
 
 
 
@@ -27,7 +27,7 @@
 
 <!-- Principal Navbar -->
 
-<nav id="principal-nav" class="navbar is-fixed-top is-mobile" role="navigation" aria-label="main navigation">
+<nav id="principal-nav" class="navbar is-fixed-top is-mobile " role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php">
             <img src="assets/img/logo_thpacademie.png"  width="90" height="90">
@@ -45,14 +45,14 @@
         <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">Programme</a>
             <div class="navbar-dropdown">
-                <a class="navbar-item" href="Session-Ete.php">Session Eté 2020</a>
+                <a class="navbar-item" href="Session-Summer.php">Session Eté 2020</a>
                 <a class="navbar-item">Session Automne 2020</a>
                 <a class="navbar-item">Session Printemps 2021</a>
             </div>
         </div>
         <a class="navbar-item" href="Niveaux.php">Niveaux</a>
         <a class="navbar-item">Coaching</a>
-        <a class="navbar-item">Photos/Vidéo</a>
+        <a class="navbar-item" href="Photos.php">Photos/Vidéo</a>
         <a class="navbar-item" href="Actualite.php">Actualités</a>      
     </div>
 

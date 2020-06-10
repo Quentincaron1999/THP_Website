@@ -25,20 +25,20 @@
 
 .card-one {
     /*margin-bottom: 1em;*/
-    background: no-repeat url("../img/card1.jpg");
+    background: no-repeat url("../img/summer-session.jpeg");
 }
 
 
 
 .card-two {
     /*margin-right: 1em;*/
-    background: no-repeat url("../img/card1.jpg");
+    background: no-repeat url("../img/automn-session.jpeg");
 }
 
     
 .card-three {
     /*margin-left: 1em;*/
-    background: no-repeat url("../img/card1.jpg");
+    background: no-repeat url("../img/spring-session.jpeg");
 }
 
 .card-two, .card-three {
@@ -61,4 +61,8 @@
     height: 62em;
     margin-left: 1em;
     margin-right: 1.5em;
+}
+
+.date-color{
+    color: white;
 }

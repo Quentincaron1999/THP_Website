@@ -3,6 +3,8 @@
 <title>Thpacademie</title>
 <meta property="og:type" content="">
 
+<script src="https://kit.fontawesome.com/7c45976c80.js" crossorigin="anonymous"></script>
+
                     <!-- Favicon -->
 <link rel="icon" type="image/png" sizes="1110x1114" href="assets/img/favicon.png">
 
@@ -11,3 +13,9 @@
 <link rel="stylesheet" href="assets/css/bulma.css">
 <link rel="stylesheet" href="assets/css/index.css">
 <link rel="stylesheet" href="assets/css/navbar.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+<link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+<link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">

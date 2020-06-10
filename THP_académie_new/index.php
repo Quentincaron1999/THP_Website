@@ -27,24 +27,37 @@
             <div class="columns principal card-home is-mobile mt-6-mobile">
                 
                 <div class="column is-full card-one">
-                    <h1 class="pt-6">Session d'été 2020</h1>
-                    <a class="button is-primary mt-6" href="https://google.com" target="_blank">S'inscrire</a>
-                    <a class="button is-primary mt-6" href="Session-Ete.php">Programme</a>
+                    <h1 class="pt-6 title">Session d'été 2020</h1>
+                    <p class="date-color">du 31 juillet au 2 août 2020</p>
+                    <a class="button is-primary mt-6" href="http://thpacademielestagedetraildu31juilletau2aout2020.ikinoa.com/" target="_blank">S'inscrire</a>
+                    <a class="button is-primary mt-6" href="Session-Summer.php">Programme</a>
                 </div>
             </div>
 
             <!-- Half Card -->
-            <div class="columns card-home is-mobile is-multiline is-4 is-full-mobile mt-2-desktop">
-                <div class="column card-two mr-3-desktop">
-                    <h1>Session Automne 2020</h1>
+            <div class="columns card-home is-mobile is-multiline is-4 ">
+                <div class="column card-two is-full-mobile">
+                    <h1 class="pt-5 title">Session Automne 2020</h1>
+                    <p class="date-color">du 6 au 8 novembre 2020</p>
+                    <a class="button is-primary mt-6" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/" target="_blank">S'inscrire</a>
+                    <a class="button is-primary mt-6" href="Session-Automn.php">Programme</a>
                 </div>
-                <div class="column card-three ml-3-desktop">
-                    <h1>Session Printemps 2021</h1>
+                <div class="column card-three is-full-mobile">
+                    <h1 class="pt-5 title">Session Printemps 2021</h1>
+                    <p class="date-color">du 19 au 21 mars 2021</p>
+                    <a class="button is-primary mt-6" href="http://thpacademielestagedetraildu19au21mars2021.ikinoa.com/" target="_blank">S'inscrire</a>
+                    <a class="button is-primary mt-6" href="Session-Spring.php">Programme</a>
                 </div>
             </div>
         </div>
     </div>
-
+    <div class="column is-full mt-6">
+        <h1 class="pt-1 title has-text-centered">La plus belle des destinations : La Provence</h1>
+        <p class="has-text-centered">
+        Venez découvrir le Pays de Forcalquier – Montagne de Lure.<br>
+Situé au cœur de la Provence, dans le parc naturel régional du Luberon, au pied de la montagne de Lure, vous allez adorer !
+        </p>
+    </div>
 
     
     <!-- Maps -->
