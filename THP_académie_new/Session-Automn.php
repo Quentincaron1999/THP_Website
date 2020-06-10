@@ -10,7 +10,7 @@
     <?php include("components/navbar.php")?>
 
     <!-- Header of session -->
-    <?php include("components/session_head.php")?>
+    <?php include("components/session_head-automn.php")?>
 
     <div class="columns border ">
         <div class="column is-two-thirds is-mobile is-offset-1-desktop">
@@ -23,7 +23,6 @@
                             Au fur et à mesure des éditions du <a href="http://www.traildehauteprovence.com/#">Trail de Haute Provence</a>, l’envie est née de proposer des 
                             programmes d’entraînements combinant la préparation physique, la préparation technique, une 
                             meilleure connaissance de la nutrition pour la course et de faire découvrir les sentiers du THP.<br>
-                            Au cours de ces 3 jours, nous allons vous emmenez sur le parcours de l’Ultra de Provence 150 km / 7 000 m d+<br>
                             Vous apprendrez également les techniques de course qui vous permettront de progresser en trail et 
                             aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, 
                             que ça soit l’entraînement, la gestion de l’effort ou la récupération.
@@ -47,14 +46,13 @@
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
                                     <div class="dropdown-item">
-                                        <p>• 07h00 - 07h30 Petit-déjeuner<br>
-                                            • 07h30 - 14h00 Sur les traces du THP : de 20 à 40 km (en fonction du niveau)<br>
-                                            • 14h00 - 15h00 Déjeuner<br>
-                                            • 15h00 - 16h30 Temps libre et récupération<br>
-                                            • 16h30 - 18h00 Travail sur la vitesse, adapté à toutes et tous<br>
-                                            • 18h00 - 19h00 Séance de Yoga<br>
-                                            • 19h00 - 20h00 Douche et temps libre<br>
-                                            • 20h00&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dîner avec analyse des vidéos suivi d’un débat sur les accessoires de la performance
+                                        <p> •  13h30 - 14h00 Accueil et installation des participants<br>
+                                            • 14h00 - 15h30 Présentation du stage et recueil des souhaits des participants<br>
+                                            • 15h30 - 18h00 Sortie simple avec ou sans bâtons. Quelle est ma meilleuremontée ? La descente une affaire de technique (vidéos) ! <br>
+                                            • 18h00 - 18h30 Douche<br>
+                                            • 18h30 - 20h00 Analyse des vidéos et échanges avec Julien<br>
+                                            • 20h00 - 21h00 Dîner tous ensemble et discussion<br>
+                                            • 21h00&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Vous et les facteurs de performance en trail vus du côté athlète<br>
                                         </p>
                     
                                     </div>
@@ -99,14 +97,13 @@
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
                                     <div class="dropdown-item">
-                                        <p>• 07h00 - 07h30 Petit-déjeuner<br>
-                                            • 07h30 - 14h00 Sur les traces du THP : de 20 à 40 km (en fonction du niveau)<br>
-                                            • 14h00 - 15h00 Déjeuner<br>
-                                            • 15h00 - 16h30 Temps libre et récupération<br>
-                                            • 16h30 - 18h00 Travail sur la vitesse, adapté à toutes et tous<br>
-                                            • 18h00 - 19h00 Séance de Yoga<br>
-                                            • 19h00 - 20h00 Douche et temps libre<br>
-                                            • 20h00&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dîner avec analyse des vidéos suivi d’un débat sur les accessoires de la performance
+                                        <p> • 07h00 - 08h00 Séance de Yoga<br>
+                                            • 08h00 - 09h00 Petit déjeuner<br>
+                                            • 09h00 - 12h00 Sortie nature : de la théorie à la pratique<br>
+                                            • 12h00 - 12h30 Douche<br>
+                                            • 12h30 - 13h30 Déjeuner<br>
+                                            • 13h30 - 15h00 Remise des diplômes aux stagiaires et bilan du stage<br>
+                                            • 15h00&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fin du stage
                                         </p>
                     
                                     </div>

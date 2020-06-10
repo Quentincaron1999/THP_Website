@@ -1,24 +1,52 @@
-<!-- Pré-Navbar 
+<!-- Pré-Navbar -->
 
 <nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation">
     <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start">
-            <a class="navbar-item">contact</a>
-            <a class="navbar-item">Pays </a>
-            <a class="navbar-item">Qui sommes nous ?</a>
+            <a class="navbar-item" href="Contact.php">contact</a>
+            <a class="navbar-item"><img src="assets/img/francefav.png"></a>
+            <a class="navbar-item" href="QuiSommesNous.php">Qui sommes nous ?</a>
         </div>
 
         <div class="navbar-end">
+        <div class="navbar-item">
+                <a class="button is-primary is-rounded" href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour">
+                    <span class="icon">
+                        <i class="fab fa-facebook"></i>
+                    </span>
+                </a>
+            </div>
             <div class="navbar-item">
-                <a class="button is-primary is-rounded">
+                <a class="button is-primary is-rounded" href="https://www.instagram.com/thpacademie/">
                     <span class="icon">
                         <i class="fab fa-instagram"></i>
                     </span>
                 </a>
             </div>
+            <div class="navbar-item">
+                <a class="button is-primary is-rounded" href="https://twitter.com/search?q=thp%20academie&src=typed_query">
+                    <span class="icon">
+                        <i class="fab fa-twitter"></i>
+                    </span>
+                </a>
+            </div>
+            <div class="navbar-item">
+                <a class="button is-primary is-rounded" href="https://www.flickr.com/photos/traildehauteprovence/">
+                    <span class="icon">
+                        <i class="fab fa-flickr"></i>
+                    </span>
+                </a>
+            </div>
+            <div class="navbar-item">
+                <a class="button is-primary is-rounded" href="https://www.youtube.com/channel/UCTan_ztQqHsh34A8KeTz0Hg">
+                    <span class="icon">
+                        <i class="fab fa-youtube"></i>
+                    </span>
+                </a>
+            </div>
         </div>
     </div>
-</nav>-->
+</nav>
 
 
 
@@ -27,7 +55,7 @@
 
 <!-- Principal Navbar -->
 
-<nav id="principal-nav" class="navbar is-fixed-top is-mobile " role="navigation" aria-label="main navigation">
+<nav id="principal-nav" class="navbar is-fixed-top is-mobile mt-6" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php">
             <img src="assets/img/logo_thpacademie.png"  width="90" height="90">
@@ -46,8 +74,8 @@
             <a class="navbar-link">Programme</a>
             <div class="navbar-dropdown">
                 <a class="navbar-item" href="Session-Summer.php">Session Eté 2020</a>
-                <a class="navbar-item">Session Automne 2020</a>
-                <a class="navbar-item">Session Printemps 2021</a>
+                <a class="navbar-item" href="Session-Automn.php">Session Automne 2020</a>
+                <a class="navbar-item" href="Session-Spring.php">Session Printemps 2021</a>
             </div>
         </div>
         <a class="navbar-item" href="Niveaux.php">Niveaux</a>
@@ -56,7 +84,7 @@
         <a class="navbar-item" href="Actualite.php">Actualités</a>      
     </div>
 
-    <div class="navbar-end">
+    <!--<div class="navbar-end">
       <div class="navbar-item">
         <div class="buttons">
           <a class="button is-primary">
@@ -67,7 +95,7 @@
           </a>
         </div>
       </div>
-    </div>
+    </div>-->
   </div>
 </nav>
 

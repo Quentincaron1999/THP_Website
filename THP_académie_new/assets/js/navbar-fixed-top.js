@@ -5,7 +5,7 @@ if ($(window).width() > 992) {
             $('#navbar-top').removeClass("order-1");
             $('#navbar-top').addClass("order-2");
             $('#principal-nav').addClass("order-1");
-            $('#navbar-top').css('margin-top', '5%');
+            $('#navbar-top').css('margin-top', '3.25rem');
             // add padding top to show content behind navbar
             $('body').css('padding-top', $('.navbar').outerHeight() + 'px');
         }else{

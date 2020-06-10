@@ -74,3 +74,9 @@
 .gal-text{
     font-size: 2em;
 }
+
+
+section #EnBref {
+    position:a bsolute; 
+    top: -2000px;
+}

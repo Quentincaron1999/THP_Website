@@ -36,7 +36,7 @@
         </div>
         <div class="columns">
             <div class="column">
-                <p><a>Mention Légales</a> | <a>Condition Générales de Ventes</a> | <a>Contact</a></p>
+                <p><a href="MentionLegale.php">Mention Légales</a> | <a href="ConditionGeneraleVente.php">Condition Générales de Ventes</a> | <a href="Contact.php">Contact</a></p>
                 <p>Copyright OUTDOOR EVENTS IN PROVENCE</p>
             </div>
         </div>
