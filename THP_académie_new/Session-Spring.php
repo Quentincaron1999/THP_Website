@@ -256,6 +256,20 @@
                     </div>
                 </div>
             </section>
+            <section id="Tarif" class="hero">
+                <div class="hero-body">
+                    <div class="container">
+                        <h1 class="title">Tarif</h1>
+                        <h2>395 € par personne</h2>
+                        <p class="has-text-justified is-size-5-fullhd mt-4">
+                            Ce prix comprend la pension complète du vendredi soir au dimanche midi inclus, la prise en charge des accompagnateurs, des intervenants, la réalisation de vidéo, l’analyse des vidéos.
+                        </p>
+                        <p class="has-text-justified is-size-5-fullhd mt-4">
+                            Ce prix ne comprend pas le voyage A/R pour se rendre au stage, les dépenses personnelles (bar, autre extra), les frais bancaires pour l'inscription, ni l'assurance annulation proposée au moment de l'inscription.
+                        </p>
+                    </div>
+                </div>
+            </section>
             
 
 

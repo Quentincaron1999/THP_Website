@@ -17,7 +17,6 @@
 
 
 <script src="assets/js/navbar-fixed-top.js"></script>
-<script src="assets/js/navbar-flex.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.min.js"></script>
 

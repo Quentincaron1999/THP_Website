@@ -73,9 +73,9 @@
         <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">Programme</a>
             <div class="navbar-dropdown">
-                <a class="navbar-item" href="Session-Summer.php">Session Eté 2020</a>
-                <a class="navbar-item" href="Session-Automn.php">Session Automne 2020</a>
-                <a class="navbar-item" href="Session-Spring.php">Session Printemps 2021</a>
+                <a class="navbar-item" href="Session-Summer.php">Session été 2020</a>
+                <a class="navbar-item" href="Session-Automn.php">Session automne 2020</a>
+                <a class="navbar-item" href="Session-Spring.php">Session printemps 2021</a>
             </div>
         </div>
         <a class="navbar-item" href="Niveaux.php">Niveaux</a>

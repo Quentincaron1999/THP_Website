@@ -11,6 +11,7 @@
 		<a class="navbar-item" href="#LeMateriel">Le matériel</a>
 		<a class="navbar-item" href="#VotreCadre">Votre Cadre</a>
 		<a class="navbar-item" href="#LesPlus">Les + du séjour</a>
+		<a class="navbar-item" href="#Tarif">Tarif</a>
 		<a class="navbar-item" href="#Tem">Témoignages</a>
     </div>
 
