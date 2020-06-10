@@ -7,16 +7,24 @@
 <body>
 
     <?php include("components/navbar.php")?>
-    <div class="columns principal card-home is-mobile is-multiline has-text-centered mt-6 mb-6">
-        <div class="column is-half-fullhd is-full-touch" style="background-color: #173542">
-            <h1 class="title">Photos</h1>
-            <p>Des moments innoubliables</p>
-            <img src="assets/img/pic-pic.png">
+
+    <div class="columns principal is-mobile is-multiline has-text-centered mt-6 ivoire">
+            <div class="column">
+                <h1 class="title" style="text-decoration: underline;">Galerie</h1>
+            </div>
         </div>
-        <div class="column is-full-touch" style="background-color: #B21B42">
-            <h1 class="title">Vidéos</h1>
-            <p>Pour revoir encore et encore</p>
-            <img src="assets/img/pic-vid.png">
+
+
+    <div class="columns is-mobile is-multiline has-text-centered mt-6 ivoire">
+        <div class="column is-half-fullhd is-full-touch">
+            <h2 class="title">Photos</h2>
+            <p class="gal-text">Des moments innoubliables</p>
+            <img src="assets/img/pic-pic.png" style="border-radius: 0.5em;">
+        </div>
+        <div class="column is-full-touch">
+            <h2 class="title">Vidéos</h2>
+            <p class="gal-text">Pour revoir encore et encore</p>
+            <img src="assets/img/pic-vid.png" style="border-radius: 0.5em;">
         </div>
     </div>
 
