@@ -10,7 +10,7 @@
     <?php include("components/navbar.php")?>
 
     <!-- Header of session -->
-    <?php include("components/session_head.php")?>
+    <?php include("components/session_head-summer.php")?>
 
     <div class="columns border ">
         <div class="column is-two-thirds is-mobile is-offset-1-desktop">
