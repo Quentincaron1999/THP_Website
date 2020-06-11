@@ -5,8 +5,8 @@
 		<h1 class="navbar-item ivoire">Coaching</h1>
         <a class="navbar-item ivoire" href="#EnBref">En Bref</a>
         <a class="navbar-item ivoire" href="#PEP">Plan d'entraînement personnalisé</a>
-		<a class="navbar-item ivoire" href="#Niveau">Nutrition</a>
-		<a class="navbar-item ivoire" href="#LeMateriel">Yoga</a>
+		<a class="navbar-item ivoire" href="#Nutrition">Nutrition</a>
+		<a class="navbar-item ivoire" href="#Yoga">Yoga</a>
 	</div>
 
     <div class="navbar-end">

@@ -139,7 +139,7 @@
                                             </tr>
                                             <tr>
                                                 <td class="table-thp3 table-font">Epérience en Trails</td>
-                                                <td>Finisher&nbsp;sur des&nbsp;trails en montagne d'au moins 40 km et 2000 m D+<br></td>
+                                                <td>Finisher&nbsp;sur des&nbsp;trails en montagne d'au moins 40 km et 2 000 m D+<br></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -188,7 +188,7 @@
                                 <thead>
                                     <tr>
                                         <th class="text-center">Obligatoire</th>
-                                        <th class="text-center">Recommandé<</th>
+                                        <th class="text-center">Recommandé</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -226,13 +226,13 @@
                     <div class="container">
                         <h1 class="title">Les + du séjour</h1>
                         <ul style="margin-right: 0px;margin-left: -19px;">
-                            <li>• Situé au cœur de la Provence</li>
-                            <li>• Reconnaissance de la totalité du parcours de <a target="_blank" href="http://www.traildehauteprovence.com/parcours/ultra-de-provence-150-km-7-000-m-d-6-points-itra/">l’Ultra de Provence</a></li>
-                            <li>• Immersion totale pendant 3 jours</li>
-                            <li>• Partages d’expériences </li>
-                            <li>• Petit groupe</li>
-                            <li>• 2 encadrants pour s’adapter aux différents niveaux</li>
-                            <li>• Pension complète de très bonne qualité</li>
+                            <li class="is-size-5-fullhd">• Situé au cœur de la Provence</li>
+                            <li class="is-size-5-fullhd">• Reconnaissance de la totalité du parcours de <a target="_blank" href="http://www.traildehauteprovence.com/parcours/ultra-de-provence-150-km-7-000-m-d-6-points-itra/">l’Ultra de Provence</a></li>
+                            <li class="is-size-5-fullhd">• Immersion totale pendant 3 jours</li>
+                            <li class="is-size-5-fullhd">• Partages d’expériences </li>
+                            <li class="is-size-5-fullhd">• Petit groupe</li>
+                            <li class="is-size-5-fullhd">• 2 encadrants pour s’adapter aux différents niveaux</li>
+                            <li class="is-size-5-fullhd">• Pension complète de très bonne qualité</li>
                         </ul>
                     </div>
                 </div>
