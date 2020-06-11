@@ -193,7 +193,7 @@
             <section id="LeMateriel" class="hero">
                 <div class="hero-body">
                     <div class="container">
-                        <h1 class="title">Le Materiel</h1>
+                        <h1 class="title">Le Matériel</h1>
                         <p style="margin-right: 2%;margin-left: 0%;color: rgb(0,0,0);">Pensez à adapter cette liste en fonction de la météo et de vos besoins personnels !<br></p>
                         <div class="row">
                     <div class="col-md-12">

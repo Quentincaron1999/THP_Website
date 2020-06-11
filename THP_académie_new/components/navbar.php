@@ -9,7 +9,7 @@
         </div>
 
         <div class="navbar-end">
-        <div class="navbar-item">
+            <div class="navbar-item">
                 <a class="button is-primary is-rounded" href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour" target="_blank">
                     <span class="icon">
                         <i class="fab fa-facebook"></i>

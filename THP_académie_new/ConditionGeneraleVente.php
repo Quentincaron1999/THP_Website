@@ -8,6 +8,22 @@
 <body style="background-color: #276746;">
 
     <?php include("components/navbar.php")?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     <section class="tile-home ipad" style="background-image: url(&quot;assets/img/49837007552_77a1e256ca_o.jpg&quot;);min-width: 0px;height: 379px;background-repeat: no-repeat;background-size: cover;background-position: center;width: 100%;margin-bottom: 0;">
         <h1 style="margin-top: -44px;margin-bottom: 13px;color: rgb(255,255,255);">Conditions Générales de Ventes</h1>
     </section>
