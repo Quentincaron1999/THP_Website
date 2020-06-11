@@ -17,7 +17,7 @@
 
     <div class="navbar-end">
       	<div class="navbar-item">
-			<a class="button is-primary is-rounded navbar-item">S'inscrire</a>
+			<a class="button is-primary is-rounded navbar-item" target="_blank" href="http://thpacademielestagedetraildu31juilletau2aout2020.ikinoa.com/">S'inscrire</a>
       	</div>
     </div>
 </nav>

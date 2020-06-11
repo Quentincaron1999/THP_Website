@@ -8,7 +8,7 @@
             </div>
             <div class="column">
                 <h1>Adresse :</h1>
-                <a href="https://www.google.fr/maps/place/Trail+de+Haute+Provence/@43.9597835,5.775304,17z/data=!3m1!4b1!4m5!3m4!1s0x12cbb583556ea5b1:0x7df2642b242f1f5f!8m2!3d43.9597835!4d5.7774927?hl=fr" target="_blank" style="font-weight: normal;font-size: 15px;margin-top: 0px;">&nbsp;Outdoor Events In Provence 8, avenue Eugène Bernard 04300 Forcalquier</a>
+                <a href="https://www.google.fr/maps/place/Trail+de+Haute+Provence/@43.9597835,5.775304,17z/data=!3m1!4b1!4m5!3m4!1s0x12cbb583556ea5b1:0x7df2642b242f1f5f!8m2!3d43.9597835!4d5.7774927?hl=fr" target="_blank" style="font-weight: normal;font-size: 15px;margin-top: 0px;">&nbsp;Outdoor Events In Provence<br> 8, avenue Eugène Bernard 04300 Forcalquier</a>
             </div>
             <div class="column">
                 <h1>Julien & Vincent</h1>

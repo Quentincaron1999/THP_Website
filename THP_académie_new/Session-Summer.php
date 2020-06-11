@@ -23,7 +23,7 @@
                             Au fur et à mesure des éditions du <a href="http://www.traildehauteprovence.com/#">Trail de Haute Provence</a>, l’envie est née de proposer des 
                             programmes d’entraînements combinant la préparation physique, la préparation technique, une 
                             meilleure connaissance de la nutrition pour la course et de faire découvrir les sentiers du THP.<br>
-                            Au cours de ces 3 jours, nous allons vous emmenez sur le parcours de l’Ultra de Provence 150 km / 7 000 m d+<br>
+                            Au cours de ces 3 jours, nous allons vous faire découvrir le parcours de <strong>l’Ultra de Provence 150 km / 7 000 m d+</strong>.<br>
                             Vous apprendrez également les techniques de course qui vous permettront de progresser en trail et 
                             aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, 
                             que ça soit l’entraînement, la gestion de l’effort ou la récupération.
@@ -195,7 +195,7 @@
                                 <tbody>
                                     <tr>
                                         <td style="color: rgb(0,0,0);"><br>Un sac à dos de trail de 5 à 15 l<br>Une réserve en eau d’au moins 2 l<br>Une veste imperméable ou coupe-vent<br>Un haut à manches longues chaud<br>Chaussettes adaptées au trail<br>Une paire de lunettes de soleil<br>Casquette<br>Un
-                                            tour de cou<br>Réserve en barres, fruits secs ... afin d’être autonome en sortie longue(de 8 à 13h30)<br>Une lampe frontale<br>Des vêtements de rechanges pour la durée du stage<br>Des chaussures de rechange<br><br></td>
+                                            tour de cou<br>Réserve en barres, fruits secs ... afin d’être autonome en sortie longue (de 8 à 13h30)<br>Une lampe frontale<br>Des vêtements de rechanges pour la durée du stage<br>Des chaussures de rechange<br><br></td>
                                         <td
                                             style="color: rgb(0,0,0);" ><br>Un bonnet et des gants fins<br>Bâtons (pour s’entraîner)<br>Un peu d’argent liquide<br>Une tenue pour le soir<br>Un couteau de poche<br>Boules Quies ou bouchons d’oreilles<br>Collant ou pantalon long (pour sortie
                                             longue)<br id="Niveau">Pharmacie personnelle avec pansements double-peaux <br>Crème solaire et stick lèvres<br>Claquettes/Tongues</td>
@@ -227,7 +227,7 @@
                     <div class="container">
                         <h1 class="title">Les + du séjour</h1>
                         <ul style="margin-right: 0px;margin-left: -19px;">
-                            <li style="font-size: 21px;margin-right: 0px;color: rgb(0,0,0);">• Situé au cœur la Provence<br></li>
+                            <li style="font-size: 21px;margin-right: 0px;color: rgb(0,0,0);">• Situé au cœur de la Provence<br></li>
                             <li style="font-size: 21px;color: rgb(0,0,0);">• Pension complète de très bonne qualité (repas, literie)<br></li>
                             <li style="font-size: 21px;color: rgb(0,0,0);">• Immersion totale pendant 3 jours<br></li>
                             <li style="font-size: 21px;color: rgb(0,0,0);">• Partages des expériences<br></li>
