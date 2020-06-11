@@ -246,31 +246,16 @@
                             Ce prix comprend la pension complète du vendredi midi au dimanche midi inclus, les navettes pour aller et venir du lieux d’hébergement aux points de départ et d’arrêt des sections de parcours journalières.
                         </p>
                         <p class="has-text-justified is-size-5-fullhd mt-4">
-                        Ce prix ne comprend pas le voyage A/R pour se rendre au stage, les dépenses personnelles (bar, autre extra), les frais bancaires pour l'inscription, ni l'assurance annulation proposée au moment de l'inscription.
+                            Ce prix ne comprend pas le voyage A/R pour se rendre au stage, les dépenses personnelles (bar, autre extra), les frais bancaires pour l'inscription, ni l'assurance annulation proposée au moment de l'inscription.
                         </p>
-
-                        
                     </div>
                 </div>
             </section>
-            
-
-
-
-
-
-
-
         </div>
         <div class="column">
             <?php include("components/left-display.php")?>
         </div>
-        
     </div>
-    
-
-    
-
     <?php include("components/temoignage.php")?>
     <?php include("components/footer.php")?>
     <script src="assets/js/navbar-fixed-top.js"></script>

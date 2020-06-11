@@ -62,8 +62,6 @@
                                 </a>
                             </button>
                         </div>
-                        
-
                     </div>
                 </div>
             </section>
@@ -169,7 +167,7 @@
         </div>
     </div>
     <?php include("components/footer.php")?>
-
+    <script src="assets/js/navbar-fixed-top.js"></script>
 </body>
 
 </html>

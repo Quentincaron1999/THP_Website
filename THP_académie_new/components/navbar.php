@@ -1,20 +1,31 @@
 <!-- Pré-Navbar -->
 
 <nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation">
-    <div id="navbarBasicExample" class="navbarmenu">
-        <div class="navbar-start">
-            <a class="navbar-item ivoire" href="Contact.php">contact</a>
-            <a class="navbar-link ivoire" ><img src="assets/img/francefav.png" style="height: 2rem; width: 2rem;"></a>
+    <div id="navbarBasicExample" class="navbar-brand">
+    <a role="button" class="navbar-burger burger is-mobile" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+        <a class="navbar-item ivoire" href="Contact.php">Contact</a>
+        <!--<div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" ><img src="assets/img/francefav.png" style="height: 2rem; width: 2rem;"></a>
             <div class="navbar-dropdown">
                 <a class="navbar-item" href="Session-Summer.php">Session été 2020</a>
                 <a class="navbar-item" href="Session-Automn.php">Session automne 2020</a>
                 <a class="navbar-item" href="Session-Spring.php">Session printemps 2021</a>
             </div>
-            <a class="navbar-item ivoire" href="QuiSommesNous.php">Qui sommes nous ?</a>
-        </div>
+        </div>-->
+        <a class="navbar-item ivoire" href="QuiSommesNous.php">Qui sommes nous ?</a>     
+    </div>
 
-        <div class="navbar-end">
-            <div class="navbar-item">
+    <div class="navbar-end">
+      <div class="navbar-item">
+      <div class="navbar-item">
                 <a class="button is-primary is-rounded" href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour" target="_blank">
                     <span class="icon">
                         <i class="fab fa-facebook"></i>
@@ -49,9 +60,29 @@
                     </span>
                 </a>
             </div>
-        </div>
+      </div>
     </div>
+  </div>
 </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
