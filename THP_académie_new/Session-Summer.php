@@ -115,7 +115,7 @@
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                                <th style="width: 17rem;"></th>
+                                                <th class="table-thp3"></th>
                                                 <th class="text-center">THP 3</th>
                                             </tr>
                                         </thead>
@@ -130,21 +130,21 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td style="font-weight: bold; width: 17rem;">Préparation Physique</td>
+                                                <td class="table-thp3 table-font">Préparation Physique</td>
                                                 <td>Pratique régulière de la course à pied en terrains variés et autres activités d’endurance : 4 à 5 fois par semaine pendant au moins 1h15&nbsp;<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="font-size: 16px;font-weight: bold;width: 17rem;">Vitesse ascensionnelle<br></td>
+                                                <td class="table-thp3 table-font">Vitesse ascensionnelle<br></td>
                                                 <td>Au moins 800 m D+/h pendant 1 heure&nbsp;<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="font-weight: bold;width: 17rem;">Epérience en Trails</td>
+                                                <td class="table-thp3 table-font">Epérience en Trails</td>
                                                 <td>Finisher&nbsp;sur des&nbsp;trails en montagne d'au moins 40 km et 2000 m D+<br></td>
                                             </tr>
                                         </tbody>
                                     </table>
                                 </div>
-                                <p style="background-color: #276746;font-size: 25px;font-weight: normal;color: #f7eed1;margin-top: -19px;margin-bottom: -43px;">&nbsp; Mon activité pendant le stage</p>
+                                <p style="background-color: #276746;font-size: 25px;color: #f7eed1;margin-top: -19px;margin-bottom: -43px;">&nbsp; Mon activité pendant le stage</p>
                                 <div class="table-responsive" style="margin-top: 47px;">
                                     <table class="table">
                                         <thead>
@@ -152,20 +152,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td style="font-weight: bold;width: 17rem;">Distance moyenne par jour</td>
+                                                <td class="table-thp3 table-font">Distance moyenne par jour</td>
                                                 <td class="text-center">30 à 40 km<br></td>
                                             </tr>
                                             <tr>
-                                                <td style=";font-weight: bold;width: 17rem;">Dénivelé + moyen par jour</td>
+                                                <td class="table-thp3 table-font">Dénivelé + moyen par jour</td>
                                                 <td class="text-center">1 500 à 2 500 m<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="font-weight: bold;width: 17rem;">Type de terrain</td>
+                                                <td class="table-thp3 table-font">Type de terrain</td>
                                                 <td>Majorité de monotrace et de sentiers techniques (pierriers, névés...)<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="font-weight: bold;width: 17rem;">Profil</td>
-
+                                                <td class="table-thp3 table-font">Profil</td>
                                                 <td>Quelques passages aériens<br></td>
                                             </tr>
                                         </tbody>
@@ -189,7 +188,7 @@
                                 <thead>
                                     <tr>
                                         <th class="text-center">Obligatoire</th>
-                                        <th class="text-center">Recommandé<br></th>
+                                        <th class="text-center">Recommandé<</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -228,7 +227,7 @@
                         <h1 class="title">Les + du séjour</h1>
                         <ul style="margin-right: 0px;margin-left: -19px;">
                             <li>• Situé au cœur de la Provence</li>
-                            <li>• Reconnaissance de la totalité du parcours de <a href="http://www.traildehauteprovence.com/parcours/ultra-de-provence-150-km-7-000-m-d-6-points-itra/">l’Ultra de Provence</a></li>
+                            <li>• Reconnaissance de la totalité du parcours de <a target="_blank" href="http://www.traildehauteprovence.com/parcours/ultra-de-provence-150-km-7-000-m-d-6-points-itra/">l’Ultra de Provence</a></li>
                             <li>• Immersion totale pendant 3 jours</li>
                             <li>• Partages d’expériences </li>
                             <li>• Petit groupe</li>
