@@ -47,11 +47,11 @@
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
                                     <div class="dropdown-item">
-                                        <p> • 09h30 - 10h00 	Accueil et installation des participants à Forcalquier<br>
-                                            • 10h00 - 20h00 	1ère partie de l’Ultra de Provence (52 km / 2 400 m d+)<br>
-                                            • 20h00 - 20h30 	Retour au camp de base (navette organisée)<br>
-                                            • 20h30 - 21h00 	Douche<br>
-                                            • 21h00 - 22h00 	Dîner tous ensemble et discussion
+                                        <p> • 09h30 - 10h00 Accueil et installation des participants à Forcalquier<br>
+                                            • 10h00 - 20h00 1ère partie de l’Ultra de Provence (52 km / 2 400 m d+)<br>
+                                            • 20h00 - 20h30 Retour au camp de base (navette organisée)<br>
+                                            • 20h30 - 21h00 Douche<br>
+                                            • 21h00 - 22h00 Dîner tous ensemble et discussion
                                         </p>
                                     </div>
                                 </div>
@@ -69,12 +69,12 @@
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
                                     <div class="dropdown-item">
-                                        <p> • 05h00 - 05h30 	Petit-déjeuner / Préparation du sac de la journée<br>
-                                            • 05h30 - 06h00 	Retour sur l’Ultra de Provence (navette organisée) <br>
-                                            • 06h00 - 19h30 	2ème partie de l’Ultra de Provence (60 km / 3 600 m d+)<br>
-                                            • 19h30 - 20h00 	Retour au camp de base<br>
-                                            • 20h00 - 21h00 	Douche<br>
-                                            • 21h00 - 22h00 	Dîner tous ensemble et discussion
+                                        <p> • 05h00 - 05h30 Petit-déjeuner / Préparation du sac de la journée<br>
+                                            • 05h30 - 06h00 Retour sur l’Ultra de Provence (navette organisée) <br>
+                                            • 06h00 - 19h30 2ème partie de l’Ultra de Provence (60 km / 3 600 m d+)<br>
+                                            • 19h30 - 20h00 Retour au camp de base<br>
+                                            • 20h00 - 21h00 Douche<br>
+                                            • 21h00 - 22h00 Dîner tous ensemble et discussion
                                         </p>
                                     </div>
                                 </div>
@@ -92,11 +92,11 @@
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
                                     <div class="dropdown-item">
-                                        <p> • 06h00 - 06h30 	Petit-déjeuner / Préparation du sac de la journée<br>
-                                            • 06h30 - 07h00 	Retour sur l’Ultra de Provence (navette organisée) <br>
-                                            • 07h00 - 15h00 	3ème partie de l’Ultra de Provence (38 km / 1 000 m d+)<br>
-                                            • 15h00 - 16h00 	Douche<br>
-                                            • 16h00 - 18h00 	Remise des diplômes aux stagiaires et bilan du stage<br>
+                                        <p> • 06h00 - 06h30 Petit-déjeuner / Préparation du sac de la journée<br>
+                                            • 06h30 - 07h00 Retour sur l’Ultra de Provence (navette organisée) <br>
+                                            • 07h00 - 15h00 3ème partie de l’Ultra de Provence (38 km / 1 000 m d+)<br>
+                                            • 15h00 - 16h00 Douche<br>
+                                            • 16h00 - 18h00 Remise des diplômes aux stagiaires et bilan du stage<br>
                                             • 18h00&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fin du stage
                                         </p>
                                     </div>
@@ -115,8 +115,8 @@
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                                <th style="min-width: 0px;width: 119px;"></th>
-                                                <th class="text-center" style="width: 186px;">THP 3</th>
+                                                <th style="width: 17rem;"></th>
+                                                <th class="text-center">THP 3</th>
                                             </tr>
                                         </thead>
                                         <tbody></tbody>
@@ -130,15 +130,15 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td style="font-weight: bold;">Préparation Physique</td>
+                                                <td style="font-weight: bold; width: 17rem;">Préparation Physique</td>
                                                 <td>Pratique régulière de la course à pied en terrains variés et autres activités d’endurance : 4 à 5 fois par semaine pendant au moins 1h15&nbsp;<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="font-size: 16px;font-weight: bold;">Vitesse ascensionnelle<br></td>
+                                                <td style="font-size: 16px;font-weight: bold;width: 17rem;">Vitesse ascensionnelle<br></td>
                                                 <td>Au moins 800 m D+/h pendant 1 heure&nbsp;<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="font-weight: bold;">Epérience en Trails</td>
+                                                <td style="font-weight: bold;width: 17rem;">Epérience en Trails</td>
                                                 <td>Finisher&nbsp;sur des&nbsp;trails en montagne d'au moins 40 km et 2000 m D+<br></td>
                                             </tr>
                                         </tbody>
@@ -152,19 +152,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td style="font-weight: bold;width: 112px;">Distance moyenne par jour</td>
+                                                <td style="font-weight: bold;width: 17rem;">Distance moyenne par jour</td>
                                                 <td class="text-center">30 à 40 km<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="letter-spacing: 0px;font-weight: bold;">Dénivelé + moyen par jour</td>
+                                                <td style=";font-weight: bold;width: 17rem;">Dénivelé + moyen par jour</td>
                                                 <td class="text-center">1 500 à 2 500 m<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="letter-spacing: 0px;font-weight: bold;">Type de terrain</td>
+                                                <td style="font-weight: bold;width: 17rem;">Type de terrain</td>
                                                 <td>Majorité de monotrace et de sentiers techniques (pierriers, névés...)<br></td>
                                             </tr>
                                             <tr>
-                                                <td style="letter-spacing: 0px;font-weight: bold;">Profil</td>
+                                                <td style="font-weight: bold;width: 17rem;">Profil</td>
 
                                                 <td>Quelques passages aériens<br></td>
                                             </tr>
