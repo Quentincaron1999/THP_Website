@@ -2,11 +2,11 @@
 <nav id="navbar-top" class="navbar nav-session is-hidden-mobile" role="navigation" aria-label="main navigation">
 	<div id="navbarBasicExample" class="navbar-menu">
     	<div class="navbar-start">
-		<h1 class="navbar-item">Coaching</h1>
-        <a class="navbar-item" href="#EnBref">En Bref</a>
-        <a class="navbar-item" href="#PEP">Plan d'entraînement personnalisé</a>
-		<a class="navbar-item" href="#Niveau">Nutrition</a>
-		<a class="navbar-item" href="#LeMateriel">Yoga</a>
+		<h1 class="navbar-item ivoire">Coaching</h1>
+        <a class="navbar-item ivoire" href="#EnBref">En Bref</a>
+        <a class="navbar-item ivoire" href="#PEP">Plan d'entraînement personnalisé</a>
+		<a class="navbar-item ivoire" href="#Niveau">Nutrition</a>
+		<a class="navbar-item ivoire" href="#LeMateriel">Yoga</a>
 	</div>
 
     <div class="navbar-end">

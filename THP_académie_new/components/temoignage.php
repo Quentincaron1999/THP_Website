@@ -2,15 +2,15 @@
     <div class="hero-body">
     <div class="columns is-center">
             <div class="column is-half">
-                <h1 class="title ">Témoignages</h1>
-                <h2 class="subtitle ">La THP académie, c'est les participant(e)s qui en parlent le mieux !</h2>
+                <h1 class="title ivoire">Témoignages</h1>
+                <h2 class="subtitle ivoire">La THP académie, c'est les participant(e)s qui en parlent le mieux !</h2>
             </div>
         </div>
         <div class="columns mt-6 is-multiline">
             <div class="column">
                 <div class="author">
                     <iframe allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/RiGs0YiPDtg?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=RiGs0YiPDtg&amp;controls=0" style="height: 134px;width: 235px;margin-top: -21px;"></iframe>
-                    <h5 class="name" style="color: #f7eed1;">Vincent G</h5>
+                    <h5 class="name ivoire">Vincent G</h5>
                     <p class="title" style="color: #f7eed1;margin-left: 2px;">Participant 2019</p>
                 </div>
             </div>

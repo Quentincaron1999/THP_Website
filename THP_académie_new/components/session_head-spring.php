@@ -2,15 +2,15 @@
 <nav id="navbar-top" class="navbar nav-session is-hidden-mobile" role="navigation" aria-label="main navigation">
 	<div id="navbarBasicExample" class="navbar-menu">
     	<div class="navbar-start">
-		<h1 class="navbar-item">Session printemps</h1>
-        <a class="navbar-item" href="#EnBref">En Bref</a>
-        <a class="navbar-item" href="#Programme">Programme</a>
-		<a class="navbar-item" href="#Niveau">Niveau</a>
-		<a class="navbar-item" href="#LeMateriel">Le matériel</a>
-		<a class="navbar-item" href="#VotreCadre">Votre Cadre</a>
-		<a class="navbar-item" href="#LesPlus">Les + du séjour</a>
-		<a class="navbar-item" href="#Tarif">Tarif</a>
-		<a class="navbar-item" href="#Tem">Témoignages</a>
+		<h1 class="navbar-item ivoire">Session printemps</h1>
+        <a class="navbar-item ivoire" href="#EnBref">En Bref</a>
+        <a class="navbar-item ivoire" href="#Programme">Programme</a>
+		<a class="navbar-item ivoire" href="#Niveau">Niveau</a>
+		<a class="navbar-item ivoire" href="#LeMateriel">Le matériel</a>
+		<a class="navbar-item ivoire" href="#VotreCadre">Votre Cadre</a>
+		<a class="navbar-item ivoire" href="#LesPlus">Les + du séjour</a>
+		<a class="navbar-item ivoire" href="#Tarif">Tarif</a>
+		<a class="navbar-item ivoire" href="#Tem">Témoignages</a>
     </div>
 
     <div class="navbar-end">
