@@ -3,9 +3,14 @@
 <nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation">
     <div id="navbarBasicExample" class="navbarmenu">
         <div class="navbar-start">
-            <a class="navbar-item" href="Contact.php">contact</a>
-            <a class="navbar-item"><img src="assets/img/francefav.png"></a>
-            <a class="navbar-item" href="QuiSommesNous.php">Qui sommes nous ?</a>
+            <a class="navbar-item ivoire" href="Contact.php">contact</a>
+            <a class="navbar-link ivoire" ><img src="assets/img/francefav.png" style="height: 2rem; width: 2rem;"></a>
+            <div class="navbar-dropdown">
+                <a class="navbar-item" href="Session-Summer.php">Session été 2020</a>
+                <a class="navbar-item" href="Session-Automn.php">Session automne 2020</a>
+                <a class="navbar-item" href="Session-Spring.php">Session printemps 2021</a>
+            </div>
+            <a class="navbar-item ivoire" href="QuiSommesNous.php">Qui sommes nous ?</a>
         </div>
 
         <div class="navbar-end">
