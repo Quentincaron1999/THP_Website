@@ -23,7 +23,7 @@
                             Au fur et à mesure des éditions du <a href="http://www.traildehauteprovence.com/#">Trail de Haute Provence</a>, l’envie est née de proposer des 
                             programmes d’entraînements combinant la préparation physique, la préparation technique, une 
                             meilleure connaissance de la nutrition pour la course et de faire découvrir les sentiers du THP.<br>
-                            Au cours de ces 3 jours, nous allons vous faire découvrir le parcours de <strong>l’Ultra de Provence 150 km / 7 000 m d+</strong>.<br>
+                            Au cours de ces 3 jours, nous allons vous faire découvrir le parcours de <strong><a href="http://www.traildehauteprovence.com/parcours/ultra-de-provence-150-km-7-000-m-d-6-points-itra/">l’Ultra de Provence 150 km / 7 000 m d+</a></strong>.<br>
                             Vous apprendrez également les techniques de course qui vous permettront de progresser en trail et 
                             aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, 
                             que ça soit l’entraînement, la gestion de l’effort ou la récupération.
@@ -227,15 +227,13 @@
                     <div class="container">
                         <h1 class="title">Les + du séjour</h1>
                         <ul style="margin-right: 0px;margin-left: -19px;">
-                            <li style="font-size: 21px;margin-right: 0px;color: rgb(0,0,0);">• Situé au cœur de la Provence<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Pension complète de très bonne qualité (repas, literie)<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Immersion totale pendant 3 jours<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Partages des expériences<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Visionnages vidéos pour un meilleur apprentissage<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Petit groupe&nbsp;<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• 2 encadrants pour s’adapter aux différents niveaux<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Découvertes des tracés du Trail de Haute Provence<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Les sorties partent du gîte<br></li>
+                            <li>• Situé au cœur de la Provence</li>
+                            <li>• Reconnaissance de la totalité du parcours de <a href="http://www.traildehauteprovence.com/parcours/ultra-de-provence-150-km-7-000-m-d-6-points-itra/">l’Ultra de Provence</a></li>
+                            <li>• Immersion totale pendant 3 jours</li>
+                            <li>• Partages d’expériences </li>
+                            <li>• Petit groupe</li>
+                            <li>• 2 encadrants pour s’adapter aux différents niveaux</li>
+                            <li>• Pension complète de très bonne qualité</li>
                         </ul>
                     </div>
                 </div>
