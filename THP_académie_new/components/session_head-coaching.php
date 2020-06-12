@@ -11,7 +11,7 @@
 
     <div class="navbar-end">
       	<div class="navbar-item">
-			<a class="button is-primary is-rounded navbar-item" href="https://forms.gle/R2yszeHmvgcrK6Q59" target="_blank">Personaliser son entrainement</a>
+			<a class="button is-primary is-rounded navbar-item" href="https://forms.gle/R2yszeHmvgcrK6Q59" target="_blank">Personnaliser son entrainement</a>
       	</div>
     </div>
 </nav>

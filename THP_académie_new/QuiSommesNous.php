@@ -5,13 +5,13 @@
     <?php include("components/header.php")?>
 </head>
 
-<body>
+<body style="background-color: #276746;" class="ivoire">
     <?php include("components/navbar.php")?>
     <section class="tile-home ipad" style="background-image: url(&quot;assets/img/49837007552_77a1e256ca_o.jpg&quot;);min-width: 0px;height: 379px;background-repeat: no-repeat;background-size: cover;background-position: center;width: 100%;">
         <h1 style="margin-top: -44px;margin-bottom: 13px;color: rgb(255,255,255);">Qui sommes nous ?</h1>
         <h2 style="font-size: 32px;color: rgb(255,255,255);"></h2>
     </section>
-    <section class="tile-home ipad" style="min-width: 0px;height: 696px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;width: 100%;max-width: px;">
+    <section class="tile-home ipad" style="min-width: 0px;height: 696px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;width: 100%;max-width: px;">
         <h1>Outdoor Events in Provence</h1>
         <p class="text-justify" style="margin-left: 40px;margin-right: 40px; margin-top:3%;">Outdoor Events In Provence est une association loi 1901 créée en 2013 pour porter le projet du Trail de Haute Provence. Nous sommes des passionnés de trail, amoureux de la nature avec l’envie de partager notre territoire, le pays de Forcalquier–Montagne
             de Lure situé au cœur de la Provence, avec le plus grand nombre.</p>
@@ -27,7 +27,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
+                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;">
                         <h1>Vincent Guiliani</h1>
                         <img style="width: 100%;height: 40%;background-position: center;background-size: contain;margin-top: 10%" src="assets/img/VincentG.jpg">
                         <img style="width: 100%;height: 30%;background-position: center;background-size: contain;margin-top: 10%" src="assets/img/xvd.jpeg">
@@ -35,7 +35,7 @@
                     </section>
                 </div>
                 <div class="col-md-6">
-                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
+                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;">
                     <p class="text-left" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Présentation</p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;"><br>J’ai 48 ans et habite Forcalquier depuis 2006 avec mon épouse et mes 3 enfants. Sportif de haut niveau plus jeune, je me suis mis à la course à pied sur le tard. </p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">D’abord sur la route, puis au trail depuis 2011. C’est la même année que j’ai découvert les merveilles du Pays de Forcalquier–Montagne de Lure, lors de ma préparation pour ma première Diagonale.</p>
@@ -73,7 +73,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
+                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;">
                         <h1>Julien Chorier</h1>
                         <p class="text-left" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Présentation</p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;"><br>J’ai 38 ans et j’habite à Saint-Thibaud-de-Couz (Savoie) avec ma femme et mes deux petitesfilles. </p>
@@ -98,7 +98,7 @@
                     </section>
                 </div>
                 <div class="col-md-6">
-                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #ffffff;">
+                    <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;">
                     <img style="width: 100%;height: 30%;background-position: center;background-size: contain;margin-top: 35%" src="assets/img/JulienC1.jpg">
                     <img style="width: 100%;height: 30%;background-position: center;background-size: contain;margin-top: 10%" src="assets/img/JulienC2.jpg">
         

@@ -18,10 +18,10 @@
                         <h1 class="title">En Bref</h1>
                         <img src="assets/img/banner-coach.png">
                         <p class="has-text-justified is-size-5-fullhd mt-4">
-                        Avec la THP académie, nous souhaitons vous proposer une approche holistique du trail. 
-                        C’est pourquoi en plus d’aborder les techniques de courses, nous évoquons également le 
-                        Yoga et la nutrition afin de vous proposer plusieurs pistes d’amélioration et de découverte de 
-                        nouvelles sensations.
+                            Avec la THP académie, nous souhaitons vous proposer une approche holistique du trail. 
+                            C’est pourquoi en plus d’aborder les techniques de courses, nous évoquons également le 
+                            Yoga et la nutrition afin de vous proposer plusieurs pistes d’amélioration et de découverte de 
+                            nouvelles sensations.
                         </p>
                     </div>
                 </div>
@@ -61,6 +61,66 @@
                                     Personnaliser son entraînement
                                 </a>
                             </button>
+                        </div>
+                        <div class="dropdown is-hoverable">
+                            <div class="dropdown-trigger">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                    <span>Découvrez Julien Chorier</span>
+                                    <span class="icon is-small">
+                                        <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                    </span>
+                                </button>
+                            </div>
+                            <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                                <div class="dropdown-content">
+                                    <div class="dropdown-item">
+                                    <p style="margin-right: 2%;margin-left: 2%;color: #737373;">Avant de me lancer dans la vie active, j’ai couru en cyclisme à un bon niveau national (amateur).<br> De 2003 à 2014, après un doctorat en génie civil, j’ai exercé une activité d’ingénieur en bâtiment.<br>  Ce passage m’a orienté vers la course à pieds et la simplicité de sa pratique.<br> 
+Depuis 2014, j’ai orienté ma carrière professionnelle vers le sport outdoor.<br> Je propose mes services à différentes marques, organisations et territoires pour développer leur activité liée au trail. En marge de cela, diplôme d’Accompagnateur Moyenne Montagne en poche, j’organise et encadre des stages trail, afin de transmettre ma passion et mon expérience de l’ultra (victoires : 2 X Grand Raid de la Réunion, Ultratrail Mont Fuji, CCC, MIUT, Hardrock100,Verbier…) et 3-4-6-8 à l’UTMB… 
+<br>Passionné par la montagne, le trail et le partage, je prends énormément de plaisir à conseille, guider et faire progresser de nombreux coureurs. Je vous accompagnerai quel que soit votre projet.<br> Qu’il s’agisse d’atteindre un objectif, de planifier une saison (ou une carrière) ou tout simplement de rechausser les baskets pour la santé… 
+<br>Suivi personnalisé :
+Je mets mon expérience et l’ensemble de mes compétences à votre service.
+<br>•	Mon expertise running, trail running et sport d’endurance
+<br>•	Mon expérience d’athlète de Haut Niveau
+<br> •	Ma formation d’accompagnateur en montagne
+Cette collaboration peut se faire sur un objectif déterminé à court ou moyen terme (minimum 3 mois) ou dans une vision à plus long terme. <br>Quelle que soit la durée, nous passerons par un ensemble d’étapes permettant de diagnostiquer votre pratique, vos attentes et votre investissement. De cette analyse découleront les étapes de progression. C’est un accompagnement complet qui comprend :
+</p>
+<h1>Offre "THP académie Ivory"</h1>
+<p style="margin-right: 2%;margin-left: 2%;color: #737373;">85 € par mois (minimum 3 mois)<br></p>
+                                                                <ul>
+                                                                    <li>Planification mensuelle<br></li>
+                                                                    <li>Entraînements et bilans personnalisés</li>
+                                                                    <li>Tests à distance (VMA, VMA ascensionnelle)<br></li>
+                                                                    <li>Approche musculaire et énergétique du trail<br></li>
+                                                                    <li>Prise en compte des contraintes et des disponibilités de l’athlète<br></li>
+                                                                    <li>3 échanges mensuels par téléphone avec votre entraîneur<br></li>
+                                                                    <li>Briefing et débriefing des séances tous les 15 jours<br></li>
+                                                                    <li>Partage en ligne d’un plan d’entraînement interactif<br></li>
+                                                                </ul>
+                                                                <h1>Offre "THP académie Gold"</h1>
+                                                                <p style="margin-right: 2%;margin-left: 2%;color: #737373;">120 € par mois (minimum 3 mois)<br></p>
+                                                                <ul>
+                                                                    <li>Planification sur 15 jours + suivi journalier en ligne<br></li>
+                                                                    <li>Réalisation d'un état des lieux par un questionnaire puis un entretien téléphonique<br></li>
+                                                                    <li>Détermination d'objectifs partagés et planification de la saison<br></li>
+                                                                    <li>Entraînement et bilans personnalisés<br></li>
+                                                                    <li>Tests à distance (VMA, VMA ascensionnelle, variabilité de la FC)<br></li>
+                                                                    <li>Prise en compte des contraintes et des disponibilités de l’athlète<br></li>
+                                                                    <li>Contact 7/7 (appels téléphoniques hebdomadaire ou messages, mails quotidiens)<br></li>
+                                                                    <li>Briefing et débriefing de chaque séance clé<br></li>
+                                                                    <li>Approche musculaire et énergétique du trail<br></li>
+                                                                    <li>Analyse des séances en ligne<br></li>
+                                                                    <li>Réajustement des séances au cours de la semaine si besoin<br></li>
+                                                                    <li>Approche musculaire et énergétique du trail<br></li>
+                                                                    <li>Préparation compétitions<br></li>
+                                                                    <li>Approche nutritionnelle<br></li>
+                                                                    <li>Gestion du matériel<br></li>
+                                                                    <li>Soutien mental<br></li>
+                                                                    <li>Gestion du stress et de la fatigue<br></li>
+                                                                </ul>
+                    
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
