@@ -14,7 +14,7 @@
 
     <div class="columns border ">
         <div class="column is-two-thirds is-mobile is-offset-1-desktop">
-            <section id="EnBref" class="hero">
+            <section id="EnBref" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">En Bref</h1>
@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </section>
-            <section id="Programme" class="hero">
+            <section id="Programme" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Programme</h1>
@@ -113,7 +113,7 @@
                     </div>
                 </div>
             </section>
-            <section id="Niveau" class="hero">
+            <section id="Niveau" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Niveau</h1>
@@ -190,7 +190,7 @@
                     </div>
                 </div>
             </section>
-            <section id="LeMateriel" class="hero">
+            <section id="LeMateriel" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Le Matériel</h1>
@@ -222,7 +222,7 @@
                        </div>
                 </div>
             </section>
-            <section id="VotreCadre" class="hero">
+            <section id="VotreCadre" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Votre Cadre</h1>
@@ -238,7 +238,7 @@
                     </div>
                 </div>
             </section>
-            <section id="LesPlus" class="hero">
+            <section id="LesPlus" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Les + du séjour</h1>
@@ -256,7 +256,7 @@
                     </div>
                 </div>
             </section>
-            <section id="Tarif" class="hero">
+            <section id="Tarif" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Tarif</h1>

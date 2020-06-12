@@ -8,7 +8,7 @@
 <body style="background-color: #276746;" class="ivoire">
     <?php include("components/navbar.php")?>
     
-    <section class="tile-home ipad mt-6" style="min-width: 0px;height: 696px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;width: 100%;max-width: px;">
+    <section class="mt-6" style="min-width: 0px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-top: 100%;margin-right: 0%;background-color: #276746;width: 100%;max-width: px;">
         <h1 class="mt-6">Outdoor Events in Provence</h1>
         <p class="text-justify" style="margin-left: 40px;margin-right: 40px; margin-top:3%;">Outdoor Events In Provence est une association loi 1901 créée en 2013 pour porter le projet du Trail de Haute Provence. Nous sommes des passionnés de trail, amoureux de la nature avec l’envie de partager notre territoire, le pays de Forcalquier–Montagne
             de Lure situé au cœur de la Provence, avec le plus grand nombre.</p>
@@ -47,18 +47,18 @@
                         <p class="text-left"
                             style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Principaux résultats</p>
                         <ul>
-                            <li class="text-left">Grand Tour de la Vanoise 62.00km / 3340+ / 8ème<br></li>
-                            <li class="text-left">Ultra Champsaur 70.00km / 3600+ / 9ème<br></li>
-                            <li class="text-left">Serre Che Trail Salomon-Grand Tour Des Cerces 51.90km / 3660+ / 13ème<br></li>
-                            <li class="text-left">La Saintélyon 81.40km / 2290+ / 50ème<br></li>
-                            <li class="text-left">Marathon du Mont-Blanc 42.50km /2780+ / 150ème<br></li>
-                            <li class="text-left"><a href="https://itra.run/race/2667&amp;2014">Échappée Belle&nbsp;Helly&nbsp;Hansen 2014 - Traversée Nord&nbsp;</a><br>82.10km / 5917+&nbsp; /&nbsp;12ème&nbsp;&nbsp;<br></li>
-                            <li class="text-left">Ubaye Salomon 40.40km / 2560+ / 15ème<br></li>
-                            <li class="text-left">Trail du bout du monde 57.00km / 1800+ / 12ème<br></li>
-                            <li class="text-left">Trail Gapen'cimes 57.00km /3200+ / 55ème<br></li>
-                            <li class="text-left">Le Grand Raid De La Réunion 2019-La Diagonale Des Fous 168.10km / 9610+ / 310ème<br></li>
-                            <li class="text-left">Marathon de Paris: 2h42<br></li>
-                            <li class="text-left">Marseille Cassis: 1h16<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Grand Tour de la Vanoise 62.00km / 3340+ / 8ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Ultra Champsaur 70.00km / 3600+ / 9ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Serre Che Trail Salomon-Grand Tour Des Cerces 51.90km / 3660+ / 13ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">La Saintélyon 81.40km / 2290+ / 50ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Marathon du Mont-Blanc 42.50km /2780+ / 150ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Échappée Belle&nbsp;Helly&nbsp;Hansen 2014 - Traversée Nord&nbsp;82.10km / 5917+&nbsp; /&nbsp;12ème&nbsp;&nbsp;<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Ubaye Salomon 40.40km / 2560+ / 15ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Trail du bout du monde 57.00km / 1800+ / 12ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Trail Gapen'cimes 57.00km /3200+ / 55ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Le Grand Raid De La Réunion 2019-La Diagonale Des Fous 168.10km / 9610+ / 310ème<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Marathon de Paris: 2h42<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Marseille Cassis: 1h16<br></li>
                         </ul>
                     </section>
                 </div>
@@ -71,7 +71,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;">
-                        <h1>Julien Chorier</h1>
+                        <h1 style="margin-left: 40px;margin-right: 40px;">Julien Chorier</h1>
                         <p class="text-left" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Présentation</p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;"><br>J’ai 38 ans et j’habite à Saint-Thibaud-de-Couz (Savoie) avec ma femme et mes deux petitesfilles. </p>
                         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">J’affectionne tout particulièrement cet endroit qui constitue un parfait terrain de jeu pourgambader entre montagnes, forêts et prairies.</p>
@@ -82,15 +82,15 @@
                         <p class="text-left" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;"><br>Principaux résultats</p>
                         <p class="text-center" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;margin-bottom: 13px;height: 46px;">Double vainqueur</p>
                         <ul>
-                            <li class="text-left">Grand Raid, ou “La Diagonale des Fous”163km de course, 9 600m D+, La Réunion<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Grand Raid, ou “La Diagonale des Fous”163km de course, 9 600m D+, La Réunion<br></li>
                         </ul>
                         <p class="text-center" style="margin-left: 40px;margin-right: 40px;font-size: 22px;font-family: 'Zen-Its Sans';font-weight: bold;margin-bottom: 13px;height: 46px;">Vainqueur</p>
                         <ul>
-                            <li class="text-left">Ultra Trail du Mont Fuji156 km de course, 8 530m D+, Japon<br></li>
-                            <li class="text-left">Madeira Island Ultra Trail115 km de course, 6 800m D+, Portugal<br></li>
-                            <li class="text-left">Hardrock Hundred Endurance Run160 km de course, 11 000m D+, USA<br></li>
-                            <li class="text-left">La Ronda del Cims178 km de course, 13 000m D+, Andorre<br></li>
-                            <li class="text-left">Verbier X-Alpine111 km de course, 8 400m D+, Suisse<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Ultra Trail du Mont Fuji156 km de course, 8 530m D+, Japon<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Madeira Island Ultra Trail115 km de course, 6 800m D+, Portugal<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Hardrock Hundred Endurance Run160 km de course, 11 000m D+, USA<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">La Ronda del Cims178 km de course, 13 000m D+, Andorre<br></li>
+                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Verbier X-Alpine111 km de course, 8 400m D+, Suisse<br></li>
                         </ul>
                     </section>
                 </div>

@@ -27,3 +27,10 @@
 #navbar-top{
     z-index: 20;
 }
+
+.jump:before {
+    content: "";
+    display: block;
+    padding-top: 6.5rem; /* header height + empty space */
+    /*margin-top: -50px; /* header height to degrees padding’s space */
+}

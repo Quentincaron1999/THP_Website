@@ -12,7 +12,7 @@
 
     <div class="columns border ">
         <div class="column is-two-thirds is-mobile is-offset-1-desktop">
-            <section id="EnBref" class="hero">
+            <section id="EnBref" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">En Bref</h1>
@@ -26,7 +26,7 @@
                     </div>
                 </div>
             </section>
-            <section id="PEP" class="hero">
+            <section id="PEP" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Plan d'entraînement personnalisé</h1>
@@ -125,7 +125,7 @@ Cette collaboration peut se faire sur un objectif déterminé à court ou moyen 
                     </div>
                 </div>
             </section>
-            <section id="Nutrition" class="hero">
+            <section id="Nutrition" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Nutrition</h1>
@@ -173,7 +173,7 @@ Cette collaboration peut se faire sur un objectif déterminé à court ou moyen 
                     </div>
                 </div>
             </section>
-            <section id="Yoga" class="hero">
+            <section id="Yoga" class="hero jump">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Yoga</h1>
