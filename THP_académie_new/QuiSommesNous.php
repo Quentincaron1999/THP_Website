@@ -7,12 +7,9 @@
 
 <body style="background-color: #276746;" class="ivoire">
     <?php include("components/navbar.php")?>
-    <section class="tile-home ipad" style="background-image: url(&quot;assets/img/49837007552_77a1e256ca_o.jpg&quot;);min-width: 0px;height: 379px;background-repeat: no-repeat;background-size: cover;background-position: center;width: 100%;">
-        <h1 style="margin-top: -44px;margin-bottom: 13px;color: rgb(255,255,255);">Qui sommes nous ?</h1>
-        <h2 style="font-size: 32px;color: rgb(255,255,255);"></h2>
-    </section>
-    <section class="tile-home ipad" style="min-width: 0px;height: 696px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;width: 100%;max-width: px;">
-        <h1>Outdoor Events in Provence</h1>
+    
+    <section class="tile-home ipad mt-6" style="min-width: 0px;height: 696px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;width: 100%;max-width: px;">
+        <h1 class="mt-6">Outdoor Events in Provence</h1>
         <p class="text-justify" style="margin-left: 40px;margin-right: 40px; margin-top:3%;">Outdoor Events In Provence est une association loi 1901 créée en 2013 pour porter le projet du Trail de Haute Provence. Nous sommes des passionnés de trail, amoureux de la nature avec l’envie de partager notre territoire, le pays de Forcalquier–Montagne
             de Lure situé au cœur de la Provence, avec le plus grand nombre.</p>
         <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Au fur et à mesure des éditions du Trail de Haute Provence, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique, la préparation technique,une meilleure connaissance de la nutrition pour la course et de

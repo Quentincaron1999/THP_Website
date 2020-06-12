@@ -9,16 +9,47 @@
     
 <?php include("components/navbar.php")?>
 
-    <div class="login-dark" style="margin-top: -5%;background-image: url(&quot;assets/img/Lure.jpg&quot;);">
-        <form method="post">
-            <h2 class="sr-only">Login Form</h2>
-            <div class="illustration"><i class="fas fa-running" style="color: #276746;"></i></div>
-            <div class="form-group"><input class="form-control" type="email" name="email" placeholder="Email"></div>
-            <div class="form-group"><input class="form-control" type="password" name="password" placeholder="Nom"><input class="form-control" type="password" name="password" placeholder="Prénom" style="margin-top: 21px;"></div>
-            <h1 style="font-size: 20px;margin-top: 46px;">Votre Question ?</h1><textarea class="form-control" placeholder="Votre texte"></textarea>
-            <div class="form-group"><button class="btn btn-primary btn-block" type="submit">Envoyer</button></div>
-        </form>
+<section class="hero is-primary is-fullheight">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-5-tablet is-4-desktop is-3-widescreen">
+          <form action="" class="box">
+          <div class="field">
+              <label for="" class="label">Nom</label>
+              <div class="control has-icons-left">
+                <input type="name" placeholder="Votre nom" class="input" required>
+              </div>
+            </div>
+            <div class="field">
+              <label for="" class="label">Prénom</label>
+              <div class="control has-icons-left">
+                <input type="prenom" placeholder="Votre prénom" class="input" required>
+              </div>
+            </div>
+            <div class="field">
+              <label for="" class="label">Email</label>
+              <div class="control has-icons-left">
+                <input type="email" placeholder="e.g. bobsmith@gmail.com" class="input" required>
+              </div>
+            </div>
+            <div class="field">
+              <label for="" class="label">Votre message</label>
+              <div class="control has-icons-left">
+              <textarea class="textarea" placeholder="Textarea"></textarea>
+              </div>
+            </div>
+            <div class="field">
+              <button class="button is-success">
+                Envoyer
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
     </div>
+  </div>
+</section>
 
     <?php include("components/footer.php")?>
 

@@ -25,7 +25,6 @@
         <div class="full-card-home"> 
             <!-- Wide Card -->
             <div class="columns principal card-home is-mobile mt-6-mobile">
-                
                 <div class="column is-full card-one">
                     <h1 class="pt-6 title">Session d'été 2020</h1>
                     <p class="date-color"><strong style="color:#000000 ;">du 31 juillet au 2 août 2020</strong></p>
