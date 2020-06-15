@@ -105,3 +105,27 @@
 .table-font{
     font-weight: bold;
 }
+
+.tem-title{
+    color: #f7eed1;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-left: -8.5rem;
+}
+.tem-name{
+    margin-top: -0.5rem;
+    margin-left: -7.5rem;
+    color: #f7eed1;
+
+}
+
+.tem-title-full{ 
+    color: #f7eed1;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.tem-name-full{
+    color: #f7eed1;
+    margin-top: -0.5rem;
+}
