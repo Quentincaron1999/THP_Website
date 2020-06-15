@@ -107,17 +107,17 @@
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
         <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">Programme</a>
+            <a class="navbar-link" style="color:#0F5631;">Programme</a>
             <div class="navbar-dropdown">
-                <a class="navbar-item" href="Session-Summer.php">Session été 2020</a>
-                <a class="navbar-item" href="Session-Automn.php">Session automne 2020</a>
-                <a class="navbar-item" href="Session-Spring.php">Session printemps 2021</a>
+                <a class="navbar-item" href="Session-Summer.php" style="color:#0F5631;">Session été 2020</a>
+                <a class="navbar-item" href="Session-Automn.php" style="color:#0F5631;">Session automne 2020</a>
+                <a class="navbar-item" href="Session-Spring.php" style="color:#0F5631;">Session printemps 2021</a>
             </div>
         </div>
-        <a class="navbar-item" href="Niveaux.php">Niveaux</a>
-        <a class="navbar-item" href="Coaching.php">Coaching</a>
-        <a class="navbar-item" href="Photos.php">Photos/Vidéo</a>
-        <a class="navbar-item" href="Actualite.php">Actualités</a>      
+        <a class="navbar-item" href="Niveaux.php" style="color:#0F5631;">Niveaux</a>
+        <a class="navbar-item" href="Coaching.php" style="color:#0F5631;">Coaching</a>
+        <a class="navbar-item" href="Photos.php" style="color:#0F5631;">Photos/Vidéo</a>
+        <a class="navbar-item" href="Actualite.php" style="color:#0F5631;">Actualités</a>      
     </div>
 
     <!--<div class="navbar-end">

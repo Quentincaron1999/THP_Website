@@ -52,7 +52,7 @@
     </div>
     <div class="column is-full mt-6">
         <h1 class="pt-1 title has-text-centered mt-6">La plus belle des destinations : La Provence</h1>
-        <p class="has-text-centered">
+        <p class="has-text-centered" style="color: #276746;">
         Venez découvrir le Pays de Forcalquier – Montagne de Lure.<br>
 Situé au cœur de la Provence, dans le parc naturel régional du Luberon, au pied de la montagne de Lure, vous allez adorer !
         </p>

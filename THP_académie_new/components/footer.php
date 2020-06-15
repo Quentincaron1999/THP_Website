@@ -2,20 +2,20 @@
     <div class="content has-text-centered">
         <div class="columns is-offset-1">
             <div class="column">
-                <h1>Nous contacter</h1>
+                <h1 style="color: #276746;">Nous contacter</h1>
                 <a href="contact@thpacademie.com" style="font-size: 15px;">Email : contact@thpacademie.com</a><br>
                 <a href="#" style="font-size: 15px;">Téléphone :&nbsp; + 33 (0) 6 74 71 35 23&nbsp;</a>
             </div>
             <div class="column">
-                <h1>Adresse</h1>
+                <h1 style="color: #276746;">Adresse</h1>
                 <a href="https://www.google.fr/maps/place/Trail+de+Haute+Provence/@43.9597835,5.775304,17z/data=!3m1!4b1!4m5!3m4!1s0x12cbb583556ea5b1:0x7df2642b242f1f5f!8m2!3d43.9597835!4d5.7774927?hl=fr" target="_blank" style="font-weight: normal;font-size: 15px;margin-top: 0px;">&nbsp;Outdoor Events In Provence<br> 8, avenue Eugène Bernard 04300 Forcalquier</a>
             </div>
             <div class="column">
-                <h1>Julien & Vincent</h1>
+                <h1 style="color: #276746;">Julien & Vincent</h1>
                 <img src="assets/img/juvi.jpeg" style="width: 41%;height: 68%;border-radius:0.5em;">
             </div>
             <div class="column">
-                <h1>Suivez-nous</h1>
+                <h1 style="color: #276746;">Suivez-nous</h1>
                 <a href="https://www.facebook.com/thpacademie/?modal=admin_todo_tour" style="margin-right: 4%;width: 5px;height: 21px;" target="_blank">
                     <i class="fab fa-facebook-square" style="font-size: 20px;width: 17;"></i>
                 </a>
