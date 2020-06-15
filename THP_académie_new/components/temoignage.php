@@ -2,7 +2,7 @@
     <div class="hero-body">
     <div class="columns is-center">
             <div class="column is-half">
-                <h1 class="title ivoire">Témoignages</h1>
+                <h1 class="title ivoire" style="margin-left: 20%;">Témoignages</h1>
                 <h2 class="subtitle ivoire">La THP académie, c'est les participant(e)s qui en parlent le mieux !</h2>
             </div>
         </div>

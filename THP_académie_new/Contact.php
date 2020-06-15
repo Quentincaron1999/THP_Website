@@ -17,10 +17,10 @@
                 <div class="columns is-centered">
                     <div class="column is-5-tablet is-4-desktop is-3-widescreen">
                         <form action="" class="box">
-                            <div class="field">
-                                <label for="" class="label">Nom</label>
+                        <div class="field">
+                                <label for="" class="label">Email</label>
                                 <div class="control has-icons-left">
-                                    <input type="text" placeholder="Votre nom" class="input" name="firstname" required>
+                                    <input type="email" placeholder="bobsmith@gmail.com" class="input" name="email" required>
                                 </div>
                             </div>
                             <div class="field">
@@ -30,11 +30,11 @@
                                 </div>
                             </div>
                             <div class="field">
-                                <label for="" class="label">Email</label>
+                                <label for="" class="label">Nom</label>
                                 <div class="control has-icons-left">
-                                    <input type="email" placeholder="bobsmith@gmail.com" class="input" name="email" required>
+                                    <input type="text" placeholder="Votre nom" class="input" name="firstname" required>
                                 </div>
-                            </div>
+                            </div>                           
                             <div class="field">
                                 <label for="" class="label" name="message">Votre message</label>
                                 <div class="control has-icons-left">
