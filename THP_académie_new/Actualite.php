@@ -20,7 +20,7 @@
             <div class="mt-6"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthpacademie%2Fposts%2F1002882230107739&show_text=true&width=552&height=534&appId" width="80%" height="" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div>
         </div>
         <div class="column is-full-touch">
-            <h1 class="mt-6 ivoire">Temoignages</h1>
+            <h1 class="mt-6 ivoire">Témoignages</h1>
             <div class="mt-6">
                 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/RiGs0YiPDtg?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=RiGs0YiPDtg&amp;controls=0" style="height: 134px;width: 235px;"></iframe>
                 <h5 class="tem-title">Vincent G</h5>

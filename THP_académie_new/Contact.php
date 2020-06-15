@@ -16,7 +16,7 @@
             <div class="container">
                 <div class="columns is-centered">
                     <div class="column is-5-tablet is-4-desktop is-3-widescreen">
-                        <form action="" class="box">
+                        <form action="Contact.php" class="box" method="post">
                         <div class="field">
                                 <label for="" class="label">Email</label>
                                 <div class="control ">
@@ -26,13 +26,13 @@
                             <div class="field">
                                 <label for="" class="label">Prénom</label>
                                 <div class="control ">
-                                    <input type="text" placeholder="Votre prénom" class="input" name="lastname" required>
+                                    <input type="text" placeholder="Votre prénom" class="input" name="lastname"  required>
                                 </div>
                             </div>
                             <div class="field">
                                 <label for="" class="label">Nom</label>
                                 <div class="control">
-                                    <input type="text" placeholder="Votre nom" class="input" name="firstname" required>
+                                    <input type="text" placeholder="Votre nom" class="input" name="firstname" id="inputFirstName"required>
                                 </div>
                             </div>                           
                             <div class="field">

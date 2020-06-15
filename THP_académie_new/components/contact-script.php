@@ -29,18 +29,18 @@ function getUserIpAddr(){
                 $jobPost = 'NULL';
             }
 
-            $getDate = getdate();
-            $registerDate = $getDate[mday].'-'.$getDate[month].'-'.$getDate[year].' / '.($getDate[hours] + 2).':'.$getDate[minutes].':'.$getDate[seconds];
+            //$getDate = getdate();
+            //$registerDate = $getDate[mday].'-'.$getDate[month].'-'.$getDate[year].' / '.($getDate[hours] + 2).':'.$getDate[minutes].':'.$getDate[seconds];
 
             $hostname = getUserIpAddr();
 
             $data = array(
-                $registerDate,
+               // $registerDate,
                 $firstPost,
                 $lastPost,
                 $emailPost,
                 $messagePost,
-                $hostname
+                //$hostname
             );
 
             $filename =  'data.csv';
@@ -53,11 +53,11 @@ function getUserIpAddr(){
             $lines = file($filename);
             $linesNumber = false;
 
-            while (list($key, $line) = each($lines) and !$line_number) {
+            /*while (list($key, $line) = each($lines) and !$line_number) {
 
                 $line_number = (strpos($line, $search) !== FALSE);
              
-            }
+            }*/
         }
     }
 

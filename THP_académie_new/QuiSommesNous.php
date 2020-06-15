@@ -7,19 +7,23 @@
 
 <body style="background-color: #276746;font-size: 1.2em;" class="ivoire">
     <?php include("components/navbar.php")?>
-    
+    <div class="container">
+            <div class="row">
+                <div class="col-md-12">
     <section class="mt-6" style="min-width: 0px;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-top: 100%;margin-right: 0%;background-color: #276746;width: 100%;max-width: px;">
         <h1 class="mt-6">Outdoor Events in Provence</h1>
-        <p class="text-justify" style="margin-left: 18rem;margin-right: 21rem; margin-top:3%;">Outdoor Events In Provence est une association loi 1901 créée en 2013 pour porter le projet du Trail de Haute Provence. Nous sommes des passionnés de trail, amoureux de la nature avec l’envie de partager notre territoire, le pays de Forcalquier–Montagne
+        <p class="text-justify" style="  margin-top:3%;">Outdoor Events In Provence est une association loi 1901 créée en 2013 pour porter le projet du Trail de Haute Provence. Nous sommes des passionnés de trail, amoureux de la nature avec l’envie de partager notre territoire, le pays de Forcalquier–Montagne
             de Lure situé au cœur de la Provence, avec le plus grand nombre.</p>
-        <p class="text-justify" style=" margin-left: 18rem;margin-right: 21rem;">Au fur et à mesure des éditions du Trail de Haute Provence, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique, la préparation technique,une meilleure connaissance de la nutrition pour la course et de
+        <p class="text-justify">Au fur et à mesure des éditions du Trail de Haute Provence, l’envie est née de proposer des programmes d’entraînements combinant la préparation physique, la préparation technique,une meilleure connaissance de la nutrition pour la course et de
             faire découvrir les sentiers du THP.</p>
-        <p class="text-justify" style=" margin-left: 18rem;margin-right: 21rem;">Vous apprendrez également les techniques de course qui vous permettront de progresser en trail et aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, que ça soit l’entrainement, la gestion de l’effort
+        <p class="text-justify">Vous apprendrez également les techniques de course qui vous permettront de progresser en trail et aborderez toutes les problématiques liées à la préparation et à la performance sur un trail long, que ça soit l’entrainement, la gestion de l’effort
             ou la récupération.</p>
-        <p class="text-justify" style=" margin-left: 18rem;margin-right: 21rem;">Nous avons eu la chance de pouvoir participer à de nombreux trails un peu partout en France métropolitaine ainsi que dans les DOM TOM, grâce à d’autres associations, d’autres bénévoles qui ont bien voulu s’investir pour nous permettre de repousser
+        <p class="text-justify">Nous avons eu la chance de pouvoir participer à de nombreux trails un peu partout en France métropolitaine ainsi que dans les DOM TOM, grâce à d’autres associations, d’autres bénévoles qui ont bien voulu s’investir pour nous permettre de repousser
             nos limites et vivre notre passion. </p>
-        <p class="text-justify" style=" margin-left: 18rem;margin-right: 21rem;">Nous avons décidé de passer de l’autre côté de la barrière pour vous proposer de vous dépasser, de vivre votre passion en découvrant notre territoire.<br></p>
+        <p class="text-justify">Nous avons décidé de passer de l’autre côté de la barrière pour vous proposer de vous dépasser, de vivre votre passion en découvrant notre territoire.<br></p>
     </section>
+                </div>
+            </div></div>
     <div style="margin-bottom: 28px;">
         <div class="container">
             <div class="row">
