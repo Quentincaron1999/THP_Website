@@ -1,9 +1,9 @@
 <section id="Tem" class="hero is-primary  is-mobile jump">
     <div class="hero-body">
     <div class="columns is-center">
-            <div class="column is-half">
-                <h1 class="title ivoire" style="margin-left: 20%;">Témoignages</h1>
-                <h2 class="subtitle ivoire">La THP académie, c'est les participant(e)s qui en parlent le mieux !</h2>
+            <div class="column">
+                <h1 class="title" style="text-align: left; color: #F7EED1; margin-left: 8rem;">Témoignages</h1>
+                <h2 class="subtitle" style="color: #F7EED1;text-align: left; margin-left: 8rem;">La THP académie, c'est les participant(e)s qui en parlent le mieux !</h2>
             </div>
         </div>
         <div class="columns mt-6 is-multiline">

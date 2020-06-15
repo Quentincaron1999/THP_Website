@@ -225,7 +225,7 @@
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Les + du séjour</h1>
-                        <ul style="margin-right: 0px;margin-left: -19px;">
+                        <ul>
                             <li class="is-size-5-fullhd">• Situé au cœur de la Provence</li>
                             <li class="is-size-5-fullhd">• Reconnaissance de la totalité du parcours de <a target="_blank" href="http://www.traildehauteprovence.com/parcours/ultra-de-provence-150-km-7-000-m-d-6-points-itra/">l’Ultra de Provence</a></li>
                             <li class="is-size-5-fullhd">• Immersion totale pendant 3 jours</li>

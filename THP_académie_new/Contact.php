@@ -19,26 +19,26 @@
                         <form action="" class="box">
                         <div class="field">
                                 <label for="" class="label">Email</label>
-                                <div class="control has-icons-left">
-                                    <input type="email" placeholder="bobsmith@gmail.com" class="input" name="email" required>
+                                <div class="control ">
+                                    <input type="email" placeholder="email@gmail.com" class="input" name="email" required>
                                 </div>
                             </div>
                             <div class="field">
                                 <label for="" class="label">Prénom</label>
-                                <div class="control has-icons-left">
+                                <div class="control ">
                                     <input type="text" placeholder="Votre prénom" class="input" name="lastname" required>
                                 </div>
                             </div>
                             <div class="field">
                                 <label for="" class="label">Nom</label>
-                                <div class="control has-icons-left">
+                                <div class="control">
                                     <input type="text" placeholder="Votre nom" class="input" name="firstname" required>
                                 </div>
                             </div>                           
                             <div class="field">
                                 <label for="" class="label" name="message">Votre message</label>
                                 <div class="control has-icons-left">
-                                    <textarea class="textarea" placeholder="Textarea"></textarea>
+                                    <textarea class="textarea" placeholder="Votre texte"></textarea>
                                 </div>
                             </div>
                             <div class="field">

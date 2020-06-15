@@ -240,9 +240,9 @@
             </section>
             <section id="LesPlus" class="hero jump">
                 <div class="hero-body">
-                    <div class="container">
+                    <div class="container" >
                         <h1 class="title">Les + du séjour</h1>
-                        <ul style="margin-right: 0px;margin-left: -19px;">
+                        <ul>
                             <li style="font-size: 21px;margin-right: 0px;color: rgb(0,0,0);">• Situé au cœur la Provence<br></li>
                             <li style="font-size: 21px;color: rgb(0,0,0);">• Pension complète de très bonne qualité (repas, literie)<br></li>
                             <li style="font-size: 21px;color: rgb(0,0,0);">• Immersion totale pendant 3 jours<br></li>
