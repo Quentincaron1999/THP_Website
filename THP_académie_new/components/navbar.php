@@ -11,7 +11,7 @@
 
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
-        <a class="navbar-item ivoire" href="Contact.php">Contact</a>
+        <a class="navbar-item" style="color: #276746;" href="mailto:contact@thpacademie.com">Contact</a>
         <!--<div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link" ><img src="assets/img/francefav.png" style="height: 2rem; width: 2rem;"></a>
             <div class="navbar-dropdown">
@@ -20,7 +20,7 @@
                 <a class="navbar-item" href="Session-Spring.php">Session printemps 2021</a>
             </div>
         </div>-->
-        <a class="navbar-item ivoire" href="QuiSommesNous.php">Qui sommes nous ?</a>     
+        <a class="navbar-item" style="color: #276746;" href="QuiSommesNous.php">Qui sommes nous ?</a>     
     </div>
 
     <div class="navbar-end">
@@ -91,9 +91,9 @@
 
 <!-- Principal Navbar -->
 
-<nav id="principal-nav" class="navbar is-fixed-top is-mobile navsix" role="navigation" aria-label="main navigation">
+<nav id="principal-nav" class="navbar is-fixed-top is-mobile navsix" role="navigation" aria-label="main navigation" style="background-color:#276746">
     <div class="navbar-brand">
-        <a class="navbar-item" href="index.php">
+        <a class="navbar-item" href="index.php" style="background-color:#f7eed1; border-color:#276746;">
             <img src="assets/img/logo_thpacademie.png"  width="90" height="90">
         </a>
 
@@ -107,17 +107,17 @@
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
         <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" style="color:#0F5631;">Programme</a>
+            <a class="navbar-link" style=" color:#f7eed1;">Programme</a>
             <div class="navbar-dropdown">
-                <a class="navbar-item" href="Session-Summer.php" style="color:#0F5631;">Session été 2020</a>
-                <a class="navbar-item" href="Session-Automn.php" style="color:#0F5631;">Session automne 2020</a>
-                <a class="navbar-item" href="Session-Spring.php" style="color:#0F5631;">Session printemps 2021</a>
+                <a class="navbar-item" href="Session-Summer.php" style=" color:#f7eed1;">Session été 2020</a>
+                <a class="navbar-item" href="Session-Automn.php" style=" color:#f7eed1;">Session automne 2020</a>
+                <a class="navbar-item" href="Session-Spring.php" style=" color:#f7eed1;">Session printemps 2021</a>
             </div>
         </div>
-        <a class="navbar-item" href="Niveaux.php" style="color:#0F5631;">Niveaux</a>
-        <a class="navbar-item" href="Coaching.php" style="color:#0F5631;">Coaching</a>
-        <a class="navbar-item" href="Photos.php" style="color:#0F5631;">Photos/Vidéo</a>
-        <a class="navbar-item" href="Actualite.php" style="color:#0F5631;">Actualités</a>      
+        <a class="navbar-item" href="Niveaux.php" style=" color:#f7eed1;">Niveaux</a>
+        <a class="navbar-item" href="Coaching.php" style=" color:#f7eed1;">Coaching</a>
+        <a class="navbar-item" href="Photos.php" style=" color:#f7eed1;">Photos/Vidéo</a>
+        <a class="navbar-item" href="Actualite.php" style=" color:#f7eed1;">Actualités</a>      
     </div>
 
     <!--<div class="navbar-end">

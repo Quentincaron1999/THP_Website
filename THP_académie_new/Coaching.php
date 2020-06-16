@@ -5,7 +5,7 @@
     <?php include("components/header.php")?>
 </head>
 
-<body>
+<body style="background-color: #276746;">
     <?php include("components/navbar.php")?>
 
     <?php include("components/session_head-coaching.php")?>
@@ -84,7 +84,7 @@ Je mets mon expérience et l’ensemble de mes compétences à votre service.
 <br> •	Ma formation d’accompagnateur en montagne
 Cette collaboration peut se faire sur un objectif déterminé à court ou moyen terme (minimum 3 mois) ou dans une vision à plus long terme. <br>Quelle que soit la durée, nous passerons par un ensemble d’étapes permettant de diagnostiquer votre pratique, vos attentes et votre investissement. De cette analyse découleront les étapes de progression. C’est un accompagnement complet qui comprend :
 </p>
-<h1>Offre "THP académie Ivory"</h1>
+<h1>Offre "THP académie Silver"</h1>
 <p style="margin-right: 2%;margin-left: 2%;color: #737373;">85 € par mois (minimum 3 mois)<br></p>
                                                                 <ul>
                                                                     <li>Planification mensuelle<br></li>

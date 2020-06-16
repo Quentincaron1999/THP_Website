@@ -68,7 +68,7 @@
 }
 
 .ivoire{
-    color: #F7EED1;
+    color: #276746;
 }
 
 .gal-text{
@@ -91,7 +91,7 @@
 
 .a {
     
-	color: #276746;
+	color: #f7eed1;
 }
 
 .bg-col {
@@ -129,4 +129,13 @@
     color: #f7eed1;
     margin-top: -0.5rem;
 }
+
+p, td, table, li, ul,h2,h1,th,tr, thead,span,a{
+    color: #f7eed1;
+}
+
+body {
+    background-color: #276746;
+}
+
 

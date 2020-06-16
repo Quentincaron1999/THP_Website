@@ -4,7 +4,7 @@
     <?php include("components/header.php")?>
 </head>
 
-<body>
+<body style="background-color:#276746">
     
     <!-- Principal Navbars -->
     <?php include("components/navbar.php")?>
@@ -112,19 +112,19 @@
                         <h1 class="title">Niveau</h1>
                         <div class="col-md-12">
                                 <div class="table-responsive" style="margin-top: 47px;">
-                                    <table class="table">
+                                    <table class="table" style="background-color: #276746;">
                                         <thead>
                                             <tr>
                                                 <th class="table-thp3"></th>
-                                                <th class="text-center">THP 3</th>
+                                                <th class="text-center" style="color: #f7eed1;">THP 3</th>
                                             </tr>
                                         </thead>
                                         <tbody></tbody>
                                     </table>
                                 </div>
-                                <p style="background-color: #276746;font-size: 25px;font-weight: normal;color: #f7eed1;margin-top: -17px;margin-bottom: -40px;">&nbsp; Les prérequis attendus pour profiter au mieux du stage</p>
+                                <p style="background-color: #f7eed1 ;font-size: 25px;font-weight: normal;color: #276746;margin-top: -17px;margin-bottom: -40px;">&nbsp; Les prérequis attendus pour profiter au mieux du stage</p>
                                 <div class="table-responsive" style="margin-top: 47px;">
-                                    <table class="table">
+                                    <table class="table" style="background-color: #276746;">
                                         <thead>
                                             <tr></tr>
                                         </thead>
@@ -144,9 +144,9 @@
                                         </tbody>
                                     </table>
                                 </div>
-                                <p style="background-color: #276746;font-size: 25px;color: #f7eed1;margin-top: -19px;margin-bottom: -43px;">&nbsp; Mon activité pendant le stage</p>
+                                <p style="background-color: #f7eed1;font-size: 25px;color: #276746;margin-top: -19px;margin-bottom: -43px;">&nbsp; Mon activité pendant le stage</p>
                                 <div class="table-responsive" style="margin-top: 47px;">
-                                    <table class="table">
+                                    <table class="table" style="background-color: #276746;">
                                         <thead>
                                             <tr></tr>
                                         </thead>
@@ -175,28 +175,28 @@
                     </div>
                 </div>
             </section>
-            <section id="LeMateriel" class="hero jump">
+            <section id="LeMateriel" class="hero jump" >
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Le Matériel</h1>
-                        <p style="margin-right: 2%;margin-left: 0%;color: rgb(0,0,0);">Pensez à adapter cette liste en fonction de la météo et de vos besoins personnels !<br></p>
+                        <p style="margin-right: 2%;margin-left: 0%; ">Pensez à adapter cette liste en fonction de la météo et de vos besoins personnels !<br></p>
                         <div class="row">
                     <div class="col-md-12">
                         <div></div>
                         <div class="table-responsive">
-                            <table class="table">
+                            <table class="table" style="background-color: #276746;">
                                 <thead>
                                     <tr>
-                                        <th class="text-center">Obligatoire</th>
-                                        <th class="text-center">Recommandé</th>
+                                        <th class="text-center" style="color: #f7eed1;">Obligatoire</th>
+                                        <th class="text-center" style="color: #f7eed1;">Recommandé</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td style="color: rgb(0,0,0);"><br>Un sac à dos de trail de 5 à 15 l<br>Une réserve en eau d’au moins 2 l<br>Une veste imperméable ou coupe-vent<br>Un haut à manches longues chaud<br>Chaussettes adaptées au trail<br>Une paire de lunettes de soleil<br>Casquette<br>Un
+                                        <td  ><br>Un sac à dos de trail de 5 à 15 l<br>Une réserve en eau d’au moins 2 l<br>Une veste imperméable ou coupe-vent<br>Un haut à manches longues chaud<br>Chaussettes adaptées au trail<br>Une paire de lunettes de soleil<br>Casquette<br>Un
                                             tour de cou<br>Réserve en barres, fruits secs ... afin d’être autonome en sortie longue (de 8 à 13h30)<br>Une lampe frontale<br>Des vêtements de rechanges pour la durée du stage<br>Des chaussures de rechange<br><br></td>
                                         <td
-                                            style="color: rgb(0,0,0);" ><br>Un bonnet et des gants fins<br>Bâtons (pour s’entraîner)<br>Un peu d’argent liquide<br>Une tenue pour le soir<br>Un couteau de poche<br>Boules Quies ou bouchons d’oreilles<br>Collant ou pantalon long (pour sortie
+                                              ><br>Un bonnet et des gants fins<br>Bâtons (pour s’entraîner)<br>Un peu d’argent liquide<br>Une tenue pour le soir<br>Un couteau de poche<br>Boules Quies ou bouchons d’oreilles<br>Collant ou pantalon long (pour sortie
                                             longue)<br id="Niveau">Pharmacie personnelle avec pansements double-peaux <br>Crème solaire et stick lèvres<br>Claquettes/Tongues</td>
                                     </tr>
                                 </tbody>

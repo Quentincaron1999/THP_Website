@@ -4,7 +4,7 @@
     <?php include("components/header.php")?>
 </head>
 
-<body>
+<body style="background-color: #276746;">
     
     <!-- Principal Navbars -->
     <?php include("components/navbar.php")?>
@@ -119,20 +119,20 @@
                         <h1 class="title">Niveau</h1>
                         <div class="col-md-12" style="margin-top: -5%;margin-bottom: 8%;">
                         <div class="table-responsive" style="margin-top: 47px;">
-                            <table class="table">
+                            <table class="table" style="background-color: #276746;">
                                 <thead>
                                     <tr>
                                         <th style="width: 133px;"></th>
-                                        <th class="text-center">THP 1</th>
-                                        <th class="text-center" style="width: 283px;">THP 2</th>
+                                        <th class="text-center" style="color: #f7eed1;">THP 1</th>
+                                        <th class="text-center" style="width: 283px;color: #f7eed1;">THP 2</th>
                                     </tr>
                                 </thead>
                                 <tbody></tbody>
                             </table>
                         </div>
-                        <p class="text-left" style="background-color: #276746;color: #f7eed1;margin-top: -16px;margin-bottom: -43px;font-size: 23px;margin-left: 1px;">&nbsp; Les prérequis attendus pour profiter au mieux du stage</p>
+                        <p class="text-left" style="background-color: #f7eed1;color: #276746;margin-top: -16px;margin-bottom: -43px;font-size: 23px;margin-left: 1px;">&nbsp; Les prérequis attendus pour profiter au mieux du stage</p>
                         <div class="table-responsive" style="margin-top: 47px;">
-                            <table class="table">
+                            <table class="table" style="background-color: #276746;">
                                 <thead>
                                     <tr></tr>
                                 </thead>
@@ -155,9 +155,9 @@
                                 </tbody>
                             </table>
                         </div>
-                        <p style="background-color: #276746;color: #f7eed1;font-size: 23px;margin-top: -21px;margin-bottom: -45px;">&nbsp; Mon activité pendant le stage</p>
+                        <p style="background-color: #f7eed1;color: #276746;font-size: 23px;margin-top: -21px;margin-bottom: -45px;">&nbsp; Mon activité pendant le stage</p>
                         <div class="table-responsive" style="margin-top: 47px;">
-                            <table class="table">
+                            <table class="table" style="background-color: #276746;">
                                 <thead>
                                     <tr></tr>
                                 </thead>
@@ -175,13 +175,13 @@
                                     </tr>
                                     <tr>
                                         <td style="letter-spacing: 0px;font-weight: bold;">Type de terrain</td>
-                                        <td style="color: rgb(0,0,0);">Alternance de chemins larges et de monotrace (pierriers et sous-bois souples)<br></td>
+                                        <td  >Alternance de chemins larges et de monotrace (pierriers et sous-bois souples)<br></td>
                                         <td  id="Dates">Majorité de monotrace et de sentiers techniques (pierriers, névés...)<br></td>
                                     </tr>
                                     <tr>
                                         <td style="letter-spacing: 0px;font-weight: bold;">Profil</td>
-                                        <td style="color: rgb(0,0,0);">Pas ou peu de passages délicats ou aériens<br></td>
-                                        <td style="color: rgb(0,0,0);">Quelques passages aériens possibles (crêtes de Lure)<br></td>
+                                        <td  >Pas ou peu de passages délicats ou aériens<br></td>
+                                        <td  >Quelques passages aériens possibles (crêtes de Lure)<br></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -194,24 +194,24 @@
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Le Matériel</h1>
-                        <p style="margin-right: 2%;margin-left: 0%;color: rgb(0,0,0);">Pensez à adapter cette liste en fonction de la météo et de vos besoins personnels !<br></p>
+                        <p style="margin-right: 2%;margin-left: 0%; ">Pensez à adapter cette liste en fonction de la météo et de vos besoins personnels !<br></p>
                         <div class="row">
                     <div class="col-md-12">
                         <div></div>
                         <div class="table-responsive">
-                            <table class="table">
+                            <table class="table" style="background-color: #276746;">
                                 <thead>
                                     <tr>
-                                        <th class="text-center">Obligatoire</th>
-                                        <th class="text-center">Recommandé<br></th>
+                                        <th class="text-center" style="color: #f7eed1;">Obligatoire</th>
+                                        <th class="text-center" style="color: #f7eed1;">Recommandé<br></th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td style="color: rgb(0,0,0);"><br>Un sac à dos de trail de 5 à 15 l<br>Une réserve en eau d’au moins 1 l<br>Une veste imperméable ou coupe-vent<br>Un haut à manches longues chaud<br>Chaussettes adaptées au trail<br>Une paire de lunettes de soleil<br>Casquette<br>Un
+                                        <td  ><br>Un sac à dos de trail de 5 à 15 l<br>Une réserve en eau d’au moins 1 l<br>Une veste imperméable ou coupe-vent<br>Un haut à manches longues chaud<br>Chaussettes adaptées au trail<br>Une paire de lunettes de soleil<br>Casquette<br>Un
                                             tour de cou<br>Réserve en barres, fruits secs ... afin d’être autonome en sortie longue<br>Une lampe frontale<br>Des vêtements de rechanges pour la durée du stage<br>Des chaussures de rechange<br><br></td>
                                         <td
-                                            style="color: rgb(0,0,0);" ><br>Un bonnet et des gants fins<br>Bâtons (pour s’entraîner)<br>Un peu d’argent liquide<br>Une tenue pour le soir<br>Un couteau de poche<br>Boules Quies ou bouchons d’oreilles<br>Collant ou pantalon long (pour sortie
+                                              ><br>Un bonnet et des gants fins<br>Bâtons (pour s’entraîner)<br>Un peu d’argent liquide<br>Une tenue pour le soir<br>Un couteau de poche<br>Boules Quies ou bouchons d’oreilles<br>Collant ou pantalon long (pour sortie
                                             longue)<br id="Niveau">Pharmacie personnelle avec pansements double-peaux <br>Crème solaire et stick lèvres<br>Claquettes/Tongues</td>
                                     </tr>
                                 </tbody>
@@ -243,15 +243,15 @@
                     <div class="container" >
                         <h1 class="title">Les + du séjour</h1>
                         <ul>
-                            <li style="font-size: 21px;margin-right: 0px;color: rgb(0,0,0);">• Situé au cœur la Provence<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Pension complète de très bonne qualité (repas, literie)<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Immersion totale pendant 3 jours<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Partages des expériences<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Visionnages vidéos pour un meilleur apprentissage<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Petit groupe&nbsp;<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• 2 encadrants pour s’adapter aux différents niveaux<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Découvertes des tracés du Trail de Haute Provence<br></li>
-                            <li style="font-size: 21px;color: rgb(0,0,0);">• Les sorties partent du gîte<br></li>
+                            <li style="font-size: 21px;margin-right: 0px; ">• Situé au cœur la Provence<br></li>
+                            <li style="font-size: 21px; ">• Pension complète de très bonne qualité (repas, literie)<br></li>
+                            <li style="font-size: 21px; ">• Immersion totale pendant 3 jours<br></li>
+                            <li style="font-size: 21px; ">• Partages des expériences<br></li>
+                            <li style="font-size: 21px; ">• Visionnages vidéos pour un meilleur apprentissage<br></li>
+                            <li style="font-size: 21px; ">• Petit groupe&nbsp;<br></li>
+                            <li style="font-size: 21px; ">• 2 encadrants pour s’adapter aux différents niveaux<br></li>
+                            <li style="font-size: 21px; ">• Découvertes des tracés du Trail de Haute Provence<br></li>
+                            <li style="font-size: 21px; ">• Les sorties partent du gîte<br></li>
                         </ul>
                     </div>
                 </div>

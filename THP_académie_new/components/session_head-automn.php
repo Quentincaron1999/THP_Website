@@ -15,7 +15,7 @@
 
     <div class="navbar-end">
       	<div class="navbar-item">
-			<a class="button is-primary is-rounded navbar-item" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/" target="_blank">S'inscrire</a>
+			<a class="button is-primary is-rounded navbar-item" href="http://thpacademielestagedetrail_du_6_au_8_novembre_2020.ikinoa.com/" target="_blank" style="color: #f7eed1;">S'inscrire</a>
       	</div>
     </div>
 </nav>

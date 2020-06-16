@@ -4,7 +4,7 @@
     <?php include("components/header.php")?>
 </head>
 
-<body>
+<body style="background-color: #276746;">
 
     <?php include("components/navbar.php")?>
     <?php include("components/banner-page.php")?>
@@ -18,7 +18,7 @@
 
                         <div class="col-md-12">
                                 <div class="table-responsive" style="margin-top: 47px;">
-                                    <table class="table">
+                                    <table class="table" style="background-color: #276746;">
                                         <thead>
                                             <tr>
                                                 <th style="min-width: 0px;width: 119px;"></th>
@@ -30,9 +30,9 @@
                                         <tbody></tbody>
                                     </table>
                                 </div>
-                                <p style="background-color: #276746;font-size: 25px;font-weight: normal;color: #f7eed1;margin-top: -17px;margin-bottom: -40px;">&nbsp; Les prérequis attendus pour profiter au mieux du stage</p>
+                                <p style="background-color: #f7eed1;font-size: 25px;font-weight: normal;color: #276746;margin-top: -17px;margin-bottom: -40px;">&nbsp; Les prérequis attendus pour profiter au mieux du stage</p>
                                 <div class="table-responsive" style="margin-top: 47px;">
-                                    <table class="table">
+                                    <table class="table" style="background-color: #276746;">
                                         <thead>
                                             <tr></tr>
                                         </thead>
@@ -58,9 +58,9 @@
                                         </tbody>
                                     </table>
                                 </div>
-                                <p style="background-color: #276746;font-size: 25px;font-weight: normal;color: #f7eed1;margin-top: -19px;margin-bottom: -43px;">&nbsp; Mon activité pendant le stage</p>
+                                <p style="background-color: #f7eed1;font-size: 25px;font-weight: normal;color: #276746;margin-top: -19px;margin-bottom: -43px;">&nbsp; Mon activité pendant le stage</p>
                                 <div class="table-responsive" style="margin-top: 47px;">
-                                    <table class="table">
+                                    <table class="table" style="background-color: #276746;">
                                         <thead>
                                             <tr></tr>
                                         </thead>
