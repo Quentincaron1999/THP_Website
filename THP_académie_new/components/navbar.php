@@ -109,9 +109,9 @@
         <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link" style=" color:#f7eed1;">Programme</a>
             <div class="navbar-dropdown">
-                <a class="navbar-item" href="Session-Summer.php" style=" color:#f7eed1;">Session été 2020</a>
-                <a class="navbar-item" href="Session-Automn.php" style=" color:#f7eed1;">Session automne 2020</a>
-                <a class="navbar-item" href="Session-Spring.php" style=" color:#f7eed1;">Session printemps 2021</a>
+                <a class="navbar-item navitm" href="Session-Summer.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='0F5530';">Session été 2020</a>
+                <a class="navbar-item navitm" href="Session-Automn.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='0F5530';">Session automne 2020</a>
+                <a class="navbar-item navitm" href="Session-Spring.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='0F5530';">Session printemps 2021</a>
             </div>
         </div>
         <a class="navbar-item" href="Niveaux.php" style=" color:#f7eed1;">Niveaux</a>

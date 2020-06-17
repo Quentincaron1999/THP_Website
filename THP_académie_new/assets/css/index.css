@@ -71,6 +71,11 @@
     color: #276746;
 }
 
+.ivoire:hover{
+    background-color: #276746;
+    color: #f7eed1;
+}
+
 .gal-text{
     font-size: 2em;
 }
