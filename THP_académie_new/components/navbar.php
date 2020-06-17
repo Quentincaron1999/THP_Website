@@ -1,8 +1,8 @@
 <!-- Pré-Navbar -->
 
-<nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation">
+<nav class="navbar is-fixed-top prenav is-hidden-mobile" role="navigation" aria-label="main navigation" id="prenav">
     <div id="navbarBasicExample" class="navbar-brand">
-    <a role="button" class="navbar-burger burger is-mobile" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+    <a role="button" class=" burger is-mobile" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
@@ -134,6 +134,12 @@
     </div>-->
   </div>
 </nav>
+
+<script>
+    	if ($(window).width() < 992) {
+            $( "#prenav" ).remove();
+        }
+</script>
 
 
 
