@@ -22,9 +22,9 @@
                                         <thead>
                                             <tr>
                                                 <th style="min-width: 0px;width: 119px;"></th>
-                                                <th class="text-center" style="width: 168px;">THP 1</th>
-                                                <th class="text-center" style="width: 146px;">THP 2</th>
-                                                <th class="text-center" style="width: 186px;">THP 3</th>
+                                                <th class="text-center" style="width: 168px; color:#f7eed1;">THP 1</th>
+                                                <th class="text-center" style="width: 146px; color:#f7eed1;">THP 2</th>
+                                                <th class="text-center" style="width: 186px; color:#f7eed1;">THP 3</th>
                                             </tr>
                                         </thead>
                                         <tbody></tbody>
