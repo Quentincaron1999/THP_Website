@@ -117,6 +117,7 @@
                                             <tr>
                                                 <th class="table-thp3"></th>
                                                 <th class="text-center" style="color: #f7eed1;">THP 3</th>
+                                                <th class="text-center" style="color: #f7eed1;">THP 4</th>
                                             </tr>
                                         </thead>
                                         <tbody></tbody>
@@ -132,14 +133,17 @@
                                             <tr>
                                                 <td class="table-thp3 table-font">Préparation Physique</td>
                                                 <td>Pratique régulière de la course à pied en terrains variés et autres activités d’endurance : 4 à 5 fois par semaine pendant au moins 1h15&nbsp;<br></td>
+                                                <td>Pratique régulière de la course à pied en terrains variés et autres activités d’endurance : 4 à 5 fois par semaine pendant au moins 1h30&nbsp;<br></td>
                                             </tr>
                                             <tr>
                                                 <td class="table-thp3 table-font">Vitesse ascensionnelle<br></td>
                                                 <td>Au moins 800 m D+/h pendant 1 heure&nbsp;<br></td>
+                                                <td>Au moins 950 m D+/h pendant 1 heure&nbsp;<br></td>
                                             </tr>
                                             <tr>
                                                 <td class="table-thp3 table-font">Epérience en Trails</td>
                                                 <td>Finisher&nbsp;sur des&nbsp;trails en montagne d'au moins 40 km et 2 000 m D+<br></td>
+                                                <td>Finisher&nbsp;sur des&nbsp;trails en montagne d'au moins 60 km et 3 000 m D+<br></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -154,17 +158,21 @@
                                             <tr>
                                                 <td class="table-thp3 table-font">Distance moyenne par jour</td>
                                                 <td class="text-center">30 à 40 km<br></td>
+                                                <td class="text-center">40 à 60 km<br></td>
                                             </tr>
                                             <tr>
                                                 <td class="table-thp3 table-font">Dénivelé + moyen par jour</td>
                                                 <td class="text-center">1 500 à 2 500 m<br></td>
+                                                <td class="text-center">2 000 à 3 500 m<br></td>
                                             </tr>
                                             <tr>
                                                 <td class="table-thp3 table-font">Type de terrain</td>
                                                 <td>Majorité de monotrace et de sentiers techniques (pierriers, névés...)<br></td>
+                                                <td>Majorité de monotrace et de sentiers techniques (pierriers, névés...)<br></td>
                                             </tr>
                                             <tr>
                                                 <td class="table-thp3 table-font">Profil</td>
+                                                <td>Quelques passages aériens<br></td>
                                                 <td>Quelques passages aériens<br></td>
                                             </tr>
                                         </tbody>

@@ -6093,7 +6093,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 }
 
 .navbar-link:not(.is-arrowless)::after {
-  border-color: #0F5631;
+  border-color: #f7eed1;
   margin-top: -0.375em;
   right: 1.125em;
 }

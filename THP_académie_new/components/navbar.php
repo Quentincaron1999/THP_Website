@@ -11,16 +11,8 @@
 
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
-        <a class="navbar-item" style="color: #276746;" href="mailto:contact@thpacademie.com">Contact</a>
-        <!--<div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" ><img src="assets/img/francefav.png" style="height: 2rem; width: 2rem;"></a>
-            <div class="navbar-dropdown">
-                <a class="navbar-item" href="Session-Summer.php">Session été 2020</a>
-                <a class="navbar-item" href="Session-Automn.php">Session automne 2020</a>
-                <a class="navbar-item" href="Session-Spring.php">Session printemps 2021</a>
-            </div>
-        </div>-->
-        <a class="navbar-item" style="color: #276746;" href="QuiSommesNous.php">Qui sommes nous ?</a>     
+        <a class="navbar-item" style="color: #276746;" href="mailto:contact@thpacademie.com" onmouseover="this.style.background='#d3c495';" onmouseout="this.style.background='#F7EED1';">Contact</a>
+        <a class="navbar-item" style="color: #276746;" href="QuiSommesNous.php" onmouseover="this.style.background='#d3c495';" onmouseout="this.style.background='#F7EED1';">Qui sommes nous ?</a>     
     </div>
 
     <div class="navbar-end">
@@ -109,9 +101,9 @@
         <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link" style=" color:#f7eed1;">Programme</a>
             <div class="navbar-dropdown">
-                <a class="navbar-item navitm" href="Session-Summer.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='0F5530';">Session été 2020</a>
-                <a class="navbar-item navitm" href="Session-Automn.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='0F5530';">Session automne 2020</a>
-                <a class="navbar-item navitm" href="Session-Spring.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='0F5530';">Session printemps 2021</a>
+                <a class="navbar-item navitm" href="Session-Summer.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='#0F5530';">Session été 2020</a>
+                <a class="navbar-item navitm" href="Session-Automn.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='#0F5530';">Session automne 2020</a>
+                <a class="navbar-item navitm" href="Session-Spring.php" style=" color:#f7eed1;" onmouseover="this.style.background='#276746';" onmouseout="this.style.background='#0F5530';">Session printemps 2021</a>
             </div>
         </div>
         <a class="navbar-item" href="Niveaux.php" style=" color:#f7eed1;">Niveaux</a>

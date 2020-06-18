@@ -38,3 +38,7 @@
 .navitm:hover {
     color: #276746;
 }
+
+.clear-nav:hover {
+    background-color: #d3c495;
+}
