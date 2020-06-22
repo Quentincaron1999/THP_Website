@@ -14,7 +14,7 @@
 
     <div class="columns border ">
         <div class="column is-two-thirds is-mobile is-offset-1-desktop">
-            <section id="EnBref" class="hero jump">
+            <section id="EnBref" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">En Bref</h1>
@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </section>
-            <section id="Programme" class="hero jump">
+            <section id="Programme" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Programme</h1>
@@ -45,7 +45,7 @@
                             </div>
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
-                                    <div class="dropdown-item">
+                                    <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p> •  13h30 - 14h00 Accueil et installation des participants<br>
                                             • 14h00 - 15h30 Présentation du stage et recueil des souhaits des participants<br>
                                             • 15h30 - 18h00 Sortie simple avec ou sans bâtons. Quelle est ma meilleuremontée ? La descente une affaire de technique (vidéos) ! <br>
@@ -70,7 +70,7 @@
                             </div>
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
-                                    <div class="dropdown-item">
+                                    <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p>• 07h00 - 07h30 Petit-déjeuner<br>
                                             • 07h30 - 14h00 Sur les traces du THP : de 20 à 40 km (en fonction du niveau)<br>
                                             • 14h00 - 15h00 Déjeuner<br>
@@ -96,7 +96,7 @@
                             </div>
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
-                                    <div class="dropdown-item">
+                                    <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p> • 07h00 - 08h00 Séance de Yoga<br>
                                             • 08h00 - 09h00 Petit déjeuner<br>
                                             • 09h00 - 12h00 Sortie nature : de la théorie à la pratique<br>
@@ -113,7 +113,7 @@
                     </div>
                 </div>
             </section>
-            <section id="Niveau" class="hero jump">
+            <section id="Niveau" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Niveau</h1>
@@ -190,7 +190,7 @@
                     </div>
                 </div>
             </section>
-            <section id="LeMateriel" class="hero jump">
+            <section id="LeMateriel" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Le Matériel</h1>
@@ -222,7 +222,7 @@
                        </div>
                 </div>
             </section>
-            <section id="VotreCadre" class="hero jump">
+            <section id="VotreCadre" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Votre Cadre</h1>
@@ -238,7 +238,7 @@
                     </div>
                 </div>
             </section>
-            <section id="LesPlus" class="hero jump">
+            <section id="LesPlus" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Les + du séjour</h1>
@@ -256,7 +256,7 @@
                     </div>
                 </div>
             </section>
-            <section id="Tarif" class="hero jump">
+            <section id="Tarif" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Tarif</h1>
@@ -293,3 +293,4 @@
     <script src="assets/js/navbar-fixed-top.js"></script>
 </body>
 </html>
+

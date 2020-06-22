@@ -14,7 +14,7 @@
 
     <div class="columns border ">
         <div class="column is-two-thirds is-mobile is-offset-1-desktop">
-            <section id="EnBref" class="hero jump">
+            <section id="EnBref" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">En Bref</h1>
@@ -31,13 +31,13 @@
                     </div>
                 </div>
             </section>
-            <section id="Programme" class="hero jump">
+            <section id="Programme" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Programme</h1>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4" >
                                     <span>Jour 1</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
@@ -46,7 +46,7 @@
                             </div>
                             <div class="dropdown-menu" id="dropdown-menu4" role="menu">
                                 <div class="dropdown-content">
-                                    <div class="dropdown-item">
+                                    <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p> • 09h30 - 10h00 Accueil et installation des participants à Forcalquier<br>
                                             • 10h00 - 20h00 1ère partie de l’Ultra de Provence (52 km / 2 400 m d+)<br>
                                             • 20h00 - 20h30 Retour au camp de base (navette organisée)<br>
@@ -59,16 +59,16 @@
                         </div>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu5">
                                     <span>Jour 2</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
                                     </span>
                                 </button>
                             </div>
-                            <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                            <div class="dropdown-menu" id="dropdown-menu5" role="menu">
                                 <div class="dropdown-content">
-                                    <div class="dropdown-item">
+                                    <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p> • 05h00 - 05h30 Petit-déjeuner / Préparation du sac de la journée<br>
                                             • 05h30 - 06h00 Retour sur l’Ultra de Provence (navette organisée) <br>
                                             • 06h00 - 19h30 2ème partie de l’Ultra de Provence (60 km / 3 600 m d+)<br>
@@ -82,16 +82,16 @@
                         </div>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu6">
                                     <span>Jour 3</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
                                     </span>
                                 </button>
                             </div>
-                            <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                            <div class="dropdown-menu" id="dropdown-menu6" role="menu">
                                 <div class="dropdown-content">
-                                    <div class="dropdown-item">
+                                    <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p> • 06h00 - 06h30 Petit-déjeuner / Préparation du sac de la journée<br>
                                             • 06h30 - 07h00 Retour sur l’Ultra de Provence (navette organisée) <br>
                                             • 07h00 - 15h00 3ème partie de l’Ultra de Provence (38 km / 1 000 m d+)<br>
@@ -105,8 +105,10 @@
                         </div>
                     </div>
                 </div>
+
+                
             </section>
-            <section id="Niveau" class="hero jump">
+            <section id="Niveau" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Niveau</h1>
@@ -183,7 +185,7 @@
                     </div>
                 </div>
             </section>
-            <section id="LeMateriel" class="hero jump" >
+            <section id="LeMateriel" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Le Matériel</h1>
@@ -215,7 +217,7 @@
                        </div>
                 </div>
             </section>
-            <section id="VotreCadre" class="hero jump">
+            <section id="VotreCadre" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Votre Cadre</h1>
@@ -229,7 +231,7 @@
                     </div>
                 </div>
             </section>
-            <section id="LesPlus" class="hero jump">
+            <section id="LesPlus" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Les + du séjour</h1>
@@ -245,7 +247,7 @@
                     </div>
                 </div>
             </section>
-            <section id="Tarif" class="hero jump">
+            <section id="Tarif" class="hero jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="title">Tarif</h1>
@@ -267,5 +269,7 @@
     <?php include("components/temoignage.php")?>
     <?php include("components/footer.php")?>
     <script src="assets/js/navbar-fixed-top.js"></script>
+
+
 </body>
 </html>

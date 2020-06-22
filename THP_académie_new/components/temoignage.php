@@ -1,4 +1,4 @@
-<section id="Tem" class="hero is-primary  is-mobile jump">
+<section id="Tem" class="hero is-primary  is-mobile jump" style="padding-top: 6.5rem; margin-top: -6.5rem;">
     <div class="hero-body">
     <div class="columns is-center">
             <div class="column">

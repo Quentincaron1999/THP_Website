@@ -362,7 +362,6 @@ hr {
 .img-thumbnail {
 	padding: .25rem;
 	background-color: #fff;
-	border: 1px solid #dee2e6;
 	border-radius: .25rem;
 	max-width: 100%;
 	height: auto
@@ -1509,10 +1508,10 @@ pre code {
 	padding: .3rem
 }
 .table-bordered {
-	border: 1px solid #dee2e6
+	 
 }
 .table-bordered td, .table-bordered th {
-	border: 1px solid #dee2e6
+	 
 }
 .table-bordered thead td, .table-bordered thead th {
 	border-bottom-width: 2px
@@ -2669,7 +2668,6 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 	color: #212529;
 	text-align: left;
 	list-style: none;
-	background-color: #fff;
 	background-clip: padding-box;
 	border: 1px solid rgba(0, 0, 0, .15);
 	border-radius: .25rem
@@ -3755,7 +3753,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 	line-height: 1.25;
 	color: #007bff;
 	background-color: #fff;
-	border: 1px solid #dee2e6
+	 
 }
 .page-link:hover {
 	z-index: 2;
@@ -5224,7 +5222,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 	background-color: transparent!important
 }
 .border {
-	border: 1px solid #dee2e6!important
+	 !important
 }
 .border-top {
 	border-top: 1px solid #dee2e6!important
@@ -8001,7 +7999,7 @@ a.text-dark:focus, a.text-dark:hover {
 		background-color: #fff!important
 	}
 	.table-bordered td, .table-bordered th {
-		border: 1px solid #dee2e6!important
+		 !important
 	}
 	.table-dark {
 		color: inherit

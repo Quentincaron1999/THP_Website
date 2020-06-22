@@ -3,6 +3,7 @@ if ($(window).width() > 992) {
         if ($(this).scrollTop() > 70) {
             $('#navbar-top').addClass("fixed-top");
             $('#navbar-top').removeClass("order-1");
+            $('.hero').removeClass("jump");
             $('#navbarBasicExample').removeClass("is-fixed-top");
             $('#principal-nav').removeClass("navsix");
             $('#navbar-top').addClass("order-2");

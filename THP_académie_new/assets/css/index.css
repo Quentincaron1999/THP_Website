@@ -135,7 +135,7 @@
     margin-top: -0.5rem;
 }
 
-p, td, table, li, ul,h2,h1,th,tr, thead,span,a{
+p, td, table, li, ul,h2,h1,th,tr, thead,span,a,strong{
     color: #f7eed1;
 }
 

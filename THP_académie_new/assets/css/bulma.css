@@ -131,7 +131,7 @@
 .button.is-loading::after, .loader, .select.is-loading::after, .control.is-loading::after {
   -webkit-animation: spinAround 500ms infinite linear;
           animation: spinAround 500ms infinite linear;
-  border: 2px solid #dbdbdb;
+  border: 2px solid ********;
   border-radius: 290486px;
   border-right-color: transparent;
   border-top-color: transparent;
@@ -467,7 +467,7 @@ a.box:active {
 
 .button {
   background-color: #0F5530;
-  border-color: #dbdbdb;
+  border-color: ********;
   border-width: 1px;
   color: #363636;
   cursor: pointer;
@@ -1729,7 +1729,7 @@ fieldset[disabled] .button.is-danger.is-inverted.is-outlined {
 .button[disabled],
 fieldset[disabled] .button {
   background-color: #0F5530;
-  border-color: #dbdbdb;
+  border-color: ********;
   box-shadow: none;
   opacity: 0.5;
 }
@@ -1753,7 +1753,7 @@ fieldset[disabled] .button {
 
 .button.is-static {
   background-color: whitesmoke;
-  border-color: #dbdbdb;
+  border-color: ********;
   color: #7a7a7a;
   box-shadow: none;
   pointer-events: none;
@@ -1964,7 +1964,7 @@ fieldset[disabled] .button {
 
 .content blockquote {
   background-color: whitesmoke;
-  border-left: 5px solid #dbdbdb;
+  border-left: 5px solid ********;
   padding: 1.25em 1.5em;
 }
 
@@ -2054,7 +2054,7 @@ fieldset[disabled] .button {
 
 .content table td,
 .content table th {
-  border: 1px solid #dbdbdb;
+  border: 1px solid ********;
   border-width: 0 0 1px;
   padding: 0.5em 0.75em;
   vertical-align: top;
@@ -2626,7 +2626,7 @@ fieldset[disabled] .button {
 
 .table td,
 .table th {
-  border: 1px solid #dbdbdb;
+  border: 1px solid ********;
   border-width: 0 0 1px;
   padding: 0.5em 0.75em;
   vertical-align: top;
@@ -3048,7 +3048,7 @@ fieldset[disabled] .button {
 }
 
 .tag:not(body).is-delete:active {
-  background-color: #dbdbdb;
+  background-color: ********;
 }
 
 .tag:not(body).is-rounded {
@@ -3215,7 +3215,7 @@ a.tag:hover {
 
 .input, .textarea, .select select {
   background-color: #0F5530;
-  border-color: #dbdbdb;
+  border-color: ********;
   border-radius: 4px;
   color: #363636;
 }
@@ -4118,7 +4118,7 @@ fieldset[disabled] .select select:hover {
 
 .file-cta,
 .file-name {
-  border-color: #dbdbdb;
+  border-color: ********;
   border-radius: 4px;
   font-size: 1em;
   padding-left: 1em;
@@ -4132,7 +4132,7 @@ fieldset[disabled] .select select:hover {
 }
 
 .file-name {
-  border-color: #dbdbdb;
+  border-color: ********;
   border-style: solid;
   border-width: 1px 1px 1px 0;
   display: block;
@@ -4449,7 +4449,7 @@ fieldset[disabled] .select select:hover {
 }
 
 .control.has-icons-left .icon, .control.has-icons-right .icon {
-  color: #dbdbdb;
+  color: ********;
   height: 2.5em;
   pointer-events: none;
   position: absolute;
@@ -4952,7 +4952,7 @@ button.dropdown-item.is-active {
 }
 
 .menu-list li ul {
-  border-left: 1px solid #dbdbdb;
+  border-left: 1px solid ********;
   margin: 0.75em;
   padding-left: 0.75em;
 }
@@ -5161,7 +5161,7 @@ button.dropdown-item.is-active {
 }
 
 .message-body {
-  border-color: #dbdbdb;
+  border-color: ********;
   border-radius: 4px;
   border-style: solid;
   border-width: 0 0 0 4px;
@@ -5243,7 +5243,7 @@ button.dropdown-item.is-active {
 }
 
 .modal-card-head {
-  border-bottom: 1px solid #dbdbdb;
+  border-bottom: 1px solid ********;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
 }
@@ -5259,7 +5259,7 @@ button.dropdown-item.is-active {
 .modal-card-foot {
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
-  border-top: 1px solid #dbdbdb;
+  border-top: 1px solid ********;
 }
 
 .modal-card-foot .button:not(:last-child) {
@@ -6221,7 +6221,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     transform: rotate(135deg) translate(0.25em, -0.25em);
   }
   .navbar-item.has-dropdown-up .navbar-dropdown {
-    border-bottom: 2px solid #dbdbdb;
+    border-bottom: 2px solid ********;
     border-radius: 6px 6px 0 0;
     border-top: none;
     bottom: 100%;
@@ -6252,7 +6252,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     background-color: #0F5530;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
-    border-top: 2px solid #dbdbdb;
+    border-top: 2px solid ********;
     box-shadow: 0 8px 8px rgba(10, 10, 10, 0.1);
     display: none;
     font-size: 0.875rem;
@@ -6403,7 +6403,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 .pagination-previous,
 .pagination-next,
 .pagination-link {
-  border-color: #dbdbdb;
+  border-color: ********;
   color: #363636;
   min-width: 2.5em;
 }
@@ -6430,8 +6430,8 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 .pagination-previous[disabled],
 .pagination-next[disabled],
 .pagination-link[disabled] {
-  background-color: #dbdbdb;
-  border-color: #dbdbdb;
+  background-color: ********;
+  border-color: ********;
   box-shadow: none;
   color: #7a7a7a;
   opacity: 0.5;
@@ -6675,7 +6675,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 }
 
 .panel-tabs a {
-  border-bottom: 1px solid #dbdbdb;
+  border-bottom: 1px solid ********;
   margin-bottom: -1px;
   padding: 0.5em;
 }
@@ -6769,7 +6769,7 @@ label.panel-block:hover {
 
 .tabs a {
   align-items: center;
-  border-bottom-color: #dbdbdb;
+  border-bottom-color: ********;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   color: #0F5530;
@@ -6796,7 +6796,7 @@ label.panel-block:hover {
 
 .tabs ul {
   align-items: center;
-  border-bottom-color: #dbdbdb;
+  border-bottom-color: ********;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   display: flex;
@@ -6844,12 +6844,12 @@ label.panel-block:hover {
 
 .tabs.is-boxed a:hover {
   background-color: whitesmoke;
-  border-bottom-color: #dbdbdb;
+  border-bottom-color: ********;
 }
 
 .tabs.is-boxed li.is-active a {
   background-color: #0F5530;
-  border-color: #dbdbdb;
+  border-color: ********;
   border-bottom-color: transparent !important;
 }
 
@@ -6859,7 +6859,7 @@ label.panel-block:hover {
 }
 
 .tabs.is-toggle a {
-  border-color: #dbdbdb;
+  border-color: ********;
   border-style: solid;
   border-width: 1px;
   margin-bottom: 0;
