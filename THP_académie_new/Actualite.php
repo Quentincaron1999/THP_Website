@@ -7,7 +7,7 @@
 <body>
 
     <?php include("components/navbar.php")?>
-    <div class="columns principal is-mobile is-multiline has-text-centered mt-6 is-flex bg-col">
+    <div class="columns principal is-mobile is-multiline has-text-centered mt-6 is-flex bg-col" style="margin-bottom: -1rem;">
         <div class="column is-half-fullhd is-full-touch">
             <h1 class="mt-6" style="color: #F7EED1;">Article</h1>
         </div>

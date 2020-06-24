@@ -1,131 +1,195 @@
-/*custom font*/
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
-
-/*basic reset*/
-* {margin: 0; padding: 0;}
-
-html {
-	height: 100%;
-	/*Image only BG fallback*/
-	
-	/*background = gradient + image pattern combo*/
-	background: 
-		linear-gradient(rgba(196, 102, 0, 0.6), rgba(155, 89, 182, 0.6));
+*{
+    font-family: Montserrat;
+    color: #FAFAFA;
+}
+.main{
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #B2B2B2;
+}
+h1{
+    text-align: center;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+h3{
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.img-back{
+    position: absolute;
+    height: 100%;
+    filter: blur(10px);
+}
+.central{
+    width: 50%;
+    margin: auto;
+}
+.btn-bambou{
+    color: #FAFAFA;
+    border: none;
+    background: linear-gradient(90deg, rgba(56,84,242,1) 25%, rgba(111,4,217,1) 100%);
+    font-family: Montserrat;
+    font-size: 1rem;
+    transition: .3s;
+    width: 100%;
+}
+.btn-bambou:hover{
+    transform: translateY(-2px);
+    color: #FFF;
+    transition: .3s;
+    cursor: pointer;
+    box-shadow: 0px 5px 7px rgba(0, 0, 0, .3);
+}
+.btn-bambou:focus{
+    outline: none;
+}
+.btn-bambou:active{
+    transform: translateY(-1px);
+    transition: .3s;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+li {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+    text-align: center;
+}
+li span {
+    display: block;
+    font-size: 4.5rem;
+    font-family: Montserrat;
+}
+.img-row{
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+}
+.img-row > img{
+    width: 300px;
+}
+label > sup{
+    color: rgb(56,84,242);
+}
+.phoneFields{
+    display: flex;
+}
+input{
+    border: none !important;
+}
+/*.countryCode{
+    color: #000;
+    font-size: .75rem;
+    appearance: none;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0px;
+    border: none;
+    padding-left: 10px;
+    border-radius: .25rem 0 0 .25rem;
+    position: relative;
 }
 
-body {
-	font-family: montserrat, arial, verdana;
+.countryCode::after{
+    position: absolute;
+    content: "";
+    top: 14px;
+    right: 10px;
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-color: #000 transparent transparent transparent;
+}*/
+
+.phoneFields {
+    position: relative;
 }
-/*form styles*/
-#msform {
-	width: 400px;
-	margin: 50px auto;
-	text-align: center;
-	position: relative;
+.phoneFields select {
+    border: none;
+    color: #495057;
+    font-size: .75rem;
+    padding: 4px 20px 3px 10px;
+    margin: 0;
+    outline:none; /* remove focus ring from Webkit */
+    line-height: 1.2;
+    background: #fff;
+    -webkit-appearance:none; /* remove the strong OSX influence from Webkit */
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: .25rem 0 0 .25rem;
 }
-#msform fieldset {
-	background: white;
-	border: 0 none;
-	border-radius: 3px;
-	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
-	padding: 20px 30px;
-	box-sizing: border-box;
-	width: 80%;
-	margin: 0 10%;
-	
-	/*stacking fieldsets above each other*/
-	position: relative;
+
+/* Since we removed the default focus styles, we have to add our own */
+.phoneFields select:focus {
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+    -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
 }
-/*Hide all except first fieldset*/
-#msform fieldset:not(:first-of-type) {
-	display: none;
+
+/* Select arrow styling */
+.phoneFields::after {
+    content: "▼";
+    position: absolute;
+    top: 10%;
+    left: 55px;
+    font-size: 60%;
+    line-height: 30px;
+    color: #495057;
+    pointer-events:none;
+    padding:2px 25px;
 }
-/*inputs*/
-#msform input, #msform textarea {
-	padding: 15px;
-	border: 1px solid #ccc;
-	border-radius: 3px;
-	margin-bottom: 10px;
-	width: 100%;
-	box-sizing: border-box;
-	font-family: montserrat;
-	color: #2C3E50;
-	font-size: 13px;
+
+.phoneFields > input{
+    border: none;
+    border-radius: 0 .25rem .25rem 0;
 }
-/*buttons*/
-#msform .action-button {
-	width: 100px;
-	background: #27AE60;
-	font-weight: bold;
-	color: white;
-	border: 0 none;
-	border-radius: 1px;
-	cursor: pointer;
-	padding: 10px 5px;
-	margin: 10px 5px;
+
+@media (max-width: 767.98px) {
+    .img-back{
+        height: auto;
+        width: 100%;
+    }
+    .mobile-container{
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    ul{
+        display: grid;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    li{
+        padding: .5rem
+    }
+    li > span {
+        font-size: 2.5rem;
+    }
+    .central{
+        width: 80%;
+    }
+    .phoneFields select{
+        padding: 4px 7px 3px 10px;
+    }
+    .phoneFields::after{
+        left: 49px;
+    }
 }
-#msform .action-button:hover, #msform .action-button:focus {
-	box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
-}
-/*headings*/
-.fs-title {
-	font-size: 15px;
-	text-transform: uppercase;
-	color: #2C3E50;
-	margin-bottom: 10px;
-}
-.fs-subtitle {
-	font-weight: normal;
-	font-size: 13px;
-	color: #666;
-	margin-bottom: 20px;
-}
-/*progressbar*/
-#progressbar {
-	margin-bottom: 30px;
-	overflow: hidden;
-	/*CSS counters to number the steps*/
-	counter-reset: step;
-}
-#progressbar li {
-	list-style-type: none;
-	color: white;
-	text-transform: uppercase;
-	font-size: 9px;
-	width: 25%;
-	float: left;
-	position: relative;
-}
-#progressbar li:before {
-	content: counter(step);
-	counter-increment: step;
-	width: 20px;
-	line-height: 20px;
-	display: block;
-	font-size: 10px;
-	color: #333;
-	background: white;
-	border-radius: 3px;
-	margin: 0 auto 5px auto;
-}
-/*progressbar connectors*/
-#progressbar li:after {
-	content: '';
-	width: 100%;
-	height: 2px;
-	background: white;
-	position: absolute;
-	left: -50%;
-	top: 9px;
-	z-index: -1; /*put it behind the numbers*/
-}
-#progressbar li:first-child:after {
-	/*connector not needed before the first step*/
-	content: none; 
-}
-/*marking active/completed steps green*/
-/*The number of the step and the connector before it = green*/
-#progressbar li.active:before,  #progressbar li.active:after{
-	background: #27AE60;
-	color: white;
+@media (max-width: 991.98px) {
+    .central{
+        width: 70%;
+    }
 }

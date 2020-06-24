@@ -55,8 +55,8 @@
                             personnaliser votre entraînement. Il aura besoin de certaines informations pour bien vous accompagner. 
                             Merci de bien vouloir remplir le questionnaire en cliquant sur le bouton ci-dessous :
                         </p>
-                        <div class="box has-text-centered">
-                            <button type="button" class="btn btn-dark " style="background-color: #276746;">
+                        <div class="box has-text-centered" style="background-color: #276746; box-shadow: unset;">
+                            <button type="button" class="btn btn-dark " style="background-color: #276746;border-color: #F7EED1;">
                                 <a href="https://forms.gle/R2yszeHmvgcrK6Q59" style="font-weight: bold; color: #F7EED1;" target="_blank">
                                     Personnaliser son entraînement
                                 </a>
@@ -64,7 +64,7 @@
                         </div>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4" style="box-shadow: unset;">
                                     <span>Découvrez Julien Chorier</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
@@ -144,7 +144,7 @@ Cette collaboration peut se faire sur un objectif déterminé à court ou moyen 
                             Nous travaillons sur le développement de partenariats avec des professionnels Naturopathe afin d’enrichir chacune des 
                             sessions de stage. Nous vous invitons à consulter régulièrement notre site internet pour être informé.e des dernières évolutions.
                         </p>
-                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-left: 2px;">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -192,7 +192,7 @@ Cette collaboration peut se faire sur un objectif déterminé à court ou moyen 
                         <p class="has-text-justified is-size-5-fullhd mt-4">
                             Nous vous invitons à consulter régulièrement notre site internet pour être informé.e des dernières évolutions.
                         </p>
-                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-left: 2px;">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>

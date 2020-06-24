@@ -15,7 +15,7 @@
     </div>
 
 
-    <div class="columns is-mobile is-multiline has-text-centered bg-col">
+    <div class="columns is-mobile is-multiline has-text-centered bg-col" style="margin-bottom: -1rem;">
         <div class="column is-half-fullhd is-full-touch">
             <h2 style="color: #F7EED1;">Photos</h2>
             <p class="gal-text">Des moments innoubliables</p>

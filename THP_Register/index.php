@@ -1,12 +1,21 @@
 <?php
 
-$nom = htmlspecialchars($_POST['nom']);
-$prenom = htmlspecialchars($_POST['prenom']);
+$firstPost = htmlspecialchars($_POST['firstName']);
+$lastPost = htmlspecialchars($_POST['lastName']);
 $emailPost = htmlspecialchars($_POST['email']);
 $phonePost = htmlspecialchars($_POST['phoneNumber']);
 $companyPost = htmlspecialchars($_POST['company']);
 $jobPost = htmlspecialchars($_POST['job']);
+$countryCodePost = htmlspecialchars($_POST['countryCode']);
+$countryPost = htmlspecialchars($_POST['country']);
+
+$phoneFinal = '+' . ($countryCodePost .' '. $phonePost);
 $resultRegister = '';
+$countryName= '';
+
+$jsonCode = 'country_code.json';
+$jsonData = file_get_contents($jsonCode);
+$countryCode = json_decode($jsonData);
 
 function getUserIpAddr(){
     if(!empty($_SERVER['HTTP_CLIENT_IP'])){
@@ -41,8 +50,9 @@ function getUserIpAddr(){
                 $firstPost,
                 $lastPost,
                 $emailPost,
-                $phonePost,
+                $phoneFinal,
                 $companyPost,
+                $countryPost,
                 $jobPost,
                 $hostname
             );
@@ -57,22 +67,26 @@ function getUserIpAddr(){
             $lines = file($filename);
             $linesNumber = false;
 
-            while (list($key, $line) = each($lines) and !$line_number) {
+            while (list($key, $line) = each($lines) and !$linesNumber) {
 
-                $line_number = (strpos($line, $search) !== FALSE);
+                $linesNumber = (strpos($line, $search) !== FALSE);
              
             }
              
-            if(!$line_number){
+            if(!$linesNumber){
                 fputcsv($datafile, $data, $delimiter, $enclosure);
                 fclose($datafile);
                 $resultRegister = 'success-register';
             } else {
                 $resultRegister = 'error-save';
+                fputcsv($datafile, $data, $delimiter, $enclosure);
+                fclose($datafile);
             }
 
         } else {
             $registerDate = 'error-mail';
+            fputcsv($datafile, $data, $delimiter, $enclosure);
+                fclose($datafile);
         }
     } else {
         $resultRegister = 'error-fill';
@@ -80,89 +94,155 @@ function getUserIpAddr(){
 
 ?>
 
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="./favicon.png" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>THP REGISTER</title>
 
 
 
+  </head>
+  <body>
+    <div class="main">
+        <img src="./glasses.png"  class="img-back" style="z-index: 1">
+        <div class="container mobile-container" style="z-index: 99">
+            <h1>THP REGISTER</h1> 
+            
+            <div class="central">
+                <form action="index.php" method="post">
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputFirstName">Prenom<sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputFirstName" name="firstName" placeholder="Votre Prenom" required>
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputLastName">Nom<sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputLastName" name="lastName" placeholder="Votre Nom" required>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputEmail">Email <sup>*</sup></label>
+                            <input type="email" class="form-control" id="inputEmail" name="email" placeholder="Votre email" required>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="inputPhoneNumber">Numero <sup>*</sup></label>
+                            <div class="phoneFields">
+                                <select name="countryCode" class='countryCode'>
+                                    <option selected value="1">USA +1</option>
+                                    <?php foreach($countryCode as $data){ ?>
+                                    <option value="<?= $data->Dial ?>"><?= $data->ISO3166_1_Alpha_3 .' +'.$data->Dial  ?></option>
+                                    <?php } ?>
+                                </select>
+                                <input type="tel" class="form-control" id="inputPhoneNumber" name="phoneNumber" placeholder="Votre Numéro" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCompany">Lieu</label>
+                        <input type="text" class="form-control" id="inputCompany" name="company" placeholder="Lieu">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputJob">Age</label>
+                        <input type="text" class="form-control" id="inputJob" name="job" placeholder="Age">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCountry">Nationalité <sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="Lieu">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputJob">Age</label>
+                        <input type="text" class="form-control" id="inputJob" name="job" placeholder="Age">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-bambou">S'inscrire</button>
+                </form>
+            </div>
+        </div>
+    </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-
-<!DOCTYPE html>
-<html lang="fr" >
-<head>
-  <meta charset="UTF-8">
-  <title>THP Inscription</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-<link rel="stylesheet" href="./style.css">
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<!-- multistep form -->
-<form id="msform">
-  <!-- progressbar -->
-  <ul id="progressbar">
-    <li class="active">Formulaire d'inscription</li>
-    <li>Option & Mode de Paiement</li>
-    <li>Paiement</li>
-    <li>COnfirmation d'inscription</li>
-  </ul>
-  <!-- fieldsets -->
-  <fieldset>
-    <h2 class="fs-title">Formulaire d'inscription</h2>
-    <h3 class="fs-subtitle">Inscription</h3>
+    <?php 
+    if ($resultRegister == 'success-register') {
+        echo "<script type='text/javascript'>
+                $(function () {
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'You will be notified',
+                        'type': 'success'
+                    })
+                })
+            </script>";
+    } else if($resultRegister == 'error-save') {
+        echo "<script type='text/javascript'>
+                $(function () {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'You can\'t be notified twice',
+                        'type': 'error'
+                    })
+                })
+            </script>";
+    } else if($resultRegister == 'error-mail') {
+        echo "<script type='text/javascript'>
+                $(function () {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Your email is not correct',
+                        'type': 'warning'
+                    })
+                })
+            </script>";
+    } 
+    /*else if($resultRegister == 'error-fill') {
+        echo "<script type='text/javascript'>
+                $(function () {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'They are empty field',
+                        'type': 'warning'
+                    })
+                })
+            </script>";
+    }*/
     
-    <input type="text" name="nom" placeholder="Nom" require>
-    <input type="text" name="prenom" placeholder="Prenom" require>
-    <input type="date" name="naissdate" placeholder="Date de Naissance" require/>
-    <select id="input" name="sexe">
-        <option value="Homme">Homme</option>
-        <option value="Femme">Femme</option>
-    </select>
-    <!--Catégorie-->
-    <!--Nationalité-->
-    <input type="email" name="mail" placeholder="Email" require/>
-    <input type="email" name="mail" placeholder="Confirm Email" require/>
+    ?>
 
-    <input type="password" name="cpass" placeholder="Confirm Password" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    
+    <script language="Javascript">
+        const second = 1000,
+        minute = second * 60,
+        hour = minute * 60,
+        day = hour * 24;
 
-    <h3 class="fs-subtitle">Autre Information</h3>
+    let countDown = new Date('Jun 30, 2020 08:00:00').getTime(),
+        x = setInterval(function() {    
 
-    <input type="submit" name="next" class="next action-button submitdata" value="Suivant" />
+        let now = new Date().getTime(),
+            distance = countDown - now;
 
-  </fieldset>
-  <fieldset>
-    <h2 class="fs-title">Option & Mode de Paiement</h2>
-    <h3 class="fs-subtitle">Your presence on the social network</h3>
-    <input type="text" name="twitter" placeholder="Twitter" />
-    <input type="text" name="facebook" placeholder="Facebook" />
-    <input type="text" name="gplus" placeholder="Google Plus" />
-    <input type="button" name="previous" class="previous action-button" value="Previous" />
-    <input type="button" name="next" class="next action-button" value="Next" />
-  </fieldset>
-  <fieldset>
-    <h2 class="fs-title">Paiement</h2>
-    <h3 class="fs-subtitle">We will never sell it</h3>
-    <input type="text" name="fname" placeholder="First Name" />
-    <input type="text" name="lname" placeholder="Last Name" />
-    <input type="text" name="phone" placeholder="Phone" />
-    <textarea name="address" placeholder="Address"></textarea>
-    <input type="button" name="previous" class="previous action-button" value="Previous" />
-    <input type="button" name="next" class="next action-button" value="Next" />
-  </fieldset>
-  <fieldset>
-    <h2 class="fs-title">Confirmation d'inscription</h2>
-    <h3 class="fs-subtitle">We will never sell it</h3>
-    <input type="text" name="fname" placeholder="First Name" />
-    <input type="text" name="lname" placeholder="Last Name" />
-    <input type="text" name="phone" placeholder="Phone" />
-    <textarea name="address" placeholder="Addresssssss"></textarea>
-    <input type="button" name="previous" class="previous action-button" value="Previous" />
-    <input type="submit" name="submit" class="submit action-button" value="Submit" />
-  </fieldset>
-</form>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js'></script><script  src="./script.js"></script>
-
-</body>
+            document.getElementById('days').innerText = Math.floor(distance / (day)),
+            document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
+            document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
+            document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
+        }, second)
+    </script>
+    
+    
+  </body>
 </html>

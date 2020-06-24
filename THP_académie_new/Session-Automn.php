@@ -36,7 +36,7 @@
                         <h1 class="title">Programme</h1>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4" style="box-shadow: unset;">
                                     <span>Jour 1</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
@@ -61,14 +61,14 @@
                         </div>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu3" style="box-shadow: unset;">
                                     <span>Jour 2</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
                                     </span>
                                 </button>
                             </div>
-                            <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                            <div class="dropdown-menu" id="dropdown-menu3" role="menu">
                                 <div class="dropdown-content">
                                     <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p>• 07h00 - 07h30 Petit-déjeuner<br>
@@ -87,14 +87,14 @@
                         </div>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu6" style="box-shadow: unset;">
                                     <span>Jour 3</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
                                     </span>
                                 </button>
                             </div>
-                            <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                            <div class="dropdown-menu" id="dropdown-menu6" role="menu">
                                 <div class="dropdown-content">
                                     <div class="dropdown-item" onmouseover="this.style.background='#0F5530';">
                                         <p> • 07h00 - 08h00 Séance de Yoga<br>

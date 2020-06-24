@@ -37,7 +37,7 @@
                         <h1 class="title">Programme</h1>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4" >
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4" style="box-shadow: unset;">
                                     <span>Jour 1</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
@@ -59,7 +59,7 @@
                         </div>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu5">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu5" style="box-shadow: unset;">
                                     <span>Jour 2</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
@@ -82,7 +82,7 @@
                         </div>
                         <div class="dropdown is-hoverable">
                             <div class="dropdown-trigger">
-                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu6">
+                                <button class="button" aria-haspopup="true" aria-controls="dropdown-menu6" style="box-shadow: unset;">
                                     <span>Jour 3</span>
                                     <span class="icon is-small">
                                         <i class="fas fa-angle-down" aria-hidden="true"></i>
