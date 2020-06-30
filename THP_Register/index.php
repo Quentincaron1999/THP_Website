@@ -8,6 +8,8 @@ $companyPost = htmlspecialchars($_POST['company']);
 $jobPost = htmlspecialchars($_POST['job']);
 $countryCodePost = htmlspecialchars($_POST['countryCode']);
 $countryPost = htmlspecialchars($_POST['country']);
+$agePost = htmlspecialchars($_POST['age']);
+$postcodePost = htmlspecialchars($_POST['Postcode']);
 
 $phoneFinal = '+' . ($countryCodePost .' '. $phonePost);
 $resultRegister = '';
@@ -16,6 +18,9 @@ $countryName= '';
 $jsonCode = 'country_code.json';
 $jsonData = file_get_contents($jsonCode);
 $countryCode = json_decode($jsonData);
+
+
+
 
 function getUserIpAddr(){
     if(!empty($_SERVER['HTTP_CLIENT_IP'])){
@@ -53,7 +58,9 @@ function getUserIpAddr(){
                 $phoneFinal,
                 $companyPost,
                 $countryPost,
+                $postcodePost,
                 $jobPost,
+                $age,
                 $hostname
             );
 
@@ -86,13 +93,14 @@ function getUserIpAddr(){
         } else {
             $registerDate = 'error-mail';
             fputcsv($datafile, $data, $delimiter, $enclosure);
-                fclose($datafile);
+            fclose($datafile);
         }
     } else {
         $resultRegister = 'error-fill';
     }
 
 ?>
+
 
 <!doctype html>
 <html lang="en">
@@ -147,22 +155,82 @@ function getUserIpAddr(){
                     </div>
                     <div class="form-row">
                         <div class="form-group col-md-6">
-                        <label for="inputCompany">Lieu</label>
-                        <input type="text" class="form-control" id="inputCompany" name="company" placeholder="Lieu">
+                        <label for="inputAdresse">Adresse</label>
+                        <input type="text" class="form-control" id="inputAdresse" name="adresse" placeholder="Adresse">
                         </div>
                         <div class="form-group col-md-6">
-                        <label for="inputJob">Age</label>
-                        <input type="text" class="form-control" id="inputJob" name="job" placeholder="Age">
+                        <label for="inputPostcode">Code Postal</label>
+                        <input type="text" class="form-control" id="inputPostcode" name="Postcode" placeholder="Code Postal">
                         </div>
                     </div>
                     <div class="form-row">
                         <div class="form-group col-md-6">
                         <label for="inputCountry">Nationalité <sup>*</sup></label>
-                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="Lieu">
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="nationalité">
                         </div>
                         <div class="form-group col-md-6">
-                        <label for="inputJob">Age</label>
-                        <input type="text" class="form-control" id="inputJob" name="job" placeholder="Age">
+                        <label for="inputAge">Sexe</label>
+                        <input type="text" class="form-control" id="inputAge" name="age" placeholder="sexe">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCountry">Ville <sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="ville">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputAge">Pays</label>
+                        <input type="text" class="form-control" id="inputAge" name="age" placeholder="pays">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCountry">Langue <sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="fra">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputAge">Vous avez une licence</label>
+                        <input type="text" class="form-control" id="inputAge" name="age" placeholder="oui/non">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCountry">Club <sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="club">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputAge">Entreprise</label>
+                        <input type="text" class="form-control" id="inputAge" name="age" placeholder="entreprise">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCountry">Taille de Textile <sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="xl">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputAge">Contact en cas d'urgence (Nom, prénom)</label>
+                        <input type="text" class="form-control" id="inputAge" name="age" placeholder="urgence">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCountry">Contact en cas d'urgence (Tel)* <sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="+33">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputAge">Avez-vous déjà participé au THP ?</label>
+                        <input type="text" class="form-control" id="inputAge" name="age" placeholder="Oui/non">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                        <label for="inputCountry">Comment avez-vous connu le THP ? <sup>*</sup></label>
+                        <input type="text" class="form-control" id="inputCountry" name="country" placeholder="internet ?">
+                        </div>
+                        <div class="form-group col-md-6">
+                        <label for="inputAge">Avez-vous déjà participé au THP ?</label>
+                        <input type="text" class="form-control" id="inputAge" name="age" placeholder="Oui/non">
                         </div>
                     </div>
                     <button type="submit" class="btn btn-bambou">S'inscrire</button>
@@ -205,43 +273,14 @@ function getUserIpAddr(){
                     })
                 })
             </script>";
-    } 
-    /*else if($resultRegister == 'error-fill') {
-        echo "<script type='text/javascript'>
-                $(function () {
-                    Swal.fire({
-                        icon: 'error',
-                        title: 'They are empty field',
-                        'type': 'warning'
-                    })
-                })
-            </script>";
-    }*/
+    }
     
     ?>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-    
-    <script language="Javascript">
-        const second = 1000,
-        minute = second * 60,
-        hour = minute * 60,
-        day = hour * 24;
-
-    let countDown = new Date('Jun 30, 2020 08:00:00').getTime(),
-        x = setInterval(function() {    
-
-        let now = new Date().getTime(),
-            distance = countDown - now;
-
-            document.getElementById('days').innerText = Math.floor(distance / (day)),
-            document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
-            document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
-            document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
-        }, second)
-    </script>
+    <script src="https://js.stripe.com/v3/"></script>
     
     
   </body>
