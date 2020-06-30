@@ -26,17 +26,17 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 2 : Informations générales de l’Association</h1>
-                        <p class="has-text-justified is-size-5-fullhd mt-4  ">
+                        <p class="has-text-justified is-size-5-fullhd mt-4">
                             Adresse postale du siège social: 8 avenue Eugène Bernard 04300 Forcalquier<br>Numéro de SIRET 798 925 426 00016 <br>Non assujettie à la TVA intracommunautaire<br>
                         </p>
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 3 : Prix</h1>
@@ -48,17 +48,17 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 4 : Inscription et paiement des prestations</h1>
-                        <p class="has-text-justified is-size-5-fullhd mt-4  ">
+                        <p class="has-text-justified is-size-5-fullhd mt-4">
                             L’inscription à la Prestation et son paiement se font en ligne via la plateforme sécurisée de notre prestataire IKINOA. L’inscription est réputée définitive par le règlement total du prix de la Prestation.
                         </p>
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 5 : Modification et annulation</h1>
@@ -73,7 +73,7 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 6 : Droits à l’image</h1>
@@ -85,7 +85,7 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 7 : Droits photos</h1>
@@ -96,7 +96,7 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 8 : Mineurs</h1>
@@ -106,7 +106,7 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 9 : Assurances et responsabilités</h1>
@@ -127,7 +127,7 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 10 : Loi informatique et liberté</h1>
@@ -140,7 +140,7 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 11 : Propriété intellectuelle</h1>
@@ -151,7 +151,7 @@
                     </div>
                 </div>
             </section>
-            <section  class="hero">
+            <section  class="hero" style="margin-top: -4rem;">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class=" ">Article 12 : Contenu du site</h1>
