@@ -112,18 +112,20 @@ function getUserIpAddr(){
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>THP REGISTER</title>
+    <title>THP register</title>
 
 
 
   </head>
   <body>
     <div class="main">
-        <img src="./glasses.png"  class="img-back" style="z-index: 1">
+        <img src="./bg-0.jpg"  class="img-back" style="z-index: 1">
         <div class="container mobile-container" style="z-index: 99">
-            <h1>THP REGISTER</h1> 
-            
-            <div class="central">
+            <h1>THP register</h1> 
+            <div class="container">
+  <div class="row">
+    <div class="col-sm">
+    <div class="central">
                 <form action="index.php" method="post">
                     <div class="form-row">
                         <div class="form-group col-md-6">
@@ -183,7 +185,13 @@ function getUserIpAddr(){
                         <input type="text" class="form-control" id="inputAge" name="age" placeholder="pays">
                         </div>
                     </div>
-                    <div class="form-row">
+                    
+                </form>
+                                    </div>
+    </div>
+    <div class="col-sm">
+    <div class="form-row">
+        <form action="index.php" method="post">
                         <div class="form-group col-md-6">
                         <label for="inputCountry">Langue <sup>*</sup></label>
                         <input type="text" class="form-control" id="inputCountry" name="country" placeholder="fra">
@@ -233,9 +241,14 @@ function getUserIpAddr(){
                         <input type="text" class="form-control" id="inputAge" name="age" placeholder="Oui/non">
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-bambou">S'inscrire</button>
-                </form>
-            </div>
+                                    </form>
+    </div>
+    <div class="col-sm">
+    <button type="submit" class="btn btn-bambou">S'inscrire</button>
+    </div>
+  </div>
+</div>
+            >
         </div>
     </div>
 
