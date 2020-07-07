@@ -5,53 +5,12 @@
 		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 		<link href="style.css" rel="stylesheet">
 		<meta charset="UTF-8">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		
 	</head>
 	
 	<body>
-		<nav class="navbar is-transparent is-fixed-top" style="background-color: rgba(0, 0, 0, 0);">
-			<div class="navbar-brand">
-			  <a class="navbar-item" href="" >
-				<img src="logo.jpg" alt="" width="" height="28">
-			  </a>
-			  <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-				<span></span>
-				<span></span>
-				<span></span>
-			  </div>
-			</div>
-		  
-			<div id="navbarExampleTransparentExample" class="navbar-menu">
-			  <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
-			  <a class="navbar-item titlenav" href="http://www.traildehauteprovence.com/#">
-				  Trail de Haute Provence
-				</a>
-				<a class="navbar-item titlenav" href="https://thprunning.com">
-					THP running
-				  </a>
-				  <a class="navbar-item titlenav" href="https://www.thpwinter.com">
-					THP winter
-				  </a>
-				  <a class="navbar-item titlenav" href="https://www.thpacademie.com">
-					THP académie
-				  </a>
-			  </div>
-		  
-			  <div class="navbar-end">
-				<div class="navbar-item">
-				  <div class="field is-grouped">
-					<p class="control">
-					  <a class="button is-primary is-rounded" href="https://github.com/jgthms/bulma/releases/download/0.9.0/bulma-0.9.0.zip">
-						<span class="icon">
-						  <i class="fas fa-download"></i>
-						</span>
-						<span></span>
-					  </a>
-					</p>
-				  </div>
-				</div>
-			  </div>
-			</div>
-		  </nav>
+		<?php require("components/navbar.php");?>
 		  <section class="hero is-success is-fullheight" style="background-image: url(./bg0.jpg);background-size: cover;background-position: bottom;">
 			<div class="hero-body">
 			  <div class="container" style="text-align: center;">
@@ -59,11 +18,24 @@
 			  </div>
 			</div>
 		  </section>
+		  <div class="video is-full-mobile">
+		  <img src="./logothp.png" class="titleimg" style="height: 15rem;display: block;margin-left: auto;margin-right: auto;margin-top: -23rem; z-index: 20;"></img><br>
+		  <img src="./timer.png" class="titleimg" style="height: 10rem;display: block;margin-left: auto;margin-right: auto;"></img><br>
+		  
+
+<a class="button is-primary is-rounded" style="margin-left: 33rem; opacity: 0.5; background-color: #E84F1B" href="https://thp.reg.livetrail.net/">S'inscrire</a>
+<a class="button is-primary is-rounded" style="background-color: #0975B6" href="http://www.traildehauteprovence.com/#">En savoir plus</a>
+				<iframe class="video-iframe " allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/o92AQ_YUfcs?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=bk4aubRIL-4&amp;controls=0"></iframe>
+					
+				
+				
+    		</div>
 		  <section class="hero is-success is-fullheight" style="background-image: url(./bg1.jpg);background-size: cover;background-position: bottom;">
 			<div class="hero-body">
-			  <div class="container">
-			  	<!--<iframe width="1519" height="553" src="https://www.youtube.com/embed/o92AQ_YUfcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-				<img src="./logothp.png" class="titleimg" style="height: 15rem;display: block;margin-left: auto;margin-right: auto;margin-top: -23rem;"></img><br>
+			  <div class="container" id="bg_container">
+			  
+			  	<!--<iframe id="bg" style="z-index: auto;" width="1519" height="553" src="https://www.youtube.com/embed/o92AQ_YUfcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+				<img src="./logothp.png" class="titleimg" style="height: 15rem;display: block;margin-left: auto;margin-right: auto;margin-top: -23rem; z-index: 20;"></img><br>
 
 				
 				<img src="./timer.png" class="titleimg" style="height: 10rem;display: block;margin-left: auto;margin-right: auto;"></img><br>

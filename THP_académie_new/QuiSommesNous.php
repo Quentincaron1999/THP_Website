@@ -77,11 +77,11 @@
                     <section class="tile-home ipad" style="min-width: 0px;height: 100%;background-repeat: no-repeat;background-size: cover;margin-bottom: 0%;margin-left: 0%;margin-right: 0%;background-color: #276746;">
                         <p class="text-left" style="margin-left: 40px;margin-right: 40px;  font-weight: bold;"><br>Présentation</p>
                         <p class="text-justify" style="margin-left: 2px;margin-right: 0px;"><br>J’ai 38 ans et j’habite à Saint-Thibaud-de-Couz (Savoie) avec ma femme et mes deux petitesfilles. </p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">J’affectionne tout particulièrement cet endroit qui constitue un parfait terrain de jeu pourgambader entre montagnes, forêts et prairies.</p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">De 2003 à 2014, après un doctorat en génie civil, j’ai exercé une activité d’ingénieur enbâtiment.</p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Depuis 2014, je cours et travaille pour la marque HOKA, en tant que capitained’équipe du team trail. </p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">En marge de cela, diplôme d’Accompagnateur Moyenne Montagne enpoche, j’organise et encadre des stages trail, afin de transmettre ma passion et mon expériencede l’ultra.</p>
-                        <p class="text-justify" style="margin-left: 40px;margin-right: 40px;">Cela fait plus de 10ans que je suis athlète professionnel et que j’ai la chance de pouvoir fairede ma passion un métier.<br><br></p>
+                        <p class="text-justify" style="margin-left: 2px;margin-right: 40px;">J’affectionne tout particulièrement cet endroit qui constitue un parfait terrain de jeu pourgambader entre montagnes, forêts et prairies.</p>
+                        <p class="text-justify" style="margin-left: 2px;margin-right: 40px;">De 2003 à 2014, après un doctorat en génie civil, j’ai exercé une activité d’ingénieur enbâtiment.</p>
+                        <p class="text-justify" style="margin-left: 2px;margin-right: 40px;">Depuis 2014, je cours et travaille pour la marque HOKA, en tant que capitained’équipe du team trail. </p>
+                        <p class="text-justify" style="margin-left: 2px;margin-right: 40px;">En marge de cela, diplôme d’Accompagnateur Moyenne Montagne enpoche, j’organise et encadre des stages trail, afin de transmettre ma passion et mon expériencede l’ultra.</p>
+                        <p class="text-justify" style="margin-left: 2px;margin-right: 40px;">Cela fait plus de 10ans que je suis athlète professionnel et que j’ai la chance de pouvoir fairede ma passion un métier.<br><br></p>
                         <p class="text-left" style="margin-left: 40px;margin-right: 40px;  font-weight: bold;"><br>Principaux résultats</p>
                         <p class="text-center" style="margin-left: 40px;margin-right: 40px;  font-weight: bold;margin-bottom: 13px;height: 46px;">Double vainqueur</p>
                         <ul>
@@ -89,11 +89,11 @@
                         </ul>
                         <p class="text-center" style="margin-left: 40px;margin-right: 40px;  font-weight: bold;margin-bottom: 13px;height: 46px;">Vainqueur</p>
                         <ul>
-                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Ultra Trail du Mont Fuji156 km de course, 8 530m D+, Japon<br></li>
-                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Madeira Island Ultra Trail115 km de course, 6 800m D+, Portugal<br></li>
-                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Hardrock Hundred Endurance Run160 km de course, 11 000m D+, USA<br></li>
-                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">La Ronda del Cims178 km de course, 13 000m D+, Andorre<br></li>
-                            <li class="text-left" style="margin-left: 40px;margin-right: 40px;">Verbier X-Alpine111 km de course, 8 400m D+, Suisse<br></li>
+                            <li class="text-left" style="margin-left: 2px;margin-right: 40px;">Ultra Trail du Mont Fuji156 km de course, 8 530m D+, Japon<br></li>
+                            <li class="text-left" style="margin-left: 2px;margin-right: 40px;">Madeira Island Ultra Trail115 km de course, 6 800m D+, Portugal<br></li>
+                            <li class="text-left" style="margin-left: 2px;margin-right: 40px;">Hardrock Hundred Endurance Run160 km de course, 11 000m D+, USA<br></li>
+                            <li class="text-left" style="margin-left: 2px;margin-right: 40px;">La Ronda del Cims178 km de course, 13 000m D+, Andorre<br></li>
+                            <li class="text-left" style="margin-left: 2px;margin-right: 40px;">Verbier X-Alpine111 km de course, 8 400m D+, Suisse<br></li>
                         </ul>
                     </section>
                 </div>
